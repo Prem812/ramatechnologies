@@ -1871,7 +1871,7 @@
 						<div class="header-info-text">
 							<div class="icons-info widget">
 								<div class="icons">
-									<img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="icon" data-lazy-src="wp-content/uploads/2018/08/conversations-4872_af60b258-251e-41af-b238-dfb706d7b3d4.svg" />
+									<img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="icon" data-lazy-src="{{url('frontend/rt-content/uploads/2018/08/conversations-4872_af60b258-251e-41af-b238-dfb706d7b3d4.svg')}}" />
 									<noscript>
 										<img src="{{url('frontend/rt-content/uploads/2018/08/conversations-4872_af60b258-251e-41af-b238-dfb706d7b3d4.svg')}}" alt="icon" />
 									</noscript>
