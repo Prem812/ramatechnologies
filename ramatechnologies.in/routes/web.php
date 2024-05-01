@@ -3,6 +3,11 @@
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\Frontend\HomeController;
 use App\Http\Controllers\Frontend\AboutController;
+use App\Http\Controllers\Frontend\LeadershipController;
+use App\Http\Controllers\Frontend\MissionController;
+use App\Http\Controllers\Frontend\CareerController;
+use App\Http\Controllers\Frontend\FaqController;
+use App\Http\Controllers\Frontend\LocationsController;
 
 /*
 |--------------------------------------------------------------------------
@@ -16,3 +21,8 @@ use App\Http\Controllers\Frontend\AboutController;
 */
 Route::get('/', [HomeController::class, 'index']);
 Route::get('/about', [AboutController::class, 'index']);
+Route::get('/leadership', [LeadershipController::class, 'index']);
+Route::get('/mission', [MissionController::class, 'index']);
+Route::get('/career', [CareerController::class, 'index']);
+Route::get('/faq', [FaqController::class, 'index']);
+Route::get('/locations', [LocationsController::class, 'index']);
