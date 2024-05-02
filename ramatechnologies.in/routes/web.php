@@ -18,6 +18,15 @@ use App\Http\Controllers\Frontend\ItServices\CustomSoftwareController;
 use App\Http\Controllers\Frontend\ItServices\CyberSecurityController;
 use App\Http\Controllers\Frontend\ItServices\ItConsultancyController;
 use App\Http\Controllers\Frontend\ItServices\ItSupportController;
+// industrie controlllers
+use App\Http\Controllers\Frontend\Industries\BankingController;
+use App\Http\Controllers\Frontend\Industries\CapitalMarketController;
+use App\Http\Controllers\Frontend\Industries\EducationController;
+use App\Http\Controllers\Frontend\Industries\EnterpriseTechnologyController;
+use App\Http\Controllers\Frontend\Industries\HealthcareController;
+use App\Http\Controllers\Frontend\Industries\IndustriesController;
+use App\Http\Controllers\Frontend\Industries\LogisticsController;
+use App\Http\Controllers\Frontend\Industries\ManufacturingController;
 
 /*
 |--------------------------------------------------------------------------
@@ -29,6 +38,7 @@ use App\Http\Controllers\Frontend\ItServices\ItSupportController;
 | contains the "web" middleware group. Now create something great!
 |
 */
+
 Route::get('/', [HomeController::class, 'index']);
 // creating company routes
 Route::get('/company/about', [AboutController::class, 'index']);
@@ -39,10 +49,21 @@ Route::get('/company/faq', [FaqController::class, 'index']);
 Route::get('/company/locations', [LocationsController::class, 'index']);
 Route::get('/company/whychooseus', [WhyChooseUsController::class, 'index']);
 // creating it services routes
-Route::get('/itservices/services', [ServicesController::class, 'index']);
+Route::get('/itservices', [ServicesController::class, 'index']);
+// creating it services - types routes
 Route::get('/itservices/managedit', [ManagedItController::class, 'index']);
 Route::get('/itservices/cloudcomputing', [CloudComputingController::class, 'index']);
 Route::get('/itservices/customsoftware', [CustomSoftwareController::class, 'index']);
 Route::get('/itservices/cybersecurity', [CyberSecurityController::class, 'index']);
 Route::get('/itservices/itconsultancy', [ItConsultancyController::class, 'index']);
 Route::get('/itservices/itsupport', [ItSupportController::class, 'index']);
+// creating industries routes
+Route::get('/industries', [IndustriesController::class, 'index']);
+// creating industries and its type routes
+Route::get('/industries/banking', [BankingController::class, 'index']);
+Route::get('/industries/capitalmarket', [CapitalMarketController::class, 'index']);
+Route::get('/industries/education', [EducationController::class, 'index']);
+Route::get('/industries/enterprisetechnology', [EnterpriseTechnologyController::class, 'index']);
+Route::get('/industries/healthcare', [HealthcareController::class, 'index']);
+Route::get('/industries/logistics', [LogisticsController::class, 'index']);
+Route::get('/industries/manufacturing', [ManufacturingController::class, 'index']);
