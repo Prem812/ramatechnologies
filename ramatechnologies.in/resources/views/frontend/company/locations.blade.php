@@ -37,35 +37,26 @@
 																<h3 class="widget-title">Company</h3>
 																<div class="menu-company-container">
 																	<ul id="menu-company" class="menu">
-																		<li id="menu-item-823"
-																			class="menu-item menu-item-type-post_type menu-item-object-page menu-item-823">
-																			<a href="../about/index.html"
-																				data-ps2id-api="true">About</a></li>
-																		<li id="menu-item-826"
-																			class="menu-item menu-item-type-post_type menu-item-object-page menu-item-826">
-																			<a href="../leadership-team/index.html"
-																				data-ps2id-api="true">Leadership</a>
+																		<li id="menu-item-823" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-823">
+																			<a href="{{url('/company/about')}}" data-ps2id-api="true">About</a>
 																		</li>
-																		<li id="menu-item-828"
-																			class="menu-item menu-item-type-post_type menu-item-object-page menu-item-828">
-																			<a href="../mission-vision-and-values/index.html"
-																				data-ps2id-api="true">Mission</a></li>
-																		<li id="menu-item-824"
-																			class="menu-item menu-item-type-post_type menu-item-object-page menu-item-824">
-																			<a href="../careers/index.html"
-																				data-ps2id-api="true">Careers</a></li>
-																		<li id="menu-item-825"
-																			class="menu-item menu-item-type-post_type menu-item-object-page menu-item-825">
-																			<a href="../faq/index.html"
-																				data-ps2id-api="true">FAQ</a></li>
-																		<li id="menu-item-827"
-																			class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-686 current_page_item menu-item-827">
-																			<a href="index.html" aria-current="page"
-																				data-ps2id-api="true">Locations</a></li>
-																		<li id="menu-item-829"
-																			class="menu-item menu-item-type-post_type menu-item-object-page menu-item-829">
-																			<a href="../why-choose-us/index.html"
-																				data-ps2id-api="true">Why Choose Us</a>
+																		<li id="menu-item-826" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-826">
+																			<a href="{{url('/company/leadership')}}" aria-current="page" data-ps2id-api="true">Leadership</a>
+																		</li>
+																		<li id="menu-item-828" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-828">
+																			<a href="{{url('/company/mission')}}" data-ps2id-api="true">Mission</a>
+																		</li>
+																		<li id="menu-item-824" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-824">
+																			<a href="{{url('/company/career')}}" data-ps2id-api="true">Careers</a>
+																		</li>
+																		<li id="menu-item-825" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-825">
+																			<a href="{{url('/company/faq')}}" data-ps2id-api="true">FAQ</a>
+																		</li>
+																		<li id="menu-item-827" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-686 current_page_item menu-item-827">
+																			<a href="#" aria-current="page" data-ps2id-api="true">Locations</a>
+																		</li>
+																		<li id="menu-item-829" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-829">
+																			<a href="{{url('/company/whychooseus')}}" data-ps2id-api="true">Why Choose Us</a>
 																		</li>
 																	</ul>
 																</div>

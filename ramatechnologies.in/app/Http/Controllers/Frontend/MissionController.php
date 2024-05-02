@@ -9,6 +9,6 @@ class MissionController extends Controller
 {
     public function index() 
     {
-        return view('frontend.mission');
+        return view('frontend.company.mission');
     }
 }

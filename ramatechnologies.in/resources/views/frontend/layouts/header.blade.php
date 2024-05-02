@@ -1753,6 +1753,39 @@
 		.vc_custom_1575621435738 {
 			margin-top: -50px !important;
 		}
+		.vc_custom_1575621117687 {
+			background: rgba(0, 0, 0, 0.3) url({{url('frontend/rt-content/uploads/2018/05/rawpixel-com-567026-unsplash1e935.jpg')}}?id=143) !important;
+			background-position: center !important;
+			background-repeat: no-repeat !important;
+			background-size: cover !important;
+			*background-color: rgb(0, 0, 0) !important;
+		}
+
+		.vc_custom_1575621147911 {
+			padding-top: 60px !important;
+			padding-bottom: 80px !important;
+		}
+
+		.vc_custom_1575621170887 {
+			padding-top: 60px !important;
+		}
+
+		.vc_custom_1575621124468 {
+			padding-top: 10% !important;
+			padding-bottom: 10% !important;
+			background-color: rgba(0, 0, 0, 0.3) !important;
+			background-color: rgb(0, 0, 0) !important;
+		}
+
+		.vc_custom_1575621131019 {
+			background-color: rgba(0, 0, 0, 0.3) !important;
+			background-color: rgb(0, 0, 0) !important;
+		}
+
+		.vc_custom_1575621153131 {
+			margin-right: -15px !important;
+			margin-left: -15px !important;
+		}
 	</style>
 	<noscript>
 		<style>
@@ -1814,53 +1847,29 @@
 									Company
 								</a>
 								<ul class="sub-menu">
-									<li id="menu-item-27"
-										class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27">
-										<a href="about/index.html" data-ps2id-api="true">
-											About
-										</a>
+									<li id="menu-item-27" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27">
+										<a href="{{url('/company/about')}}" data-ps2id-api="true">About</a>
 									</li>
-									<li id="menu-item-702"
-										class="menu-item menu-item-type-post_type menu-item-object-page menu-item-702">
-										<a href="mission-vision-and-values/index.html" data-ps2id-api="true">
-											Mission, Vision and Values
-										</a>
+									<li id="menu-item-702" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-702">
+										<a href="{{url('/company/mission')}}" data-ps2id-api="true">Mission, Vision and Values</a>
 									</li>
-									<li id="menu-item-694"
-										class="menu-item menu-item-type-post_type menu-item-object-page menu-item-694">
-										<a href="leadership-team/index.html" data-ps2id-api="true">
-											Leadership Team
-										</a>
+									<li id="menu-item-694" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-694">
+										<a href="{{url('/company/leadership')}}" data-ps2id-api="true">Leadership Team</a>
 									</li>
-									<li id="menu-item-693"
-										class="menu-item menu-item-type-post_type menu-item-object-page menu-item-693">
-										<a href="why-choose-us/index.html" data-ps2id-api="true">
-											Why Choose Us
-										</a>
+									<li id="menu-item-693" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-693">
+										<a href="{{url('/company/whychooseus')}}" data-ps2id-api="true">Why Choose Us</a>
 									</li>
-									<li id="menu-item-695"
-										class="menu-item menu-item-type-post_type menu-item-object-page menu-item-695">
-										<a href="locations/index.html" data-ps2id-api="true">
-											Locations
-										</a>
+									<li id="menu-item-695" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-695">
+										<a href="{{url('/company/locations')}}" data-ps2id-api="true">Locations</a>
 									</li>
-									<li id="menu-item-699"
-										class="menu-item menu-item-type-post_type menu-item-object-page menu-item-699">
-										<a href="faq/index.html" data-ps2id-api="true">
-											FAQ
-										</a>
+									<li id="menu-item-699" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-699">
+										<a href="{{url('/company/faq')}}" data-ps2id-api="true">FAQ</a>
 									</li>
-									<li id="menu-item-705"
-										class="menu-item menu-item-type-post_type menu-item-object-page menu-item-705">
-										<a href="careers/index.html" data-ps2id-api="true">
-											Careers
-										</a>
+									<li id="menu-item-705" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-705">
+										<a href="{{url('/company/career')}}" data-ps2id-api="true">Careers</a>
 									</li>
-									<li id="menu-item-1333"
-										class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1333">
-										<a href="pricing-and-plans/index.html" data-ps2id-api="true">
-											Pricing and plans
-										</a>
+									<li id="menu-item-1333" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1333">
+										<a href="{{url('/company/pricing')}}" data-ps2id-api="true">Pricing and plans</a>
 									</li>
 								</ul>
 							</li>
@@ -2050,45 +2059,29 @@
 									Pages
 								</a>
 								<ul class="sub-menu">
-									<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27">
-										<a href="about/index.html" data-ps2id-api="true">
-											About
-										</a>
+									<li id="menu-item-27" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27">
+										<a href="{{url('/company/about')}}" data-ps2id-api="true">About</a>
 									</li>
-									<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-702">
-										<a href="mission-vision-and-values/index.html" data-ps2id-api="true">
-											Mission, Vision and Values
-										</a>
+									<li id="menu-item-702" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-702">
+										<a href="{{url('/company/mission')}}" data-ps2id-api="true">Mission, Vision and Values</a>
 									</li>
-									<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-694">
-										<a href="leadership-team/index.html" data-ps2id-api="true">
-											Leadership Team
-										</a>
+									<li id="menu-item-694" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-694">
+										<a href="{{url('/company/leadership')}}" data-ps2id-api="true">Leadership Team</a>
 									</li>
-									<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-693">
-										<a href="why-choose-us/index.html" data-ps2id-api="true">
-											Why Choose Us
-										</a>
+									<li id="menu-item-693" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-693">
+										<a href="{{url('/company/whychooseus')}}" data-ps2id-api="true">Why Choose Us</a>
 									</li>
-									<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-695">
-										<a href="locations/index.html" data-ps2id-api="true">
-											Locations
-										</a>
+									<li id="menu-item-695" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-695">
+										<a href="{{url('/company/locations')}}" data-ps2id-api="true">Locations</a>
 									</li>
-									<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-699">
-										<a href="faq/index.html" data-ps2id-api="true">
-											FAQ
-										</a>
+									<li id="menu-item-699" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-699">
+										<a href="{{url('/company/faq')}}" data-ps2id-api="true">FAQ</a>
 									</li>
-									<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-705">
-										<a href="careers/index.html" data-ps2id-api="true">
-											Careers
-										</a>
+									<li id="menu-item-705" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-705">
+										<a href="{{url('/company/career')}}" data-ps2id-api="true">Careers</a>
 									</li>
-									<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1333">
-										<a href="pricing-and-plans/index.html" data-ps2id-api="true">
-											Pricing and plans
-										</a>
+									<li id="menu-item-1333" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1333">
+										<a href="{{url('/company/pricing')}}" data-ps2id-api="true">Pricing and plans</a>
 									</li>
 								</ul>
 							</li>

@@ -9,6 +9,6 @@ class LeadershipController extends Controller
 {
     public function index() 
     {
-        return view('frontend.leadership');
+        return view('frontend.company.leadership');
     }
 }

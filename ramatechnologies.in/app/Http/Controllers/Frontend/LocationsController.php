@@ -9,6 +9,6 @@ class LocationsController extends Controller
 {
     public function index() 
     {
-        return view('frontend.locations');
+        return view('frontend.company.locations');
     }
 }

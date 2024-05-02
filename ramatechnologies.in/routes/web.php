@@ -8,6 +8,9 @@ use App\Http\Controllers\Frontend\MissionController;
 use App\Http\Controllers\Frontend\CareerController;
 use App\Http\Controllers\Frontend\FaqController;
 use App\Http\Controllers\Frontend\LocationsController;
+use App\Http\Controllers\Frontend\WhyChooseUsController;
+// it services controllers
+use App\Http\Controllers\Frontend\ItServices\ManagedItController;
 
 /*
 |--------------------------------------------------------------------------
@@ -20,9 +23,12 @@ use App\Http\Controllers\Frontend\LocationsController;
 |
 */
 Route::get('/', [HomeController::class, 'index']);
-Route::get('/about', [AboutController::class, 'index']);
-Route::get('/leadership', [LeadershipController::class, 'index']);
-Route::get('/mission', [MissionController::class, 'index']);
-Route::get('/career', [CareerController::class, 'index']);
-Route::get('/faq', [FaqController::class, 'index']);
-Route::get('/locations', [LocationsController::class, 'index']);
+Route::get('/company/about', [AboutController::class, 'index']);
+Route::get('/company/leadership', [LeadershipController::class, 'index']);
+Route::get('/company/mission', [MissionController::class, 'index']);
+Route::get('/company/career', [CareerController::class, 'index']);
+Route::get('/company/faq', [FaqController::class, 'index']);
+Route::get('/company/locations', [LocationsController::class, 'index']);
+Route::get('/company/whychooseus', [WhyChooseUsController::class, 'index']);
+// creating it services routes
+Route::get('/itservices/managedit', [ManagedItController::class, 'index']);
