@@ -42,9 +42,9 @@
 														<div class="box-icon"><img decoding="async"
 																src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
 																alt="Managed IT services"
-																data-lazy-src="../wp-content/uploads/2018/08/syncing-document-4157_bf6a2cf1-26c8-4688-ab14-85836d2a0562.svg" /><noscript><img
+																data-lazy-src="{{url('frontend/rt-content/uploads/2018/08/syncing-document-4157_bf6a2cf1-26c8-4688-ab14-85836d2a0562.svg')}}" /><noscript><img
 																	decoding="async"
-																	src="../wp-content/uploads/2018/08/syncing-document-4157_bf6a2cf1-26c8-4688-ab14-85836d2a0562.svg"
+																	src="{{url('frontend/rt-content/uploads/2018/08/syncing-document-4157_bf6a2cf1-26c8-4688-ab14-85836d2a0562.svg')}}"
 																	alt="Managed IT services" /></noscript></div>
 
 														<div class="box-readmore">
@@ -72,9 +72,9 @@
 														<div class="box-icon"><img decoding="async"
 																src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
 																alt="Cloud computing"
-																data-lazy-src="../wp-content/uploads/2018/08/ssd-storage-1951_0cd86b60-9df8-4053-9198-84f76027d5de.svg" /><noscript><img
+																data-lazy-src="{{url('frontend/rt-content/uploads/2018/08/ssd-storage-1951_0cd86b60-9df8-4053-9198-84f76027d5de.svg')}}" /><noscript><img
 																	decoding="async"
-																	src="../wp-content/uploads/2018/08/ssd-storage-1951_0cd86b60-9df8-4053-9198-84f76027d5de.svg"
+																	src="{{url('frontend/rt-content/uploads/2018/08/ssd-storage-1951_0cd86b60-9df8-4053-9198-84f76027d5de.svg')}}"
 																	alt="Cloud computing" /></noscript></div>
 
 														<div class="box-readmore">
@@ -102,9 +102,9 @@
 														<div class="box-icon"><img decoding="async"
 																src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
 																alt="Cyber security"
-																data-lazy-src="../wp-content/uploads/2018/08/private-folder-4136_9a670d06-eeb7-4508-8533-143953499f9e.svg" /><noscript><img
+																data-lazy-src="{{url('frontend/rt-content/uploads/2018/08/private-folder-4136_9a670d06-eeb7-4508-8533-143953499f9e.svg')}}" /><noscript><img
 																	decoding="async"
-																	src="../wp-content/uploads/2018/08/private-folder-4136_9a670d06-eeb7-4508-8533-143953499f9e.svg"
+																	src="{{url('frontend/rt-content/uploads/2018/08/private-folder-4136_9a670d06-eeb7-4508-8533-143953499f9e.svg')}}"
 																	alt="Cyber security" /></noscript></div>
 
 														<div class="box-readmore">
@@ -137,9 +137,9 @@
 														<div class="box-icon"><img decoding="async"
 																src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
 																alt="IT Support"
-																data-lazy-src="../wp-content/uploads/2018/09/lifebelt-3318_6c405c0e-728d-43f8-be45-014b6eca22b2.svg" /><noscript><img
+																data-lazy-src="{{url('frontend/rt-content/uploads/2018/09/lifebelt-3318_6c405c0e-728d-43f8-be45-014b6eca22b2.svg')}}" /><noscript><img
 																	decoding="async"
-																	src="../wp-content/uploads/2018/09/lifebelt-3318_6c405c0e-728d-43f8-be45-014b6eca22b2.svg"
+																	src="{{url('frontend/rt-content/uploads/2018/09/lifebelt-3318_6c405c0e-728d-43f8-be45-014b6eca22b2.svg')}}"
 																	alt="IT Support" /></noscript></div>
 
 														<div class="box-readmore">
@@ -167,9 +167,9 @@
 														<div class="box-icon"><img decoding="async"
 																src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
 																alt="IT Consultancy"
-																data-lazy-src="../wp-content/uploads/2018/09/messaging-app-4876_37066b6f-8fe4-4951-b968-319b79e3f6ad.svg" /><noscript><img
+																data-lazy-src="{{url('frontend/rt-content/uploads/2018/09/messaging-app-4876_37066b6f-8fe4-4951-b968-319b79e3f6ad.svg')}}" /><noscript><img
 																	decoding="async"
-																	src="../wp-content/uploads/2018/09/messaging-app-4876_37066b6f-8fe4-4951-b968-319b79e3f6ad.svg"
+																	src="{{url('frontend/rt-content/uploads/2018/09/messaging-app-4876_37066b6f-8fe4-4951-b968-319b79e3f6ad.svg')}}"
 																	alt="IT Consultancy" /></noscript></div>
 
 														<div class="box-readmore">
@@ -197,9 +197,9 @@
 														<div class="box-icon"><img decoding="async"
 																src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
 																alt="Custom Software"
-																data-lazy-src="../wp-content/uploads/2018/09/data-app-1919_c3f274cb-0fcd-42a4-8981-c10446e64ed9.svg" /><noscript><img
+																data-lazy-src="{{url('frontend/rt-content/uploads/2018/09/data-app-1919_c3f274cb-0fcd-42a4-8981-c10446e64ed9.svg')}}" /><noscript><img
 																	decoding="async"
-																	src="../wp-content/uploads/2018/09/data-app-1919_c3f274cb-0fcd-42a4-8981-c10446e64ed9.svg"
+																	src="{{url('frontend/rt-content/uploads/2018/09/data-app-1919_c3f274cb-0fcd-42a4-8981-c10446e64ed9.svg')}}"
 																	alt="Custom Software" /></noscript></div>
 
 														<div class="box-readmore">

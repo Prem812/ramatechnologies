@@ -156,9 +156,9 @@
 															<div class="counter-image"><img decoding="async"
 																	src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
 																	alt="Years experience"
-																	data-lazy-src="../../wp-content/uploads/2018/08/royal-2995_51c8d05c-efe9-46d9-9a17-4b4e8fccfaad.svg" /><noscript><img
+																	data-lazy-src="{{url('frontend/rt-content/uploads/2018/08/royal-2995_51c8d05c-efe9-46d9-9a17-4b4e8fccfaad.svg')}}" /><noscript><img
 																		decoding="async"
-																		src="../../wp-content/uploads/2018/08/royal-2995_51c8d05c-efe9-46d9-9a17-4b4e8fccfaad.svg"
+																		src="{{url('frontend/rt-content/uploads/2018/08/royal-2995_51c8d05c-efe9-46d9-9a17-4b4e8fccfaad.svg')}}"
 																		alt="Years experience" /></noscript></div>
 															<div class="counter-detail">
 																<h3 class="counter-content">
@@ -182,9 +182,9 @@
 															<div class="counter-image"><img decoding="async"
 																	src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
 																	alt="Certified experts"
-																	data-lazy-src="../../wp-content/uploads/2018/09/diploma-2983_a6bb0b64-dbc1-431e-ac00-a83597982a0.svg" /><noscript><img
+																	data-lazy-src="{{url('frontend/rt-content/uploads/2018/09/diploma-2983_a6bb0b64-dbc1-431e-ac00-a83597982a0.svg')}}" /><noscript><img
 																		decoding="async"
-																		src="../../wp-content/uploads/2018/09/diploma-2983_a6bb0b64-dbc1-431e-ac00-a83597982a0.svg"
+																		src="{{url('frontend/rt-content/uploads/2018/09/diploma-2983_a6bb0b64-dbc1-431e-ac00-a83597982a0.svg')}}"
 																		alt="Certified experts" /></noscript></div>
 															<div class="counter-detail">
 																<h3 class="counter-content">
@@ -208,9 +208,9 @@
 															<div class="counter-image"><img decoding="async"
 																	src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
 																	alt="End user satisfaction"
-																	data-lazy-src="../../wp-content/uploads/2018/08/user-group-2874_87351201-7b45-463a-9b86-0ebd80aa8fa0.svg" /><noscript><img
+																	data-lazy-src="{{url('frontend/rt-content/uploads/2018/08/user-group-2874_87351201-7b45-463a-9b86-0ebd80aa8fa0.svg')}}" /><noscript><img
 																		decoding="async"
-																		src="../../wp-content/uploads/2018/08/user-group-2874_87351201-7b45-463a-9b86-0ebd80aa8fa0.svg"
+																		src="{{url('frontend/rt-content/uploads/2018/08/user-group-2874_87351201-7b45-463a-9b86-0ebd80aa8fa0.svg')}}"
 																		alt="End user satisfaction" /></noscript></div>
 															<div class="counter-detail">
 																<h3 class="counter-content">
@@ -234,9 +234,9 @@
 															<div class="counter-image"><img decoding="async"
 																	src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
 																	alt="Global reach"
-																	data-lazy-src="../../wp-content/uploads/2018/09/world-map-826_e5eaf722-e834-484a-b7a6-0b1f4ab98ee.svg" /><noscript><img
+																	data-lazy-src="{{url('frontend/rt-content/uploads/2018/09/world-map-826_e5eaf722-e834-484a-b7a6-0b1f4ab98ee.svg')}}" /><noscript><img
 																		decoding="async"
-																		src="../../wp-content/uploads/2018/09/world-map-826_e5eaf722-e834-484a-b7a6-0b1f4ab98ee.svg"
+																		src="{{url('frontend/rt-content/uploads/2018/09/world-map-826_e5eaf722-e834-484a-b7a6-0b1f4ab98ee.svg')}}"
 																		alt="Global reach" /></noscript></div>
 															<div class="counter-detail">
 																<h3 class="counter-content">
@@ -260,9 +260,9 @@
 															<div class="counter-image"><img decoding="async"
 																	src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
 																	alt="Service desk"
-																	data-lazy-src="../../wp-content/uploads/2018/09/headphones-user-5252_ca8ffcdb-4e36-4baa-8e93-4fb725476d7.svg" /><noscript><img
+																	data-lazy-src="{{url('frontend/rt-content/uploads/2018/09/headphones-user-5252_ca8ffcdb-4e36-4baa-8e93-4fb725476d7.svg')}}" /><noscript><img
 																		decoding="async"
-																		src="../../wp-content/uploads/2018/09/headphones-user-5252_ca8ffcdb-4e36-4baa-8e93-4fb725476d7.svg"
+																		src="{{url('frontend/rt-content/uploads/2018/09/headphones-user-5252_ca8ffcdb-4e36-4baa-8e93-4fb725476d7.svg')}}"
 																		alt="Service desk" /></noscript></div>
 															<div class="counter-detail">
 																<h3 class="counter-content">
@@ -328,9 +328,9 @@
 																			decoding="async"
 																			src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
 																			alt="router-1807_67aa302b-3a94-46a7-aa3d-66b8928a87d7"
-																			data-lazy-src="../../wp-content/uploads/2018/09/router-1807_67aa302b-3a94-46a7-aa3d-66b8928a87d7.svg" /><noscript><img
+																			data-lazy-src="{{url('frontend/rt-content/uploads/2018/09/router-1807_67aa302b-3a94-46a7-aa3d-66b8928a87d7.svg')}}" /><noscript><img
 																				decoding="async"
-																				src="../../wp-content/uploads/2018/09/router-1807_67aa302b-3a94-46a7-aa3d-66b8928a87d7.svg"
+																				src="{{url('frontend/rt-content/uploads/2018/09/router-1807_67aa302b-3a94-46a7-aa3d-66b8928a87d7.svg')}}"
 																				alt="router-1807_67aa302b-3a94-46a7-aa3d-66b8928a87d7" /></noscript>
 																	</div>
 																	<div class="iconlist-item-content">
@@ -350,9 +350,9 @@
 																			decoding="async"
 																			src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
 																			alt="telephone-operator-4682_c9489618-836b-47ec-8489-e15f613cb10c"
-																			data-lazy-src="../../wp-content/uploads/2018/09/telephone-operator-4682_c9489618-836b-47ec-8489-e15f613cb10c.svg" /><noscript><img
+																			data-lazy-src="{{url('frontend/rt-content/uploads/2018/09/telephone-operator-4682_c9489618-836b-47ec-8489-e15f613cb10c.svg')}}" /><noscript><img
 																				decoding="async"
-																				src="../../wp-content/uploads/2018/09/telephone-operator-4682_c9489618-836b-47ec-8489-e15f613cb10c.svg"
+																				src="{{url('frontend/rt-content/uploads/2018/09/telephone-operator-4682_c9489618-836b-47ec-8489-e15f613cb10c.svg')}}"
 																				alt="telephone-operator-4682_c9489618-836b-47ec-8489-e15f613cb10c" /></noscript>
 																	</div>
 																	<div class="iconlist-item-content">
@@ -372,9 +372,9 @@
 																			decoding="async"
 																			src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
 																			alt="computer-network-1878_39828809-88f9-48e1-9a76-61c99401ec99"
-																			data-lazy-src="../../wp-content/uploads/2018/09/computer-network-1878_39828809-88f9-48e1-9a76-61c99401ec99.svg" /><noscript><img
+																			data-lazy-src="{{url('frontend/rt-content/uploads/2018/09/computer-network-1878_39828809-88f9-48e1-9a76-61c99401ec99.svg')}}" /><noscript><img
 																				decoding="async"
-																				src="../../wp-content/uploads/2018/09/computer-network-1878_39828809-88f9-48e1-9a76-61c99401ec99.svg"
+																				src="{{url('frontend/rt-content/uploads/2018/09/computer-network-1878_39828809-88f9-48e1-9a76-61c99401ec99.svg')}}"
 																				alt="computer-network-1878_39828809-88f9-48e1-9a76-61c99401ec99" /></noscript>
 																	</div>
 																	<div class="iconlist-item-content">
@@ -395,9 +395,9 @@
 																			decoding="async"
 																			src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
 																			alt="settings-server-1872_2e41baf2-8789-4215-b430-db35c3899936"
-																			data-lazy-src="../../wp-content/uploads/2018/09/settings-server-1872_2e41baf2-8789-4215-b430-db35c3899936.svg" /><noscript><img
+																			data-lazy-src="{{url('frontend/rt-content/uploads/2018/09/settings-server-1872_2e41baf2-8789-4215-b430-db35c3899936.svg')}}" /><noscript><img
 																				decoding="async"
-																				src="../../wp-content/uploads/2018/09/settings-server-1872_2e41baf2-8789-4215-b430-db35c3899936.svg"
+																				src="{{url('frontend/rt-content/uploads/2018/09/settings-server-1872_2e41baf2-8789-4215-b430-db35c3899936.svg')}}"
 																				alt="settings-server-1872_2e41baf2-8789-4215-b430-db35c3899936" /></noscript>
 																	</div>
 																	<div class="iconlist-item-content">
@@ -417,9 +417,9 @@
 																			decoding="async"
 																			src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
 																			alt="source-code-1754_2b435bd8-ce76-4910-8137-7d07a3557fa3"
-																			data-lazy-src="../../wp-content/uploads/2018/09/source-code-1754_2b435bd8-ce76-4910-8137-7d07a3557fa3.svg" /><noscript><img
+																			data-lazy-src="{{url('frontend/rt-content/uploads/2018/09/source-code-1754_2b435bd8-ce76-4910-8137-7d07a3557fa3.svg')}}" /><noscript><img
 																				decoding="async"
-																				src="../../wp-content/uploads/2018/09/source-code-1754_2b435bd8-ce76-4910-8137-7d07a3557fa3.svg"
+																				src="{{url('frontend/rt-content/uploads/2018/09/source-code-1754_2b435bd8-ce76-4910-8137-7d07a3557fa3.svg')}}"
 																				alt="source-code-1754_2b435bd8-ce76-4910-8137-7d07a3557fa3" /></noscript>
 																	</div>
 																	<div class="iconlist-item-content">
@@ -440,9 +440,9 @@
 																			decoding="async"
 																			src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
 																			alt="add-image-5030_dcf585b8-8f3d-48ad-8579-a4ad56d14ba6"
-																			data-lazy-src="../../wp-content/uploads/2018/09/add-image-5030_dcf585b8-8f3d-48ad-8579-a4ad56d14ba6.svg" /><noscript><img
+																			data-lazy-src="{{url('frontend/rt-content/uploads/2018/09/add-image-5030_dcf585b8-8f3d-48ad-8579-a4ad56d14ba6.svg')}}" /><noscript><img
 																				decoding="async"
-																				src="../../wp-content/uploads/2018/09/add-image-5030_dcf585b8-8f3d-48ad-8579-a4ad56d14ba6.svg"
+																				src="{{url('frontend/rt-content/uploads/2018/09/add-image-5030_dcf585b8-8f3d-48ad-8579-a4ad56d14ba6.svg')}}"
 																				alt="add-image-5030_dcf585b8-8f3d-48ad-8579-a4ad56d14ba6" /></noscript>
 																	</div>
 																	<div class="iconlist-item-content">

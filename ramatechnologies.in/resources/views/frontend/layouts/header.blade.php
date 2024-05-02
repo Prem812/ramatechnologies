@@ -1786,6 +1786,814 @@
 			margin-right: -15px !important;
 			margin-left: -15px !important;
 		}
+		.vc_custom_1575621869869 {
+			background: #1dc2ef url({{url('frontend/rt-content/uploads/2018/08/slider-12bab.jpg')}}?id=1059) !important;
+			background-position: center !important;
+			background-repeat: no-repeat !important;
+			background-size: cover !important;
+		}
+
+		.vc_custom_1575621887487 {
+			padding-bottom: 60px !important;
+		}
+
+		.vc_custom_1575621916421 {
+			padding-top: 80px !important;
+			padding-bottom: 30px !important;
+			background-color: #181223 !important;
+		}
+
+		.vc_custom_1575621929037 {
+			padding-top: 80px !important;
+			padding-bottom: 80px !important;
+		}
+
+		.vc_custom_1575621943152 {
+			background: #fc766a url(https://live.21lab.co/nanosoft/wp-content/uploads/2018/08/job12-279-chim-01065.jpg?id=1062) !important;
+			background-position: center !important;
+			background-repeat: no-repeat !important;
+			background-size: cover !important;
+		}
+
+		.vc_custom_1575621959890 {
+			padding-top: 80px !important;
+		}
+
+		.vc_custom_1575621878884 {
+			padding-top: 120px !important;
+			padding-bottom: 100px !important;
+		}
+
+		.vc_custom_1536309433909 {
+			margin-left: 3px !important;
+		}
+
+		.vc_custom_1540396601278 {
+			margin-bottom: 50px !important;
+			margin-left: 5px !important;
+			padding-top: 15px !important;
+		}
+
+		.vc_custom_1540432093539 {
+			margin-left: 3px !important;
+		}
+
+		.vc_custom_1575621899399 {
+			padding-top: 80px !important;
+		}
+
+		.vc_custom_1536322833940 {
+			padding-top: 15% !important;
+			padding-right: 10% !important;
+			padding-bottom: 15% !important;
+			padding-left: 10% !important;
+			background-color: #f3f6f9 !important;
+			border-radius: 5px !important;
+		}
+
+		.vc_custom_1536322962219 {
+			padding-top: 15% !important;
+			padding-right: 10% !important;
+			padding-bottom: 15% !important;
+			padding-left: 10% !important;
+			background-color: #f3f6f9 !important;
+			border-radius: 5px !important;
+		}
+
+		.vc_custom_1536322997713 {
+			padding-top: 15% !important;
+			padding-right: 10% !important;
+			padding-bottom: 15% !important;
+			padding-left: 10% !important;
+			background-color: #f3f6f9 !important;
+			border-radius: 5px !important;
+		}
+
+		.vc_custom_1536323036950 {
+			padding-top: 15% !important;
+			padding-right: 10% !important;
+			padding-bottom: 15% !important;
+			padding-left: 10% !important;
+			background-color: #f3f6f9 !important;
+			border-radius: 5px !important;
+		}
+
+		.vc_custom_1536323065309 {
+			padding-top: 15% !important;
+			padding-right: 10% !important;
+			padding-bottom: 15% !important;
+			padding-left: 10% !important;
+			background-color: #f3f6f9 !important;
+			border-radius: 5px !important;
+		}
+
+		.vc_custom_1536205294665 {
+			border-top-width: 7px !important;
+			border-top-color: #ff4b36 !important;
+			border-top-style: solid !important;
+		}
+
+		.vc_custom_1536205301947 {
+			border-top-width: 7px !important;
+			border-top-color: #ff4b36 !important;
+			border-top-style: solid !important;
+		}
+
+		.vc_custom_1536205308214 {
+			border-top-width: 7px !important;
+			border-top-color: #ff4b36 !important;
+			border-top-style: solid !important;
+		}
+
+		.vc_custom_1536205314909 {
+			border-top-width: 7px !important;
+			border-top-color: #ff4b36 !important;
+			border-top-style: solid !important;
+		}
+
+		.vc_custom_1536205321845 {
+			border-top-width: 7px !important;
+			border-top-color: #ff4b36 !important;
+			border-top-style: solid !important;
+		}
+
+		.vc_custom_1575621954362 {
+			padding-top: 120px !important;
+			padding-bottom: 120px !important;
+		}
+		.vc_custom_1575622052260 {
+			background: #fc766a url({{url('frontend/rt-content/uploads/2018/09/8721a.jpg')}}?id=1359) !important;
+			background-position: center !important;
+			background-repeat: no-repeat !important;
+			background-size: cover !important;
+		}
+
+		.vc_custom_1575622070492 {
+			padding-bottom: 60px !important;
+		}
+
+		.vc_custom_1575622079392 {
+			padding-top: 80px !important;
+			padding-bottom: 30px !important;
+			background-color: #181223 !important;
+		}
+
+		.vc_custom_1575622086300 {
+			padding-top: 80px !important;
+			padding-bottom: 80px !important;
+		}
+
+		.vc_custom_1575622095321 {
+			background: #fc766a url(https://live.21lab.co/nanosoft/wp-content/uploads/2018/08/job12-279-chim-01065.jpg?id=1062) !important;
+			background-position: center !important;
+			background-repeat: no-repeat !important;
+			background-size: cover !important;
+		}
+
+		.vc_custom_1575622100965 {
+			padding-top: 80px !important;
+		}
+
+		.vc_custom_1575622061060 {
+			padding-top: 120px !important;
+			padding-bottom: 100px !important;
+		}
+
+		.vc_custom_1536309433909 {
+			margin-left: 3px !important;
+		}
+
+		.vc_custom_1540432371541 {
+			margin-bottom: 50px !important;
+			margin-left: 5px !important;
+			padding-top: 15px !important;
+		}
+
+		.vc_custom_1540432167152 {
+			margin-left: 3px !important;
+		}
+
+		.vc_custom_1536322833940 {
+			padding-top: 15% !important;
+			padding-right: 10% !important;
+			padding-bottom: 15% !important;
+			padding-left: 10% !important;
+			background-color: #f3f6f9 !important;
+			border-radius: 5px !important;
+		}
+
+		.vc_custom_1536322962219 {
+			padding-top: 15% !important;
+			padding-right: 10% !important;
+			padding-bottom: 15% !important;
+			padding-left: 10% !important;
+			background-color: #f3f6f9 !important;
+			border-radius: 5px !important;
+		}
+
+		.vc_custom_1536322997713 {
+			padding-top: 15% !important;
+			padding-right: 10% !important;
+			padding-bottom: 15% !important;
+			padding-left: 10% !important;
+			background-color: #f3f6f9 !important;
+			border-radius: 5px !important;
+		}
+
+		.vc_custom_1536323036950 {
+			padding-top: 15% !important;
+			padding-right: 10% !important;
+			padding-bottom: 15% !important;
+			padding-left: 10% !important;
+			background-color: #f3f6f9 !important;
+			border-radius: 5px !important;
+		}
+
+		.vc_custom_1536323065309 {
+			padding-top: 15% !important;
+			padding-right: 10% !important;
+			padding-bottom: 15% !important;
+			padding-left: 10% !important;
+			background-color: #f3f6f9 !important;
+			border-radius: 5px !important;
+		}
+
+		.vc_custom_1536205294665 {
+			border-top-width: 7px !important;
+			border-top-color: #ff4b36 !important;
+			border-top-style: solid !important;
+		}
+
+		.vc_custom_1536205301947 {
+			border-top-width: 7px !important;
+			border-top-color: #ff4b36 !important;
+			border-top-style: solid !important;
+		}
+
+		.vc_custom_1536205308214 {
+			border-top-width: 7px !important;
+			border-top-color: #ff4b36 !important;
+			border-top-style: solid !important;
+		}
+
+		.vc_custom_1536205314909 {
+			border-top-width: 7px !important;
+			border-top-color: #ff4b36 !important;
+			border-top-style: solid !important;
+		}
+
+		.vc_custom_1536205321845 {
+			border-top-width: 7px !important;
+			border-top-color: #ff4b36 !important;
+			border-top-style: solid !important;
+		}
+
+		.vc_custom_1575622220847 {
+			padding-top: 120px !important;
+			padding-bottom: 120px !important;
+		}
+				.vc_custom_1575622476824 {
+			background: #0a2044 url({{url('frontend/rt-content/uploads/2018/09/1058e4.jpg')}}?id=1363) !important;
+			background-position: center !important;
+			background-repeat: no-repeat !important;
+			background-size: cover !important;
+		}
+
+		.vc_custom_1575621887487 {
+			padding-bottom: 60px !important;
+		}
+
+		.vc_custom_1575621916421 {
+			padding-top: 80px !important;
+			padding-bottom: 30px !important;
+			background-color: #181223 !important;
+		}
+
+		.vc_custom_1575621929037 {
+			padding-top: 80px !important;
+			padding-bottom: 80px !important;
+		}
+
+		.vc_custom_1575621943152 {
+			background: #fc766a url(https://live.21lab.co/nanosoft/wp-content/uploads/2018/08/job12-279-chim-01065.jpg?id=1062) !important;
+			background-position: center !important;
+			background-repeat: no-repeat !important;
+			background-size: cover !important;
+		}
+
+		.vc_custom_1575621959890 {
+			padding-top: 80px !important;
+		}
+
+		.vc_custom_1575622492915 {
+			padding-top: 120px !important;
+			padding-bottom: 100px !important;
+			background-color: rgba(10, 32, 68, 0.7) !important;
+			*background-color: rgb(10, 32, 68) !important;
+		}
+
+		.vc_custom_1536309433909 {
+			margin-left: 3px !important;
+		}
+
+		.vc_custom_1540432882259 {
+			margin-bottom: 50px !important;
+			margin-left: 5px !important;
+			padding-top: 15px !important;
+		}
+
+		.vc_custom_1540432852992 {
+			margin-left: 3px !important;
+		}
+
+		.vc_custom_1575621899399 {
+			padding-top: 80px !important;
+		}
+
+		.vc_custom_1536322833940 {
+			padding-top: 15% !important;
+			padding-right: 10% !important;
+			padding-bottom: 15% !important;
+			padding-left: 10% !important;
+			background-color: #f3f6f9 !important;
+			border-radius: 5px !important;
+		}
+
+		.vc_custom_1536322962219 {
+			padding-top: 15% !important;
+			padding-right: 10% !important;
+			padding-bottom: 15% !important;
+			padding-left: 10% !important;
+			background-color: #f3f6f9 !important;
+			border-radius: 5px !important;
+		}
+
+		.vc_custom_1536322997713 {
+			padding-top: 15% !important;
+			padding-right: 10% !important;
+			padding-bottom: 15% !important;
+			padding-left: 10% !important;
+			background-color: #f3f6f9 !important;
+			border-radius: 5px !important;
+		}
+
+		.vc_custom_1536323036950 {
+			padding-top: 15% !important;
+			padding-right: 10% !important;
+			padding-bottom: 15% !important;
+			padding-left: 10% !important;
+			background-color: #f3f6f9 !important;
+			border-radius: 5px !important;
+		}
+
+		.vc_custom_1536323065309 {
+			padding-top: 15% !important;
+			padding-right: 10% !important;
+			padding-bottom: 15% !important;
+			padding-left: 10% !important;
+			background-color: #f3f6f9 !important;
+			border-radius: 5px !important;
+		}
+
+		.vc_custom_1536205294665 {
+			border-top-width: 7px !important;
+			border-top-color: #ff4b36 !important;
+			border-top-style: solid !important;
+		}
+
+		.vc_custom_1536205301947 {
+			border-top-width: 7px !important;
+			border-top-color: #ff4b36 !important;
+			border-top-style: solid !important;
+		}
+
+		.vc_custom_1536205308214 {
+			border-top-width: 7px !important;
+			border-top-color: #ff4b36 !important;
+			border-top-style: solid !important;
+		}
+
+		.vc_custom_1536205314909 {
+			border-top-width: 7px !important;
+			border-top-color: #ff4b36 !important;
+			border-top-style: solid !important;
+		}
+
+		.vc_custom_1536205321845 {
+			border-top-width: 7px !important;
+			border-top-color: #ff4b36 !important;
+			border-top-style: solid !important;
+		}
+
+		.vc_custom_1575621954362 {
+			padding-top: 120px !important;
+			padding-bottom: 120px !important;
+		}
+				.vc_custom_1575622701158 {
+			background: #1dc2ef url({{url('frontend/rt-content/uploads/2018/08/slider-12bab.jpg')}}?id=1059) !important;
+			background-position: center !important;
+			background-repeat: no-repeat !important;
+			background-size: cover !important;
+		}
+
+		.vc_custom_1575621887487 {
+			padding-bottom: 60px !important;
+		}
+
+		.vc_custom_1575621916421 {
+			padding-top: 80px !important;
+			padding-bottom: 30px !important;
+			background-color: #181223 !important;
+		}
+
+		.vc_custom_1575621929037 {
+			padding-top: 80px !important;
+			padding-bottom: 80px !important;
+		}
+
+		.vc_custom_1575621943152 {
+			background: #fc766a url(https://live.21lab.co/nanosoft/wp-content/uploads/2018/08/job12-279-chim-01065.jpg?id=1062) !important;
+			background-position: center !important;
+			background-repeat: no-repeat !important;
+			background-size: cover !important;
+		}
+
+		.vc_custom_1575621959890 {
+			padding-top: 80px !important;
+		}
+
+		.vc_custom_1575622707819 {
+			padding-top: 120px !important;
+			padding-bottom: 100px !important;
+		}
+
+		.vc_custom_1536331299147 {
+			margin-left: 3px !important;
+		}
+
+		.vc_custom_1540433674448 {
+			margin-bottom: 50px !important;
+			margin-left: 5px !important;
+			padding-top: 15px !important;
+		}
+
+		.vc_custom_1540433647655 {
+			margin-left: 3px !important;
+		}
+
+		.vc_custom_1575621899399 {
+			padding-top: 80px !important;
+		}
+
+		.vc_custom_1536322833940 {
+			padding-top: 15% !important;
+			padding-right: 10% !important;
+			padding-bottom: 15% !important;
+			padding-left: 10% !important;
+			background-color: #f3f6f9 !important;
+			border-radius: 5px !important;
+		}
+
+		.vc_custom_1536322962219 {
+			padding-top: 15% !important;
+			padding-right: 10% !important;
+			padding-bottom: 15% !important;
+			padding-left: 10% !important;
+			background-color: #f3f6f9 !important;
+			border-radius: 5px !important;
+		}
+
+		.vc_custom_1536322997713 {
+			padding-top: 15% !important;
+			padding-right: 10% !important;
+			padding-bottom: 15% !important;
+			padding-left: 10% !important;
+			background-color: #f3f6f9 !important;
+			border-radius: 5px !important;
+		}
+
+		.vc_custom_1536323036950 {
+			padding-top: 15% !important;
+			padding-right: 10% !important;
+			padding-bottom: 15% !important;
+			padding-left: 10% !important;
+			background-color: #f3f6f9 !important;
+			border-radius: 5px !important;
+		}
+
+		.vc_custom_1536323065309 {
+			padding-top: 15% !important;
+			padding-right: 10% !important;
+			padding-bottom: 15% !important;
+			padding-left: 10% !important;
+			background-color: #f3f6f9 !important;
+			border-radius: 5px !important;
+		}
+
+		.vc_custom_1536205294665 {
+			border-top-width: 7px !important;
+			border-top-color: #ff4b36 !important;
+			border-top-style: solid !important;
+		}
+
+		.vc_custom_1536205301947 {
+			border-top-width: 7px !important;
+			border-top-color: #ff4b36 !important;
+			border-top-style: solid !important;
+		}
+
+		.vc_custom_1536205308214 {
+			border-top-width: 7px !important;
+			border-top-color: #ff4b36 !important;
+			border-top-style: solid !important;
+		}
+
+		.vc_custom_1536205314909 {
+			border-top-width: 7px !important;
+			border-top-color: #ff4b36 !important;
+			border-top-style: solid !important;
+		}
+
+		.vc_custom_1536205321845 {
+			border-top-width: 7px !important;
+			border-top-color: #ff4b36 !important;
+			border-top-style: solid !important;
+		}
+
+		.vc_custom_1575621954362 {
+			padding-top: 120px !important;
+			padding-bottom: 120px !important;
+		}
+		.vc_custom_1575622821504 {
+			background: #1dc2ef url({{url('frontend/rt-content/uploads/2018/08/slider-12bab.jpg')}}?id=1059) !important;
+			background-position: center !important;
+			background-repeat: no-repeat !important;
+			background-size: cover !important;
+		}
+
+		.vc_custom_1575621887487 {
+			padding-bottom: 60px !important;
+		}
+
+		.vc_custom_1575621916421 {
+			padding-top: 80px !important;
+			padding-bottom: 30px !important;
+			background-color: #181223 !important;
+		}
+
+		.vc_custom_1575621929037 {
+			padding-top: 80px !important;
+			padding-bottom: 80px !important;
+		}
+
+		.vc_custom_1575621943152 {
+			background: #fc766a url(https://live.21lab.co/nanosoft/wp-content/uploads/2018/08/job12-279-chim-01065.jpg?id=1062) !important;
+			background-position: center !important;
+			background-repeat: no-repeat !important;
+			background-size: cover !important;
+		}
+
+		.vc_custom_1575621959890 {
+			padding-top: 80px !important;
+		}
+
+		.vc_custom_1575622829943 {
+			padding-top: 120px !important;
+			padding-bottom: 100px !important;
+		}
+
+		.vc_custom_1536331370399 {
+			margin-left: 3px !important;
+		}
+
+		.vc_custom_1540433735834 {
+			margin-bottom: 50px !important;
+			margin-left: 5px !important;
+			padding-top: 15px !important;
+		}
+
+		.vc_custom_1540433711415 {
+			margin-left: 3px !important;
+		}
+
+		.vc_custom_1575621899399 {
+			padding-top: 80px !important;
+		}
+
+		.vc_custom_1536322833940 {
+			padding-top: 15% !important;
+			padding-right: 10% !important;
+			padding-bottom: 15% !important;
+			padding-left: 10% !important;
+			background-color: #f3f6f9 !important;
+			border-radius: 5px !important;
+		}
+
+		.vc_custom_1536322962219 {
+			padding-top: 15% !important;
+			padding-right: 10% !important;
+			padding-bottom: 15% !important;
+			padding-left: 10% !important;
+			background-color: #f3f6f9 !important;
+			border-radius: 5px !important;
+		}
+
+		.vc_custom_1536322997713 {
+			padding-top: 15% !important;
+			padding-right: 10% !important;
+			padding-bottom: 15% !important;
+			padding-left: 10% !important;
+			background-color: #f3f6f9 !important;
+			border-radius: 5px !important;
+		}
+
+		.vc_custom_1536323036950 {
+			padding-top: 15% !important;
+			padding-right: 10% !important;
+			padding-bottom: 15% !important;
+			padding-left: 10% !important;
+			background-color: #f3f6f9 !important;
+			border-radius: 5px !important;
+		}
+
+		.vc_custom_1536323065309 {
+			padding-top: 15% !important;
+			padding-right: 10% !important;
+			padding-bottom: 15% !important;
+			padding-left: 10% !important;
+			background-color: #f3f6f9 !important;
+			border-radius: 5px !important;
+		}
+
+		.vc_custom_1536205294665 {
+			border-top-width: 7px !important;
+			border-top-color: #ff4b36 !important;
+			border-top-style: solid !important;
+		}
+
+		.vc_custom_1536205301947 {
+			border-top-width: 7px !important;
+			border-top-color: #ff4b36 !important;
+			border-top-style: solid !important;
+		}
+
+		.vc_custom_1536205308214 {
+			border-top-width: 7px !important;
+			border-top-color: #ff4b36 !important;
+			border-top-style: solid !important;
+		}
+
+		.vc_custom_1536205314909 {
+			border-top-width: 7px !important;
+			border-top-color: #ff4b36 !important;
+			border-top-style: solid !important;
+		}
+
+		.vc_custom_1536205321845 {
+			border-top-width: 7px !important;
+			border-top-color: #ff4b36 !important;
+			border-top-style: solid !important;
+		}
+
+		.vc_custom_1575621954362 {
+			padding-top: 120px !important;
+			padding-bottom: 120px !important;
+		}
+		.vc_custom_1575622577385 {
+			background: #1dc2ef url({{url('frontend/rt-content/uploads/2018/08/slider-12bab.jpg')}}?id=1059) !important;
+			background-position: center !important;
+			background-repeat: no-repeat !important;
+			background-size: cover !important;
+		}
+
+		.vc_custom_1575621887487 {
+			padding-bottom: 60px !important;
+		}
+
+		.vc_custom_1575621916421 {
+			padding-top: 80px !important;
+			padding-bottom: 30px !important;
+			background-color: #181223 !important;
+		}
+
+		.vc_custom_1575621929037 {
+			padding-top: 80px !important;
+			padding-bottom: 80px !important;
+		}
+
+		.vc_custom_1575621943152 {
+			background: #fc766a url(https://live.21lab.co/nanosoft/wp-content/uploads/2018/08/job12-279-chim-01065.jpg?id=1062) !important;
+			background-position: center !important;
+			background-repeat: no-repeat !important;
+			background-size: cover !important;
+		}
+
+		.vc_custom_1575621959890 {
+			padding-top: 80px !important;
+		}
+
+		.vc_custom_1575622584114 {
+			padding-top: 120px !important;
+			padding-bottom: 100px !important;
+		}
+
+		.vc_custom_1536331177663 {
+			margin-left: 3px !important;
+		}
+
+		.vc_custom_1540433519046 {
+			margin-bottom: 50px !important;
+			margin-left: 5px !important;
+			padding-top: 15px !important;
+		}
+
+		.vc_custom_1540433492610 {
+			margin-left: 3px !important;
+		}
+
+		.vc_custom_1575621899399 {
+			padding-top: 80px !important;
+		}
+
+		.vc_custom_1536322833940 {
+			padding-top: 15% !important;
+			padding-right: 10% !important;
+			padding-bottom: 15% !important;
+			padding-left: 10% !important;
+			background-color: #f3f6f9 !important;
+			border-radius: 5px !important;
+		}
+
+		.vc_custom_1536322962219 {
+			padding-top: 15% !important;
+			padding-right: 10% !important;
+			padding-bottom: 15% !important;
+			padding-left: 10% !important;
+			background-color: #f3f6f9 !important;
+			border-radius: 5px !important;
+		}
+
+		.vc_custom_1536322997713 {
+			padding-top: 15% !important;
+			padding-right: 10% !important;
+			padding-bottom: 15% !important;
+			padding-left: 10% !important;
+			background-color: #f3f6f9 !important;
+			border-radius: 5px !important;
+		}
+
+		.vc_custom_1536323036950 {
+			padding-top: 15% !important;
+			padding-right: 10% !important;
+			padding-bottom: 15% !important;
+			padding-left: 10% !important;
+			background-color: #f3f6f9 !important;
+			border-radius: 5px !important;
+		}
+
+		.vc_custom_1536323065309 {
+			padding-top: 15% !important;
+			padding-right: 10% !important;
+			padding-bottom: 15% !important;
+			padding-left: 10% !important;
+			background-color: #f3f6f9 !important;
+			border-radius: 5px !important;
+		}
+
+		.vc_custom_1536205294665 {
+			border-top-width: 7px !important;
+			border-top-color: #ff4b36 !important;
+			border-top-style: solid !important;
+		}
+
+		.vc_custom_1536205301947 {
+			border-top-width: 7px !important;
+			border-top-color: #ff4b36 !important;
+			border-top-style: solid !important;
+		}
+
+		.vc_custom_1536205308214 {
+			border-top-width: 7px !important;
+			border-top-color: #ff4b36 !important;
+			border-top-style: solid !important;
+		}
+
+		.vc_custom_1536205314909 {
+			border-top-width: 7px !important;
+			border-top-color: #ff4b36 !important;
+			border-top-style: solid !important;
+		}
+
+		.vc_custom_1536205321845 {
+			border-top-width: 7px !important;
+			border-top-color: #ff4b36 !important;
+			border-top-style: solid !important;
+		}
+
+		.vc_custom_1575621954362 {
+			padding-top: 120px !important;
+			padding-bottom: 120px !important;
+		}
 	</style>
 	<noscript>
 		<style>
