@@ -5,10 +5,10 @@ namespace App\Http\Controllers\Frontend;
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
 
-class LeadershipController extends Controller
+class CaseStudiesController extends Controller
 {
     public function index() 
     {
-        return view('frontend.company.leadership');
+        return view('frontend.casestudies');
     }
 }

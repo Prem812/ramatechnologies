@@ -7,22 +7,21 @@
 <head>
 	<meta charset="UTF-8" />
 	<meta content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" name="viewport">
-	<link rel="profile" href="http://gmpg.org/xfn/11" />
-	<link rel="pingback" href="xmlrpc.php" />
 	<title>NanoSoft &#8211; Just another WordPress site</title>
-	<link rel="preload" as="style"
-		href="https://fonts.googleapis.com/css?family=Rubik%3A300%2C300italic%2Cregular%2Citalic%2C500%2C500italic%2C700%2C700italic%2C900%2C900italic%7CPoppins%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2Cregular%2Citalic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto%3A400%2C100%7COpen%20Sans%3A400&amp;subset=latin-ext%2Chebrew%2Clatin%2Ccyrillic%2Cdevanagari&amp;display=swap" />
+	<link rel="preload" as="style" href="https://fonts.googleapis.com/css?family=Rubik%3A300%2C300italic%2Cregular%2Citalic%2C500%2C500italic%2C700%2C700italic%2C900%2C900italic%7CPoppins%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2Cregular%2Citalic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto%3A400%2C100%7COpen%20Sans%3A400&amp;subset=latin-ext%2Chebrew%2Clatin%2Ccyrillic%2Cdevanagari&amp;display=swap" />
 	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Rubik%3A300%2C300italic%2Cregular%2Citalic%2C500%2C500italic%2C700%2C700italic%2C900%2C900italic%7CPoppins%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2Cregular%2Citalic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto%3A400%2C100%7COpen%20Sans%3A400&amp;subset=latin-ext%2Chebrew%2Clatin%2Ccyrillic%2Cdevanagari&amp;display=swap" media="print" onload="this.media='all'" />
 	<noscript>
 		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Rubik%3A300%2C300italic%2Cregular%2Citalic%2C500%2C500italic%2C700%2C700italic%2C900%2C900italic%7CPoppins%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2Cregular%2Citalic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto%3A400%2C100%7COpen%20Sans%3A400&amp;subset=latin-ext%2Chebrew%2Clatin%2Ccyrillic%2Cdevanagari&amp;display=swap" />
 	</noscript>
 	<link rel="stylesheet" href="{{url('frontend/rt-content/cache/min/1/e941e6ac283245e82c14b5e6217ccc82.css')}}" media="all" data-minify="1" />
+	<link rel="stylesheet" href="{{url('frontend/rt-content/cache/min/1/e5d3697f1f409e4504274b774f0d8708.css')}}" media="all" data-minify="1" />
+	<link rel="stylesheet" href="{{url('frontend/rt-content/cache/min/1/538e79fa5f4ea36b5777720c5c009daa.css')}}" media="all" data-minify="1" />
 	<meta name='robots' content='max-image-preview:large' />
 	<link rel='dns-prefetch' href='http://fonts.googleapis.com/' />
 	<link href='https://fonts.gstatic.com/' crossorigin rel='preconnect' />
 	<link rel="alternate" type="application/rss+xml" title="NanoSoft &raquo; Feed" href="feed/index.html" />
 	<link rel="alternate" type="application/rss+xml" title="NanoSoft &raquo; Comments Feed" href="comments/feed/index.html" />
-	<style id='nanosoft-inline-css' type='text/css'>
+	<style type='text/css'>
 		body,
 		.site,
 		.mask::after,
@@ -507,6 +506,18 @@
 			padding-bottom: 30px;
 			padding-left: 0px;
 		}
+
+		.content-inner[data-grid] .project {
+			padding-left: 15.000000px;
+			padding-right: 15.000000px;
+			margin-bottom: 30px;
+		}
+
+		.projects .content-inner[data-grid] {
+			margin-left: -15px;
+			margin-right: -15px;
+		}
+
 
 		.content-inner[data-grid] .post,
 		.content-inner[data-grid-normal] .post {
@@ -1124,13 +1135,9 @@
 		}
 	</style>
 	<script type="text/javascript" src="{{url('frontend/rt-includes/js/jquery/jquery.minf43b.js?ver=3.7.1" id="jquery-core-js')}}"></script>
-	<script type="text/javascript" src="{{url('frontend/rt-includes/js/jquery/jquery-migrate.min5589.js?ver=3.4.1')}}"
-		id="jquery-migrate-js"></script>
-	<script data-minify="1" type="text/javascript"
-		src="{{url('frontend/rt-content/cache/min/1/nanosoft/wp-content/plugins/wp-video-lightbox/js/jquery.prettyPhoto7b33.js')}}?ver=1644830545"
-		id="jquery.prettyphoto-js"></script>
+	<script type="text/javascript" src="{{url('frontend/rt-includes/js/jquery/jquery-migrate.min5589.js?ver=3.4.1')}}" id="jquery-migrate-js"></script>
+	<script data-minify="1" type="text/javascript" src="{{url('frontend/rt-content/cache/min/1/nanosoft/wp-content/plugins/wp-video-lightbox/js/jquery.prettyPhoto7b33.js')}}?ver=1644830545" id="jquery.prettyphoto-js"></script>
 	<script type="text/javascript" id="video-lightbox-js-extra">
-		/* <![CDATA[ */
 		var vlpp_vars = {
 			"prettyPhoto_rel": "wp-video-lightbox",
 			"animation_speed": "fast",
@@ -1156,19 +1163,15 @@
 			"ie6_fallback": "true"
 		};
 	</script>
-	<script data-minify="1" type="text/javascript"
-		src="{{url('frontend/rt-content/cache/min/1/nanosoft/wp-content/plugins/wp-video-lightbox/js/video-lightbox7b33.js')}}?ver=1644830545"
-		id="video-lightbox-js"></script>
+	<script data-minify="1" type="text/javascript" src="{{url('frontend/rt-content/cache/min/1/nanosoft/wp-content/plugins/wp-video-lightbox/js/video-lightbox7b33.js')}}?ver=1644830545" id="video-lightbox-js"></script>
 	<link rel="https://api.w.org/" href="{{url('frontend/rt-json/index.html')}}" />
 	<link rel="alternate" type="application/json" href="{{url('frontend/rt-json/wp/v2/pages/2.json')}}" />
 	<link rel="EditURI" type="application/rsd+xml" title="RSD" href="xmlrpc0db0.php?rsd" />
 	<meta name="generator" content="WordPress 6.5.2" />
 	<link rel="canonical" href="index.html" />
 	<link rel='shortlink' href='index.html' />
-	<link rel="alternate" type="application/json+oembed"
-		href="{{url('frontend/rt-json/oembed/1.0/embed5d75.json')}}?url=https%3A%2F%2Flive.21lab.co%2Fnanosoft%2F" />
-	<link rel="alternate" type="text/xml+oembed"
-		href="{{url('frontend/rt-json/oembed/1.0/embed4028')}}?url=https%3A%2F%2Flive.21lab.co%2Fnanosoft%2F&amp;format=xml" />
+	<link rel="alternate" type="application/json+oembed" href="{{url('frontend/rt-json/oembed/1.0/embed5d75.json')}}?url=https%3A%2F%2Flive.21lab.co%2Fnanosoft%2F" />
+	<link rel="alternate" type="text/xml+oembed" href="{{url('frontend/rt-json/oembed/1.0/embed4028')}}?url=https%3A%2F%2Flive.21lab.co%2Fnanosoft%2F&amp;format=xml" />
 	<style type="text/css" id="custom_fonts">
 		@font-face {
 			font-family: Sailec-Bold;
@@ -1188,30 +1191,6 @@
 			font-weight: normal;
 		}
 	</style>
-	<script>
-		WP_VIDEO_LIGHTBOX_VERSION = "1.9.4";
-		WP_VID_LIGHTBOX_URL = "{{url('frontend/rt-content/plugins/wp-video-lightbox/index.html')}}";
-		function wpvl_paramReplace(name, string, value) {
-			// Find the param with regex
-			// Grab the first character in the returned string (should be ? or &)
-			// Replace our href string with our new value, passing on the name and delimeter
-
-			var re = new RegExp("[\?&]" + name + "=([^&#]*)");
-			var matches = re.exec(string);
-			var newString;
-
-			if (matches === null) {
-				// if there are no params, append the parameter
-				newString = string + '?' + name + '=' + value;
-			} else {
-				var delimeter = matches[0].charAt(0);
-				newString = string.replace(re, delimeter + name + "=" + value);
-			}
-			return newString;
-		}
-	</script>
-	<meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress." />
-	<meta name="generator" content="Powered by Slider Revolution 6.5.14 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
 	<link rel="icon" href="{{url('frontend/rt-content/uploads/2018/10/cropped-favico-1-32x32.png')}}" sizes="32x32" />
 	<link rel="icon" href="{{url('frontend/rt-content/uploads/2018/10/cropped-favico-1-192x192.png')}}" sizes="192x192" />
 	<link rel="apple-touch-icon" href="{{url('frontend/rt-content/uploads/2018/10/cropped-favico-1-180x180.png')}}" />
@@ -1305,6 +1284,15 @@
 		body.is-loaded .navigator .menu-primary li.click.mega>.sub-menu>li>a,
 		body.is-loaded .contact .row label {
 			font-family: "Sailec-Medium" !important;
+		}
+	</style>
+	<style type="text/css" data-type="vc_custom-css">
+		.counter-content {
+			color: #fff;
+		}
+	
+		.counter-title {
+			color: #9797A7;
 		}
 	</style>
 	<style type="text/css" data-type="vc_shortcodes-custom-css">
@@ -1422,7 +1410,7 @@
 			border-top-color: #1975d2 !important;
 			border-top-style: solid !important;
 		}
-				.vc_custom_1575620193226 {
+		.vc_custom_1575620193226 {
 			padding-top: 80px !important;
 			padding-bottom: 80px !important;
 			background-image: url({{url('frontend/rt-content/uploads/2018/08/pexels-photo-1409831daa.jpg')}}?id=1002) !important;
@@ -3222,6 +3210,52 @@
 			background-color: rgba(255, 255, 255, 0.05) !important;
 			*background-color: rgb(255, 255, 255) !important;
 			border-radius: 5px !important;
+		}
+		.vc_custom_1575624282433 {
+			padding-bottom: 50px !important;
+		}
+
+		.vc_custom_1539849961128 {
+			border-top-width: 3px !important;
+			background-position: center !important;
+			background-repeat: no-repeat !important;
+			background-size: contain !important;
+			border-top-color: #0057a9 !important;
+			border-top-style: solid !important;
+		}
+
+		.vc_custom_1539849967192 {
+			border-top-width: 3px !important;
+			background-position: center !important;
+			background-repeat: no-repeat !important;
+			background-size: contain !important;
+			border-top-color: #0894d8 !important;
+			border-top-style: solid !important;
+		}
+
+		.vc_custom_1537156713714 {
+			border-top-width: 3px !important;
+			background-position: center !important;
+			background-repeat: no-repeat !important;
+			background-size: contain !important;
+			border-top-color: #e60d2d !important;
+			border-top-style: solid !important;
+		}
+
+		.vc_custom_1533645148540 {
+			padding-top: 80px !important;
+		}
+		.vc_custom_1575624408467 {
+			margin-bottom: 80px !important;
+			padding-bottom: 60px !important;
+		}
+
+		.vc_custom_1575624420887 {
+			padding-bottom: 80px !important;
+			background-image: url({{url('frontend/rt-content/uploads/2018/08/bg-41ea7d.png')}}?id=1014) !important;
+			background-position: center !important;
+			background-repeat: no-repeat !important;
+			background-size: contain !important;
 		}
 	</style>
 	<noscript>

@@ -16,7 +16,7 @@
 											<div class="vc_column-inner">
 												<div class="wpb_wrapper">
 													<div class="elm-google-maps"
-														data-options="{&quot;style&quot;:&quot;light-monochrome&quot;,&quot;zoomlevel&quot;:&quot;3&quot;,&quot;zoomable&quot;:&quot;no&quot;,&quot;height&quot;:&quot;450&quot;,&quot;locations&quot;:&quot;[{\&quot;address\&quot;:\&quot;Germany\&quot;,\&quot;content\&quot;:\&quot;Address: Schulstr. 9 70173 Stuttgart Germany.\&quot;,\&quot;latlng\&quot;:false},{\&quot;address\&quot;:\&quot;New York\&quot;,\&quot;content\&quot;:\&quot;Find Us: Beverley Rd Brooklyn, New York 11226 US\\nP: (712) 819 79 555  | M: info@example.com\&quot;,\&quot;latlng\&quot;:false},{\&quot;address\&quot;:\&quot;Russia\&quot;,\&quot;content\&quot;:\&quot;4 Zemlyanoy val, bld.1 Moscow, Russia 105064\&quot;,\&quot;latlng\&quot;:false}]&quot;}"
+														data-options="{"style": "light-monochrome", "zoomlevel": "3", "zoomable": "no", "height": "450", "locations": "[{\"address\":\"B/501, Venus Tower, Veera Desai Road, Azad Nagar, Andheri(West), Mumbai-53 400065 INDIA.\",\"content\":\"\",\"latlng\":false},{\"address\":\"Near Bsnl Office Bilaunji, Post-Waidhan, Distt-Singrauli, Madhya Pradesh, 486886 INDIA.\",\"content\":\"\",\"latlng\":false}]"}"
 														style="height: 450px"></div>
 												</div>
 											</div>
@@ -119,7 +119,7 @@
 																						src="{{url('frontend/rt-content/uploads/2018/04/map-1.svg')}}"></noscript>
 																			</div>
 																			<div class="drag_element tips "
-																				style="top:31.31%;left:22.52%;">
+																				style="top:47.61%;left:71.52%;">
 																				<div class="point_style  ihotspot_tooltop_html"
 																					data-placement="n"
 																					data-html="		 			 		 		 ">
@@ -137,45 +137,6 @@
 																							style="top:-4px;left:-4px"></noscript>
 																				</div>
 																			</div>
-																			<div class="drag_element tips "
-																				style="top:40.49%;left:49.40%;">
-																				<div class="point_style  ihotspot_tooltop_html"
-																					data-placement="n"
-																					data-html="		 			 		 		 ">
-																					<div class="pins_animation ihotspot_pulse"
-																						style="top:-4px;left:-4px;height:8px;width:8px">
-																					</div>
-																					<img decoding="async"
-																						src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
-																						class="pins_image "
-																						style="top:-4px;left:-4px"
-																						data-lazy-src="{{url('frontend/rt-content/uploads/2018/04/pin.svg')}}"><noscript><img
-																							decoding="async"
-																							src="{{url('frontend/rt-content/uploads/2018/04/pin.svg')}}"
-																							class="pins_image "
-																							style="top:-4px;left:-4px"></noscript>
-																				</div>
-																			</div>
-																			<div class="drag_element tips "
-																				style="top:17.72%;left:72.07%;">
-																				<div class="point_style  ihotspot_tooltop_html"
-																					data-placement="n"
-																					data-html="		 			 		 		 ">
-																					<div class="pins_animation ihotspot_pulse"
-																						style="top:-4px;left:-4px;height:8px;width:8px">
-																					</div>
-																					<img decoding="async"
-																						src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
-																						class="pins_image "
-																						style="top:-4px;left:-4px"
-																						data-lazy-src="{{url('frontend/rt-content/uploads/2018/04/pin.svg')}}"><noscript><img
-																							decoding="async"
-																							src="{{url('frontend/rt-content/uploads/2018/04/pin.svg')}}"
-																							class="pins_image "
-																							style="top:-4px;left:-4px"></noscript>
-																				</div>
-																			</div>
-
 
 																		</div>
 																	</div>

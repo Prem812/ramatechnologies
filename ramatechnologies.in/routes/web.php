@@ -2,14 +2,17 @@
 
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\Frontend\HomeController;
+use App\Http\Controllers\Frontend\CaseStudiesController;
+use App\Http\Controllers\Frontend\BlogsController;
+use App\Http\Controllers\Frontend\ContactsController;
 // company controllers
-use App\Http\Controllers\Frontend\AboutController;
-use App\Http\Controllers\Frontend\LeadershipController;
-use App\Http\Controllers\Frontend\MissionController;
-use App\Http\Controllers\Frontend\CareerController;
-use App\Http\Controllers\Frontend\FaqController;
-use App\Http\Controllers\Frontend\LocationsController;
-use App\Http\Controllers\Frontend\WhyChooseUsController;
+use App\Http\Controllers\Frontend\Company\AboutController;
+use App\Http\Controllers\Frontend\Company\LeadershipController;
+use App\Http\Controllers\Frontend\Company\MissionController;
+use App\Http\Controllers\Frontend\Company\CareerController;
+use App\Http\Controllers\Frontend\Company\FaqController;
+use App\Http\Controllers\Frontend\Company\LocationsController;
+use App\Http\Controllers\Frontend\Company\WhyChooseUsController;
 // it services controllers
 use App\Http\Controllers\Frontend\ItServices\ServicesController;
 use App\Http\Controllers\Frontend\ItServices\ManagedItController;
@@ -40,6 +43,9 @@ use App\Http\Controllers\Frontend\Industries\ManufacturingController;
 */
 
 Route::get('/', [HomeController::class, 'index']);
+Route::get('/casestudies', [CaseStudiesController::class, 'index']);
+Route::get('/blogs', [BlogsController::class, 'index']);
+Route::get('/contacts', [ContactsController::class, 'index']);
 // creating company routes
 Route::get('/company/about', [AboutController::class, 'index']);
 Route::get('/company/leadership', [LeadershipController::class, 'index']);
