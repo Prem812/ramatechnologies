@@ -1338,189 +1338,109 @@
 
 
 					<nav class="navigator" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
-
 						<div class="nav-info">
-							<div class="widget"><a href="../careers/index.html">Now Hiring:</a> Are you a driven and
-								motivated 1st Line IT Support Engineer?</div>
+							<div class="widget">
+								<a href="{{url('/company/career')}}">Now Hiring:</a>
+								Are you a driven and motivated 1st Line IT Support Engineer?
+							</div>
 						</div>
-
 						<ul id="menu-main-menu" class="menu menu-primary">
-							<li id="menu-item-1463"
-								class="click menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1463">
-								<a href="#" data-ps2id-api="true">Home</a>
-								<ul class="sub-menu">
-									<li id="menu-item-28"
-										class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-28">
-										<a href="../index.html" data-ps2id-api="true">Homepage 01 <sup>Default</sup></a>
-									</li>
-									<li id="menu-item-1462"
-										class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1462">
-										<a href="../home-2/index.html" data-ps2id-api="true">Homepage 02</a></li>
-									<li id="menu-item-1543"
-										class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1543">
-										<a href="../home-3/index.html" data-ps2id-api="true">Homepage 03</a></li>
-									<li id="menu-item-1817"
-										class="more menu-item menu-item-type-custom menu-item-object-custom menu-item-1817">
-										<a target="_blank" rel="noopener" href="https://live.21lab.co/nanosoft-2"
-											data-ps2id-api="true">Pre-built Demo 2<sup> <i
-													class="fa fa-external-link"></i></sup></a></li>
-									<li id="menu-item-1818"
-										class="more menu-item menu-item-type-custom menu-item-object-custom menu-item-1818">
-										<a target="_blank" rel="noopener" href="https://live.21lab.co/nanosoft-3"
-											data-ps2id-api="true">Pre-built Demo 3 <sup><i
-													class="fa fa-external-link"></i></sup></a></li>
-								</ul>
+							<li id="menu-item-1463" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1463">
+								<a href="/" data-ps2id-api="true">Home</a>
 							</li>
 							<li id="menu-item-696"
 								class="click menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-696">
 								<a href="#" data-ps2id-api="true">Company</a>
 								<ul class="sub-menu">
-									<li id="menu-item-27"
-										class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27"><a
-											href="../about/index.html" data-ps2id-api="true">About</a></li>
-									<li id="menu-item-702"
-										class="menu-item menu-item-type-post_type menu-item-object-page menu-item-702">
-										<a href="../mission-vision-and-values/index.html" data-ps2id-api="true">Mission,
-											Vision and Values</a></li>
-									<li id="menu-item-694"
-										class="menu-item menu-item-type-post_type menu-item-object-page menu-item-694">
-										<a href="../leadership-team/index.html" data-ps2id-api="true">Leadership
-											Team</a></li>
-									<li id="menu-item-693"
-										class="menu-item menu-item-type-post_type menu-item-object-page menu-item-693">
-										<a href="../why-choose-us/index.html" data-ps2id-api="true">Why Choose Us</a>
+									<li id="menu-item-27" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27">
+										<a href="{{url('/company/about')}}" data-ps2id-api="true">About</a>
 									</li>
-									<li id="menu-item-695"
-										class="menu-item menu-item-type-post_type menu-item-object-page menu-item-695">
-										<a href="../locations/index.html" data-ps2id-api="true">Locations</a></li>
-									<li id="menu-item-699"
-										class="menu-item menu-item-type-post_type menu-item-object-page menu-item-699">
-										<a href="../faq/index.html" data-ps2id-api="true">FAQ</a></li>
-									<li id="menu-item-705"
-										class="menu-item menu-item-type-post_type menu-item-object-page menu-item-705">
-										<a href="../careers/index.html" data-ps2id-api="true">Careers</a></li>
-									<li id="menu-item-1333"
-										class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1333">
-										<a href="../pricing-and-plans/index.html" data-ps2id-api="true">Pricing and
-											plans</a></li>
+									<li id="menu-item-702" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-702">
+										<a href="{{url('/company/mission')}}" data-ps2id-api="true">Mission, Vision and Values</a>
+									</li>
+									<li id="menu-item-694" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-694">
+										<a href="{{url('/company/leadership')}}" data-ps2id-api="true">Leadership Team</a>
+									</li>
+									<li id="menu-item-693" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-693">
+										<a href="{{url('/company/whychooseus')}}" data-ps2id-api="true">Why Choose Us</a>
+									</li>
+									<li id="menu-item-695" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-695">
+										<a href="{{url('/company/locations')}}" data-ps2id-api="true">Locations</a>
+									</li>
+									<li id="menu-item-699" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-699">
+										<a href="{{url('/company/faq')}}" data-ps2id-api="true">FAQ</a>
+									</li>
+									<li id="menu-item-705" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-705">
+										<a href="{{url('/company/career')}}" data-ps2id-api="true">Careers</a>
+									</li>
+									<li id="menu-item-1333" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1333">
+										<a href="{{url('/company/pricing')}}" data-ps2id-api="true">Pricing and plans</a>
+									</li>
 								</ul>
 							</li>
-							<li id="menu-item-457"
-								class="click mega menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-457">
+							<li id="menu-item-457" class="click mega menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-457">
 								<a href="#" data-ps2id-api="true">IT Solutions</a>
 								<ul class="sub-menu">
-									<li id="menu-item-745"
-										class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-745">
-										<a href="../it-services/index.html" data-ps2id-api="true">IT Services</a>
+									<li id="menu-item-745" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-745">
+										<a href="{{url('/itservices')}}" data-ps2id-api="true">IT Services</a>
 										<ul class="sub-menu">
-											<li id="menu-item-750"
-												class="menu-item menu-item-type-post_type menu-item-object-page menu-item-750">
-												<a href="../it-services/managed-it/index.html"
-													data-ps2id-api="true">Managed IT</a></li>
-											<li id="menu-item-751"
-												class="menu-item menu-item-type-post_type menu-item-object-page menu-item-751">
-												<a href="../it-services/it-support/index.html" data-ps2id-api="true">IT
-													Support</a></li>
-											<li id="menu-item-749"
-												class="menu-item menu-item-type-post_type menu-item-object-page menu-item-749">
-												<a href="../it-services/it-consultancy/index.html"
-													data-ps2id-api="true">IT Consultancy</a></li>
-											<li id="menu-item-748"
-												class="menu-item menu-item-type-post_type menu-item-object-page menu-item-748">
-												<a href="../it-services/cloud-computing/index.html"
-													data-ps2id-api="true">Cloud Computing</a></li>
-											<li id="menu-item-747"
-												class="menu-item menu-item-type-post_type menu-item-object-page menu-item-747">
-												<a href="../it-services/cyber-security/index.html"
-													data-ps2id-api="true">Cyber Security</a></li>
-											<li id="menu-item-746"
-												class="menu-item menu-item-type-post_type menu-item-object-page menu-item-746">
-												<a href="../it-services/custom-software/index.html"
-													data-ps2id-api="true">Custom Software</a></li>
+											<li id="menu-item-750" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-750">
+												<a href="{{url('/itservices/managedit')}}" data-ps2id-api="true">Managed IT</a>
+											</li>
+											<li id="menu-item-751" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-751">
+												<a href="{{url('/itservices/itsupport')}}" data-ps2id-api="true">IT Support</a>
+											</li>
+											<li id="menu-item-749" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-749">
+												<a href="{{url('/itservices/itconsultancy')}}" data-ps2id-api="true">IT Consultancy</a>
+											</li>
+											<li id="menu-item-748" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-748">
+												<a href="{{url('/itservices/cloudcomputing')}}" data-ps2id-api="true">Cloud Computing</a>
+											</li>
+											<li id="menu-item-747" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-747">
+												<a href="{{url('/itservices/cybersecurity')}}" data-ps2id-api="true">Cyber Security</a>
+											</li>
+											<li id="menu-item-746" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-746">
+												<a href="{{url('/itservices/customsoftware')}}" data-ps2id-api="true">Custom Software</a>
+											</li>
 										</ul>
 									</li>
-									<li id="menu-item-737"
-										class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-737">
-										<a href="../industries/index.html" data-ps2id-api="true">Industries</a>
+									<li id="menu-item-737" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-737">
+										<a href="{{url('/industries')}}" data-ps2id-api="true">Industries</a>
 										<ul class="sub-menu">
-											<li id="menu-item-744"
-												class="menu-item menu-item-type-post_type menu-item-object-page menu-item-744">
-												<a href="../industries/banking/index.html"
-													data-ps2id-api="true">Banking</a></li>
-											<li id="menu-item-743"
-												class="menu-item menu-item-type-post_type menu-item-object-page menu-item-743">
-												<a href="../industries/capital-markets/index.html"
-													data-ps2id-api="true">Capital Markets</a></li>
-											<li id="menu-item-742"
-												class="menu-item menu-item-type-post_type menu-item-object-page menu-item-742">
-												<a href="../industries/enterprise-technology/index.html"
-													data-ps2id-api="true">Enterprise Technology</a></li>
-											<li id="menu-item-741"
-												class="menu-item menu-item-type-post_type menu-item-object-page menu-item-741">
-												<a href="../industries/manufacturing/index.html"
-													data-ps2id-api="true">Manufacturing</a></li>
-											<li id="menu-item-740"
-												class="menu-item menu-item-type-post_type menu-item-object-page menu-item-740">
-												<a href="../industries/healthcare/index.html"
-													data-ps2id-api="true">Healthcare</a></li>
-											<li id="menu-item-739"
-												class="menu-item menu-item-type-post_type menu-item-object-page menu-item-739">
-												<a href="../industries/higher-education/index.html"
-													data-ps2id-api="true">Higher Education</a></li>
-											<li id="menu-item-738"
-												class="menu-item menu-item-type-post_type menu-item-object-page menu-item-738">
-												<a href="../industries/logistics/index.html"
-													data-ps2id-api="true">Logistics</a></li>
+											<li id="menu-item-744" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-744">
+												<a href="{{url('/industries/banking')}}" data-ps2id-api="true">Banking</a>
+											</li>
+											<li id="menu-item-743" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-743">
+												<a href="{{url('/industries/capitalmarket')}}" data-ps2id-api="true">Capital Markets</a>
+											</li>
+											<li id="menu-item-742" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-742">
+												<a href="{{url('/industries/enterprisetechnology')}}" data-ps2id-api="true">Enterprise Technology</a>
+											</li>
+											<li id="menu-item-741" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-741">
+												<a href="{{url('/industries/manufacturing')}}" data-ps2id-api="true">Manufacturing</a>
+											</li>
+											<li id="menu-item-740" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-740">
+												<a href="{{url('/industries/healthcare')}}" data-ps2id-api="true">Healthcare</a>
+											</li>
+											<li id="menu-item-739" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-739">
+												<a href="{{url('/industries/education')}}" data-ps2id-api="true">Higher Education</a>
+											</li>
+											<li id="menu-item-738" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-738">
+												<a href="{{url('/industries/logistics')}}" data-ps2id-api="true">Logistics</a>
+											</li>
 										</ul>
 									</li>
 								</ul>
 							</li>
-							<li id="menu-item-618"
-								class="click menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-618">
-								<a href="#" data-ps2id-api="true">Case Studies</a>
-								<ul class="sub-menu">
-									<li id="menu-item-621"
-										class="menu-item menu-item-type-post_type menu-item-object-page menu-item-621">
-										<a href="../layout-style-01/index.html" data-ps2id-api="true">Layout Style
-											01</a></li>
-									<li id="menu-item-620"
-										class="menu-item menu-item-type-post_type menu-item-object-page menu-item-620">
-										<a href="../layout-style-02/index.html" data-ps2id-api="true">Layout Style
-											02</a></li>
-									<li id="menu-item-23"
-										class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23"><a
-											href="../case-studies/index.html" data-ps2id-api="true">Layout Style 03
-											<sup>Default</sup></a></li>
-								</ul>
+							<li id="menu-item-618" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-618">
+								<a href="{{url('/casestudies')}}" data-ps2id-api="true">Studies</a>
 							</li>
-							<li id="menu-item-458"
-								class="click menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-458">
-								<a href="#" data-ps2id-api="true">IT Blog</a>
-								<ul class="sub-menu">
-									<li id="menu-item-502"
-										class="menu-item menu-item-type-post_type menu-item-object-page menu-item-502">
-										<a href="../grid-layout-with-sidebar/index.html" data-ps2id-api="true">Grid
-											Layout</a></li>
-									<li id="menu-item-500"
-										class="menu-item menu-item-type-post_type menu-item-object-page menu-item-500">
-										<a href="../masonry-layout/index.html" data-ps2id-api="true">Masonry Layout</a>
-									</li>
-									<li id="menu-item-501"
-										class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-493 current_page_item menu-item-501">
-										<a href="index.html" aria-current="page" data-ps2id-api="true">Medium Image
-											<sup>with sidebar</sup></a></li>
-									<li id="menu-item-503"
-										class="menu-item menu-item-type-post_type menu-item-object-page menu-item-503">
-										<a href="../large-image/index.html" data-ps2id-api="true">Large Image <sup>with
-												sidebar</sup></a></li>
-									<li id="menu-item-24"
-										class="more menu-item menu-item-type-post_type menu-item-object-page menu-item-24">
-										<a href="../it-blog/index.html" data-ps2id-api="true">Default Layout</a></li>
-								</ul>
+							<li id="menu-item-458" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-458">
+								<a href="{{url('/blogs')}}" data-ps2id-api="true">IT Blog</a>
 							</li>
-							<li id="menu-item-252"
-								class="menu-item menu-item-type-post_type menu-item-object-page menu-item-252"><a
-									href="../contact-us/index.html" data-ps2id-api="true">Contact Us</a></li>
+							<li id="menu-item-252" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-252">
+								<a href="{{url('/contacts')}}" data-ps2id-api="true">Contact Us</a>
+							</li>
 						</ul>
 					</nav>
 
@@ -1590,165 +1510,101 @@
 
 					<nav class="navigator" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
 						<ul id="menu-main-menu-1" class="menu menu-primary">
-							<li
-								class="click menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1463">
-								<a href="#" data-ps2id-api="true">Home</a>
+							<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1463">
+								<a href="/" data-ps2id-api="true">Home</a>
+							</li>
+							<li class="click menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-696">
+								<a href="#" data-ps2id-api="true">Pages</a>
 								<ul class="sub-menu">
-									<li
-										class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-28">
-										<a href="../index.html" data-ps2id-api="true">Homepage 01 <sup>Default</sup></a>
+									<li id="menu-item-27" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27">
+										<a href="{{url('/company/about')}}" data-ps2id-api="true">About</a>
 									</li>
-									<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1462">
-										<a href="../home-2/index.html" data-ps2id-api="true">Homepage 02</a></li>
-									<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1543">
-										<a href="../home-3/index.html" data-ps2id-api="true">Homepage 03</a></li>
-									<li
-										class="more menu-item menu-item-type-custom menu-item-object-custom menu-item-1817">
-										<a target="_blank" rel="noopener" href="https://live.21lab.co/nanosoft-2"
-											data-ps2id-api="true">Pre-built Demo 2<sup> <i
-													class="fa fa-external-link"></i></sup></a></li>
-									<li
-										class="more menu-item menu-item-type-custom menu-item-object-custom menu-item-1818">
-										<a target="_blank" rel="noopener" href="https://live.21lab.co/nanosoft-3"
-											data-ps2id-api="true">Pre-built Demo 3 <sup><i
-													class="fa fa-external-link"></i></sup></a></li>
+									<li id="menu-item-702" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-702">
+										<a href="{{url('/company/mission')}}" data-ps2id-api="true">Mission, Vision and Values</a>
+									</li>
+									<li id="menu-item-694" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-694">
+										<a href="{{url('/company/leadership')}}" data-ps2id-api="true">Leadership Team</a>
+									</li>
+									<li id="menu-item-693" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-693">
+										<a href="{{url('/company/whychooseus')}}" data-ps2id-api="true">Why Choose Us</a>
+									</li>
+									<li id="menu-item-695" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-695">
+										<a href="{{url('/company/locations')}}" data-ps2id-api="true">Locations</a>
+									</li>
+									<li id="menu-item-699" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-699">
+										<a href="{{url('/company/faq')}}" data-ps2id-api="true">FAQ</a>
+									</li>
+									<li id="menu-item-705" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-705">
+										<a href="{{url('/company/career')}}" data-ps2id-api="true">Careers</a>
+									</li>
+									<li id="menu-item-1333" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1333">
+										<a href="{{url('/company/pricing')}}" data-ps2id-api="true">Pricing and plans</a>
+									</li>
 								</ul>
 							</li>
-							<li
-								class="click menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-696">
-								<a href="#" data-ps2id-api="true">Company</a>
-								<ul class="sub-menu">
-									<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27"><a
-											href="../about/index.html" data-ps2id-api="true">About</a></li>
-									<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-702">
-										<a href="../mission-vision-and-values/index.html" data-ps2id-api="true">Mission,
-											Vision and Values</a></li>
-									<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-694">
-										<a href="../leadership-team/index.html" data-ps2id-api="true">Leadership
-											Team</a></li>
-									<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-693">
-										<a href="../why-choose-us/index.html" data-ps2id-api="true">Why Choose Us</a>
-									</li>
-									<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-695">
-										<a href="../locations/index.html" data-ps2id-api="true">Locations</a></li>
-									<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-699">
-										<a href="../faq/index.html" data-ps2id-api="true">FAQ</a></li>
-									<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-705">
-										<a href="../careers/index.html" data-ps2id-api="true">Careers</a></li>
-									<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1333">
-										<a href="../pricing-and-plans/index.html" data-ps2id-api="true">Pricing and
-											plans</a></li>
-								</ul>
-							</li>
-							<li
-								class="click mega menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-457">
+							<li class="click mega menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-457">
 								<a href="#" data-ps2id-api="true">IT Solutions</a>
 								<ul class="sub-menu">
-									<li
-										class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-745">
-										<a href="../it-services/index.html" data-ps2id-api="true">IT Services</a>
+									<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-745">
+										<a href="{{url('/itservices')}}" data-ps2id-api="true">IT Services</a>
 										<ul class="sub-menu">
-											<li
-												class="menu-item menu-item-type-post_type menu-item-object-page menu-item-750">
-												<a href="../it-services/managed-it/index.html"
-													data-ps2id-api="true">Managed IT</a></li>
-											<li
-												class="menu-item menu-item-type-post_type menu-item-object-page menu-item-751">
-												<a href="../it-services/it-support/index.html" data-ps2id-api="true">IT
-													Support</a></li>
-											<li
-												class="menu-item menu-item-type-post_type menu-item-object-page menu-item-749">
-												<a href="../it-services/it-consultancy/index.html"
-													data-ps2id-api="true">IT Consultancy</a></li>
-											<li
-												class="menu-item menu-item-type-post_type menu-item-object-page menu-item-748">
-												<a href="../it-services/cloud-computing/index.html"
-													data-ps2id-api="true">Cloud Computing</a></li>
-											<li
-												class="menu-item menu-item-type-post_type menu-item-object-page menu-item-747">
-												<a href="../it-services/cyber-security/index.html"
-													data-ps2id-api="true">Cyber Security</a></li>
-											<li
-												class="menu-item menu-item-type-post_type menu-item-object-page menu-item-746">
-												<a href="../it-services/custom-software/index.html"
-													data-ps2id-api="true">Custom Software</a></li>
+											<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-750">
+												<a href="{{url('/itservices/managedit')}}" data-ps2id-api="true">Managed IT</a>
+											</li>
+											<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-751">
+												<a href="{{url('/itservices/itsupport')}}" data-ps2id-api="true">IT Support</a>
+											</li>
+											<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-749">
+												<a href="{{url('/itservices/itconsultancy')}}" data-ps2id-api="true">IT Consultancy</a>
+											</li>
+											<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-748">
+												<a href="{{url('/itservices/cloudcomputing')}}" data-ps2id-api="true">Cloud Computing</a>
+											</li>
+											<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-747">
+												<a href="{{url('/itservices/cybersecurity')}}" data-ps2id-api="true">Cyber Security</a>
+											</li>
+											<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-746">
+												<a href="{{url('/itservices/customsoftware')}}" data-ps2id-api="true">Custom Software</a>
+											</li>
 										</ul>
 									</li>
-									<li
-										class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-737">
-										<a href="../industries/index.html" data-ps2id-api="true">Industries</a>
+									<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-737">
+										<a href="{{url('/industries')}}" data-ps2id-api="true">Industries</a>
 										<ul class="sub-menu">
-											<li
-												class="menu-item menu-item-type-post_type menu-item-object-page menu-item-744">
-												<a href="../industries/banking/index.html"
-													data-ps2id-api="true">Banking</a></li>
-											<li
-												class="menu-item menu-item-type-post_type menu-item-object-page menu-item-743">
-												<a href="../industries/capital-markets/index.html"
-													data-ps2id-api="true">Capital Markets</a></li>
-											<li
-												class="menu-item menu-item-type-post_type menu-item-object-page menu-item-742">
-												<a href="../industries/enterprise-technology/index.html"
-													data-ps2id-api="true">Enterprise Technology</a></li>
-											<li
-												class="menu-item menu-item-type-post_type menu-item-object-page menu-item-741">
-												<a href="../industries/manufacturing/index.html"
-													data-ps2id-api="true">Manufacturing</a></li>
-											<li
-												class="menu-item menu-item-type-post_type menu-item-object-page menu-item-740">
-												<a href="../industries/healthcare/index.html"
-													data-ps2id-api="true">Healthcare</a></li>
-											<li
-												class="menu-item menu-item-type-post_type menu-item-object-page menu-item-739">
-												<a href="../industries/higher-education/index.html"
-													data-ps2id-api="true">Higher Education</a></li>
-											<li
-												class="menu-item menu-item-type-post_type menu-item-object-page menu-item-738">
-												<a href="../industries/logistics/index.html"
-													data-ps2id-api="true">Logistics</a></li>
+											<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-744">
+												<a href="{{url('/industries/banking')}}" data-ps2id-api="true">Banking/a>
+											</li>
+											<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-743">
+												<a href="{{url('/industries/capitalmarket')}}" data-ps2id-api="true">Capital Markets</a>
+											</li>
+											<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-742">
+												<a href="{{url('/industries/enterprisetechnology')}}" data-ps2id-api="true">Enterprise Technology</a>
+											</li>
+											<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-741">
+												<a href="{{url('/industries/manufacturing')}}" data-ps2id-api="true">Manufacturing</a>
+											</li>
+											<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-740">
+												<a href="{{url('/industries/healthcare')}}" data-ps2id-api="true">Healthcare</a>
+											</li>
+											<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-739">
+												<a href="{{url('/industries/education')}}" data-ps2id-api="true">Higher Education</a>
+											</li>
+											<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-738">
+												<a href="{{url('/industries/logistics')}}" data-ps2id-api="true">Logistics</a>
+											</li>
 										</ul>
 									</li>
 								</ul>
 							</li>
-							<li
-								class="click menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-618">
-								<a href="#" data-ps2id-api="true">Case Studies</a>
-								<ul class="sub-menu">
-									<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-621">
-										<a href="../layout-style-01/index.html" data-ps2id-api="true">Layout Style
-											01</a></li>
-									<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-620">
-										<a href="../layout-style-02/index.html" data-ps2id-api="true">Layout Style
-											02</a></li>
-									<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23"><a
-											href="../case-studies/index.html" data-ps2id-api="true">Layout Style 03
-											<sup>Default</sup></a></li>
-								</ul>
+							<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-618">
+								<a href="{{url('/casestudies')}}" data-ps2id-api="true">Studies</a>
 							</li>
-							<li
-								class="click menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-458">
-								<a href="#" data-ps2id-api="true">IT Blog</a>
-								<ul class="sub-menu">
-									<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-502">
-										<a href="../grid-layout-with-sidebar/index.html" data-ps2id-api="true">Grid
-											Layout</a></li>
-									<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-500">
-										<a href="../masonry-layout/index.html" data-ps2id-api="true">Masonry Layout</a>
-									</li>
-									<li
-										class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-493 current_page_item menu-item-501">
-										<a href="index.html" aria-current="page" data-ps2id-api="true">Medium Image
-											<sup>with sidebar</sup></a></li>
-									<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-503">
-										<a href="../large-image/index.html" data-ps2id-api="true">Large Image <sup>with
-												sidebar</sup></a></li>
-									<li
-										class="more menu-item menu-item-type-post_type menu-item-object-page menu-item-24">
-										<a href="../it-blog/index.html" data-ps2id-api="true">Default Layout</a></li>
-								</ul>
+							<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-458">
+								<a href="{{url('/blogs')}}" data-ps2id-api="true">IT Blog</a>
 							</li>
-							<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-252"><a
-									href="../contact-us/index.html" data-ps2id-api="true">Contact Us</a></li>
+							<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-252">
+								<a href="{{url('/contacts')}}" data-ps2id-api="true">Contact Us</a>
+							</li>
 						</ul>
 					</nav>
 
