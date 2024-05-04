@@ -1,5 +1,4 @@
 @extends('frontend.layouts.main')
-
 @section('main-section')
 <div id="site-content" class="site-content">
 			<div id="content-body" class="content-body">
@@ -7,7 +6,6 @@
 					<main id="main-content" class="main-content" itemprop="mainContentOfPage">
 						<div class="main-content-inner">
 							<div class="content">
-								<!-- slider starts here -->
 								<div data-vc-stretch-content="true" class="vc_row wpb_row vc_row-fluid vc_row-no-padding">
 									<div class="row-inner">
 										<div class="wpb_column vc_column_container vc_col-sm-12">
@@ -90,23 +88,17 @@
 										</div>
 									</div>
 								</div>
-								<!-- slider ends here -->
-								<!-- about description section starts  -->
 								<section class="vc_section wpb_animate_when_almost_visible wpb_slideInUp slideInUp vc_custom_1575619139175 vc_section-has-fill">
 									<div class="vc_row wpb_row vc_row-fluid vc_custom_1575619146482 vc_row-has-fill">
 										<div class="row-inner">
 											<div class="wpb_column vc_column_container vc_col-sm-6">
 												<div class="vc_column-inner">
 													<div class="wpb_wrapper">
-														<h6 style="font-size: 10px;color: #1dc2ef;text-align: left" class="vc_custom_heading style1">
-															Our company
-														</h6>
+														<h6 style="font-size: 10px;color: #1dc2ef;text-align: left" class="vc_custom_heading style1">Our company</h6>
 														<div class="vc_empty_space" style="height: 6px">
 															<span class="vc_empty_space_inner"></span>
 														</div>
-														<h3 style="color: #ffffff;text-align: left" class="vc_custom_heading">
-															Rama Technologies, is your trusted source in IT services and support.
-														</h3>
+														<h3 style="color: #ffffff;text-align: left" class="vc_custom_heading">Rama Technologies, is your trusted source in IT services and support.</h3>
 														<div class="vc_empty_space" style="height: 20px">
 															<span class="vc_empty_space_inner"></span>
 														</div>
@@ -146,12 +138,8 @@
 														<div class="imagebox vc_custom_1535341941407">
 															<div class="box-image">
 																<a class="box-header" href="{{url('/itservices')}}" target="_self">
-																	<h6 class="box-subtitle">
-																		<span>Our services</span>
-																	</h6>
-																	<h2 class="box-title">
-																		How we can help
-																	</h2>
+																	<h6 class="box-subtitle"><span>Our services</span></h6>
+																	<h2 class="box-title">How we can help</h2>
 																	<div class="box-button">
 																		<span class="button no-bg">Discover now</span>
 																	</div>
@@ -175,14 +163,9 @@
 													<div class="wpb_wrapper">
 														<div class="imagebox  ">
 															<div class="box-image">
-																<a class="box-header" href="{{url('/itservices/whychooseus')}}"
-																	target="_self">
-																	<h6 class="box-subtitle">
-																		<span>Our expertise</span>
-																	</h6>
-																	<h2 class="box-title">
-																		Why partner with us 
-																	</h2>
+																<a class="box-header" href="{{url('/itservices/whychooseus')}}" target="_self">
+																	<h6 class="box-subtitle"><span>Our expertise</span></h6>
+																	<h2 class="box-title">Why partner with us</h2>
 																	<div class="box-button">
 																		<span class="button no-bg">Learn more</span>
 																	</div>
@@ -202,15 +185,11 @@
 											<div class="wpb_column vc_column_container vc_col-sm-4">
 												<div class="vc_column-inner">
 													<div class="wpb_wrapper">
-														<div class="imagebox   vc_custom_1535341951770">
+														<div class="imagebox vc_custom_1535341951770">
 															<div class="box-image">
 																<a class="box-header" href="#custom_customers" target="_self">
-																	<h6 class="box-subtitle">
-																		<span>Our customers</span>
-																	</h6>
-																	<h2 class="box-title">
-																		Client success stories 
-																	</h2>
+																	<h6 class="box-subtitle"><span>Our customers</span></h6>
+																	<h2 class="box-title">Client success stories</h2>
 																	<div class="box-button">
 																		<span class="button no-bg">Read more</span>
 																	</div>
@@ -236,8 +215,9 @@
 											<div class="wpb_column vc_column_container vc_col-sm-12">
 												<div class="vc_column-inner">
 													<div class="wpb_wrapper">
-														<div class="vc_empty_space" style="height: 10px"><span
-																class="vc_empty_space_inner"></span></div>
+														<div class="vc_empty_space" style="height: 10px">
+															<span class="vc_empty_space_inner"></span>
+														</div>
 														<div class="wpb_text_column wpb_content_element ">
 															<div class="wpb_wrapper">
 																<p style="text-align: center; font-size: 15px;">
@@ -254,8 +234,6 @@
 										</div>
 									</div>
 								</section>
-								<!-- about description section ends  -->
-								<!-- services section starts here -->
 								<section class="vc_section vc_custom_1575619170440">
 									<div class="vc_row wpb_row vc_row-fluid">
 										<div class="row-inner">
@@ -266,9 +244,7 @@
 														<div class="vc_empty_space" style="height: 6px">
 															<span class="vc_empty_space_inner"></span>
 														</div>
-														<h3 style="text-align: center" class="vc_custom_heading">
-															Stay Up, Stay Running, Stay Protected
-														</h3>
+														<h3 style="text-align: center" class="vc_custom_heading">Stay Up, Stay Running, Stay Protected</h3>
 														<div class="vc_empty_space" style="height: 60px">
 															<span class="vc_empty_space_inner"></span>
 														</div>
@@ -293,9 +269,7 @@
 																</noscript>
 															</div>
 															<div class="box-readmore">
-																<a class="button no-bg" href="it-services/managed-it/index.html">
-																	Stay up and running
-																</a>
+																<a class="button no-bg" href="{{url('itservices/managedit')}}">Stay up and running</a>
 															</div>
 														</div>
 														<div class="vc_empty_space" style="height: 30px">
@@ -310,9 +284,7 @@
 														<div class="iconbox style3 ">
 															<h4 class="box-title">Backup and recovery</h4>
 															<div class="box-detail">
-																<p>
-																	Prevent data loss with encrypted storage and virtualized recovery, then enjoy increased productivity.
-																</p>
+																<p>Prevent data loss with encrypted storage and virtualized recovery, then enjoy increased productivity.</p>
 															</div>
 															<div class="box-icon"><img decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="Backup and recovery" data-lazy-src="{{url('frontend/rt-content/uploads/2018/08/ssd-storage-1951_0cd86b60-9df8-4053-9198-84f76027d5de.svg')}}" />
 																<noscript>
@@ -320,7 +292,7 @@
 																</noscript>
 															</div>
 															<div class="box-readmore">
-																<a class="button no-bg" href="it-services/cloud-computing/index.html">Defend your data</a>
+																<a class="button no-bg" href="{{url('itservices/cloudcomputing')}}">Defend your data</a>
 															</div>
 														</div>
 														<div class="vc_empty_space" style="height: 30px">
@@ -335,9 +307,7 @@
 														<div class="iconbox style3 ">
 															<h4 class="box-title">Cyber security</h4>
 															<div class="box-detail">
-																<p>
-																	Protect your business from malware, hackers, viruses and the most commonly security
-																</p>
+																<p>Protect your business from malware, hackers, viruses and the most commonly security</p>
 															</div>
 															<div class="box-icon">
 																<img decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="Cyber security" data-lazy-src="{{url('frontend/rt-content/uploads/2018/08/private-folder-4136_9a670d06-eeb7-4508-8533-143953499f9e.svg')}}" />
@@ -347,7 +317,7 @@
 															</div>
 
 															<div class="box-readmore">
-																<a class="button no-bg" href="it-services/cyber-security/index.html">Protect your business</a>
+																<a class="button no-bg" href="{{url('itservices/cybersecurity')}}">Protect your business</a>
 															</div>
 														</div>
 														<div class="vc_empty_space" style="height: 30px">
@@ -358,37 +328,31 @@
 											</div>
 										</div>
 									</div>
-									<!-- completed code till here -->
 									<div class="vc_row wpb_row vc_row-fluid">
 										<div class="row-inner">
 											<div class="wpb_column vc_column_container vc_col-sm-12">
 												<div class="vc_column-inner">
 													<div class="wpb_wrapper">
-														<div class="vc_empty_space" style="height: 10px"><span
-																class="vc_empty_space_inner"></span></div>
+														<div class="vc_empty_space" style="height: 10px"><span class="vc_empty_space_inner"></span></div>
 														<div class="wpb_text_column wpb_content_element ">
 															<div class="wpb_wrapper">
-																<p style="text-align: center; font-size: 15px;">IT
-																	services built specifically for your business. <a
-																		class="dot" href="it-services/index.html"><span
-																			style="color: #032b5f;">Find your
-																			solution</span></a></p>
-
+																<p style="text-align: center; font-size: 15px;">IT services built specifically for your business. 
+																	<a class="dot" href="{{url('itservices')}}">
+																		<span tyle="color: #032b5f;">Find your solution</span>
+																	</a>
+																</p>
 															</div>
 														</div>
-														<div class="vc_empty_space" style="height: 60px"><span
-																class="vc_empty_space_inner"></span></div>
-														<div
-															class="vc_separator wpb_content_element vc_separator_align_center vc_sep_width_100 vc_sep_pos_align_center vc_separator_no_text">
-															<span class="vc_sep_holder vc_sep_holder_l"><span
-																	style="border-color:rgb(0,0,0);border-color:rgba(0,0,0,0.06);"
-																	class="vc_sep_line"></span></span><span
-																class="vc_sep_holder vc_sep_holder_r"><span
-																	style="border-color:rgb(0,0,0);border-color:rgba(0,0,0,0.06);"
-																	class="vc_sep_line"></span></span>
+														<div class="vc_empty_space" style="height: 60px"><span class="vc_empty_space_inner"></span></div>
+														<div class="vc_separator wpb_content_element vc_separator_align_center vc_sep_width_100 vc_sep_pos_align_center vc_separator_no_text">
+															<span class="vc_sep_holder vc_sep_holder_l">
+																<span style="border-color:rgb(0,0,0);border-color:rgba(0,0,0,0.06);" class="vc_sep_line"></span>
+															</span>
+															<span class="vc_sep_holder vc_sep_holder_r">
+																<span style="border-color:rgb(0,0,0);border-color:rgba(0,0,0,0.06);" class="vc_sep_line"></span>
+															</span>
 														</div>
-														<div class="vc_empty_space" style="height: 40px"><span
-																class="vc_empty_space_inner"></span></div>
+														<div class="vc_empty_space" style="height: 40px"><span class="vc_empty_space_inner"></span></div>
 													</div>
 												</div>
 											</div>
@@ -399,24 +363,13 @@
 											<div class="wpb_column vc_column_container vc_col-sm-2 vc_col-xs-4">
 												<div class="vc_column-inner">
 													<div class="wpb_wrapper">
-														<div
-															class="wpb_single_image wpb_content_element vc_align_center">
-
+														<div class="wpb_single_image wpb_content_element vc_align_center">
 															<figure class="wpb_wrapper vc_figure">
-																<div
-																	class="vc_single_image-wrapper   vc_box_border_grey">
-																	<img decoding="async"
-																		src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
-																		class="vc_single_image-img attachment-full"
-																		alt="" title="skylark"
-																		data-lazy-src="https://skylarkschool.in/public/uploads/9754c8443a88a5cba6d16cac0d422dc4%20header_logo.png" />
-																		<noscript>
-																			<img
-																			decoding="async"
-																			src="https://skylarkschool.in/public/uploads/9754c8443a88a5cba6d16cac0d422dc4%20header_logo.png"
-																			class="vc_single_image-img attachment-full"
-																			alt="" title="skylark" />
-																		</noscript>
+																<div class="vc_single_image-wrapper vc_box_border_grey">
+																	<img decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" class="vc_single_image-img attachment-full" alt="" title="skylark" data-lazy-src="https://skylarkschool.in/public/uploads/9754c8443a88a5cba6d16cac0d422dc4%20header_logo.png" />
+																	<noscript>
+																		<img decoding="async" src="https://skylarkschool.in/public/uploads/9754c8443a88a5cba6d16cac0d422dc4%20header_logo.png" class="vc_single_image-img attachment-full" alt="" title="skylark" />
+																	</noscript>
 																</div>
 															</figure>
 														</div>
@@ -426,24 +379,13 @@
 											<div class="wpb_column vc_column_container vc_col-sm-2 vc_col-xs-4">
 												<div class="vc_column-inner">
 													<div class="wpb_wrapper">
-														<div
-															class="wpb_single_image wpb_content_element vc_align_center">
-
+														<div class="wpb_single_image wpb_content_element vc_align_center">
 															<figure class="wpb_wrapper vc_figure">
-																<div
-																	class="vc_single_image-wrapper   vc_box_border_grey">
-																	<img decoding="async"
-																		src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
-																		class="vc_single_image-img attachment-full"
-																		alt="" title="akgml"
-																		data-lazy-src="https://akgml.in/assets/img/akgml_logo.jpeg" />
-																		<noscript>
-																			<img
-																			decoding="async"
-																			src="https://akgml.in/assets/img/akgml_logo.jpeg"
-																			class="vc_single_image-img attachment-full"
-																			alt="" title="akgml" />
-																		</noscript>
+																<div class="vc_single_image-wrapper vc_box_border_grey">
+																	<img decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" class="vc_single_image-img attachment-full" alt="" title="akgml" data-lazy-src="https://akgml.in/assets/img/akgml_logo.jpeg" />
+																	<noscript>
+																		<img decoding="async" src="https://akgml.in/assets/img/akgml_logo.jpeg" class="vc_single_image-img attachment-full" alt="" title="akgml" />
+																	</noscript>
 																</div>
 															</figure>
 														</div>
@@ -453,21 +395,14 @@
 											<div class="wpb_column vc_column_container vc_col-sm-2 vc_col-xs-4">
 												<div class="vc_column-inner">
 													<div class="wpb_wrapper">
-														<div
-															class="wpb_single_image wpb_content_element vc_align_center">
-
+														<div class="wpb_single_image wpb_content_element vc_align_center">
 															<figure class="wpb_wrapper vc_figure">
-																<div
-																	class="vc_single_image-wrapper   vc_box_border_grey">
-																	<img decoding="async"
-																		src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
-																		class="vc_single_image-img attachment-full"
-																		alt="" title="rsparvat"
-																		data-lazy-src="https://rsparvat.in/assets/images/596193800cccccccccccccccc.png" /><noscript><img
-																			decoding="async"
-																			src="https://rsparvat.in/assets/images/596193800cccccccccccccccc.png"
-																			class="vc_single_image-img attachment-full"
-																			alt="" title="rsparvat" /></noscript></div>
+																<div class="vc_single_image-wrapper vc_box_border_grey">
+																	<img decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" class="vc_single_image-img attachment-full" alt="" title="rsparvat" data-lazy-src="https://rsparvat.in/assets/images/596193800cccccccccccccccc.png" />
+																	<noscript>
+																		<img decoding="async" src="https://rsparvat.in/assets/images/596193800cccccccccccccccc.png" class="vc_single_image-img attachment-full" alt="" title="rsparvat" />
+																	</noscript>
+																</div>
 															</figure>
 														</div>
 													</div>
@@ -476,21 +411,14 @@
 											<div class="wpb_column vc_column_container vc_col-sm-2 vc_col-xs-4">
 												<div class="vc_column-inner">
 													<div class="wpb_wrapper">
-														<div
-															class="wpb_single_image wpb_content_element vc_align_center">
-
+														<div class="wpb_single_image wpb_content_element vc_align_center">
 															<figure class="wpb_wrapper vc_figure">
-																<div
-																	class="vc_single_image-wrapper   vc_box_border_grey">
-																	<img decoding="async"
-																		src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
-																		class="vc_single_image-img attachment-full"
-																		alt="" title="SBS"
-																		data-lazy-src="https://sbsgroups.co.in/assets/frontend/img/sbs_logo.png" /><noscript><img
-																			decoding="async"
-																			src="https://sbsgroups.co.in/assets/frontend/img/sbs_logo.png"
-																			class="vc_single_image-img attachment-full"
-																			alt="" title="SBS" /></noscript></div>
+																<div class="vc_single_image-wrapper vc_box_border_grey">
+																	<img decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" class="vc_single_image-img attachment-full" alt="" title="SBS" data-lazy-src="https://sbsgroups.co.in/assets/frontend/img/sbs_logo.png" />
+																	<noscript>
+																		<img decoding="async" src="https://sbsgroups.co.in/assets/frontend/img/sbs_logo.png" class="vc_single_image-img attachment-full" alt="" title="SBS" />
+																	</noscript>
+																</div>
 															</figure>
 														</div>
 													</div>
@@ -499,21 +427,14 @@
 											<div class="wpb_column vc_column_container vc_col-sm-2 vc_col-xs-4">
 												<div class="vc_column-inner">
 													<div class="wpb_wrapper">
-														<div
-															class="wpb_single_image wpb_content_element vc_align_center">
-
+														<div class="wpb_single_image wpb_content_element vc_align_center">
 															<figure class="wpb_wrapper vc_figure">
-																<div
-																	class="vc_single_image-wrapper   vc_box_border_grey">
-																	<img decoding="async"
-																		src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
-																		class="vc_single_image-img attachment-full"
-																		alt="" title="smartkidzpublicschool"
-																		data-lazy-src="https://smartkidzpublicschool.in/public/uploads/cb7179533c4cc01aff1a118f9fab2b93%20smart.jpg" /><noscript><img
-																			decoding="async"
-																			src="https://smartkidzpublicschool.in/public/uploads/cb7179533c4cc01aff1a118f9fab2b93%20smart.jpg"
-																			class="vc_single_image-img attachment-full"
-																			alt="" title="smartkidzpublicschool" /></noscript></div>
+																<div class="vc_single_image-wrapper vc_box_border_grey">
+																	<img decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" class="vc_single_image-img attachment-full" alt="" title="smartkidzpublicschool" data-lazy-src="https://smartkidzpublicschool.in/public/uploads/cb7179533c4cc01aff1a118f9fab2b93%20smart.jpg" />
+																	<noscript>
+																		<img decoding="async" src="https://smartkidzpublicschool.in/public/uploads/cb7179533c4cc01aff1a118f9fab2b93%20smart.jpg" class="vc_single_image-img attachment-full" alt="" title="smartkidzpublicschool" />
+																	</noscript>
+																</div>
 															</figure>
 														</div>
 													</div>
@@ -522,21 +443,15 @@
 											<div class="wpb_column vc_column_container vc_col-sm-2 vc_col-xs-4">
 												<div class="vc_column-inner">
 													<div class="wpb_wrapper">
-														<div
-															class="wpb_single_image wpb_content_element vc_align_center">
+														<div class="wpb_single_image wpb_content_element vc_align_center">
 
 															<figure class="wpb_wrapper vc_figure">
-																<div
-																	class="vc_single_image-wrapper   vc_box_border_grey">
-																	<img decoding="async"
-																		src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
-																		class="vc_single_image-img attachment-full"
-																		alt="" title="stmschool"
-																		data-lazy-src="https://stmschool.in/public/uploads/2019/01/12.png" /><noscript><img
-																			decoding="async"
-																			src="https://stmschool.in/public/uploads/2019/01/12.png"
-																			class="vc_single_image-img attachment-full"
-																			alt="" title="stmschool" /></noscript></div>
+																<div lass="vc_single_image-wrapper vc_box_border_grey">
+																	<img decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" class="vc_single_image-img attachment-full" alt="" title="stmschool" data-lazy-src="https://stmschool.in/public/uploads/2019/01/12.png" />
+																	<noscript>
+																		<img decoding="async" src="https://stmschool.in/public/uploads/2019/01/12.png" class="vc_single_image-img attachment-full" alt="" title="stmschool" />
+																	</noscript>
+																</div>
 															</figure>
 														</div>
 													</div>
@@ -545,10 +460,8 @@
 										</div>
 									</div>
 								</section>
-								<!-- services section ends here -->
 								<section class="vc_section vc_custom_1575619212460">
-									<div
-										class="vc_row wpb_row vc_row-fluid vc_custom_1575619218389 vc_row-has-fill">
+									<div class="vc_row wpb_row vc_row-fluid vc_custom_1575619218389 vc_row-has-fill">
 										<div class="row-inner">
 											<div class="wpb_column vc_column_container vc_col-sm-12">
 												<div class="vc_column-inner">
@@ -573,22 +486,11 @@
 																	<div class="wpb_wrapper">
 																		<div class="wpb_text_column wpb_content_element ">
 																			<div class="wpb_wrapper">
-																				<p><span style="color: #9b9aad;">Our
-																						vertical solutions expertise
-																						allows your business to
-																						streamline workflow, and
-																						increase productivity. No matter
-																						the business, NanoSoft has you
-																						covered with industry compliant
-																						solutions, customized to your
-																						company' s specific needs.</span>
-																				</p>
-
+																				<p><span style="color: #9b9aad;">Our vertical solutions expertise allows your business to streamline workflow, and increase productivity. No matter the business, NanoSoft has you covered with industry compliant solutions, customized to your company' s specific needs.</span></p>
 																			</div>
 																		</div>
-																		<div class="vc_empty_space"
-																			style="height: 20px"><span
-																				class="vc_empty_space_inner"></span>
+																		<div class="vc_empty_space" style="height: 20px">
+																			<span class="vc_empty_space_inner"></span>
 																		</div>
 																	</div>
 																</div>
@@ -757,12 +659,11 @@
 										<div class="row-inner">
 											<div class="wpb_animate_when_almost_visible wpb_fadeInUp fadeInUp wpb_column vc_column_container vc_col-sm-12">
 												<div class="vc_column-inner">
-													<div class="wpb_wrapper"> <!-- BEGIN: .projects -->
+													<div class="wpb_wrapper">
 														<div class="projects projects-shortcode projects-masonry  ">
 															<div class="projects-wrap">
 																<div class="projects-top"></div>
 																<div class="projects-items" data-grid="{&quot;itemSelector&quot;:&quot;.project&quot;}" data-columns="3">
-																	<!-- Project -->
 																	<div class="project post-653 nproject type-nproject status-publish has-post-thumbnail hentry nproject-category-healthcare-industry nproject-tag-cloud nproject-tag-healthcare nproject-tag-industry">
 																		<div class="project-inner" data-height="project-grid">
 																			<a class="mask" style="background-color: #71cbcc;" href="nproject/cloud-migration-saves-money-for-health-insurer/index.html">#71cbcc </a>
@@ -805,8 +706,6 @@
 																			</div>
 																		</div>
 																	</div>
-																	<!-- /Project -->
-																	<!-- Project -->
 																	<div class="project post-650 nproject type-nproject status-publish has-post-thumbnail hentry nproject-category-cyber-security nproject-tag-security nproject-tag-support nproject-tag-technology">
 																		<div class="project-inner" data-height="project-grid">
 																			<a class="mask" style="background-color: #29b2fe;" href="nproject/remote-support-center-for-semiconductor-provider/index.html">#29b2fe </a>
@@ -899,11 +798,9 @@
 																			</div>
 																		</div>
 																	</div>
-																	<!-- /Project -->
 																</div>
 															</div>
 														</div>
-														<!-- END: .projects -->
 														<div class="vc_empty_space" style="height: 10px"><span class="vc_empty_space_inner"></span></div>
 														<div class="wpb_text_column wpb_content_element ">
 															<div class="wpb_wrapper">
@@ -917,8 +814,7 @@
 										</div>
 									</div>
 								</section>
-								<section
-									class="vc_section gradient2 bg-bottom mask vc_custom_1575619236741 vc_section-has-fill">
+								<section class="vc_section gradient2 bg-bottom mask vc_custom_1575619236741 vc_section-has-fill">
 									<div class="vc_row wpb_row vc_row-fluid">
 										<div class="row-inner">
 											<div class="wpb_column vc_column_container vc_col-sm-12">
@@ -948,11 +844,8 @@
 																					</noscript>
 																				</div>
 																			</div>
-																			<div class="drag_element tips "
-																				style="top:14.67%;left:19.24%;">
-																				<div class="point_style has-hover ihotspot_tooltop_html"
-																					data-placement="n"
-																					data-html="">
+																			<div class="drag_element tips" style="top:14.67%;left:19.24%;">
+																				<div class="point_style has-hover ihotspot_tooltop_html" data-placement="n" data-html="">
 																					<div class="pins_animation ihotspot_pulse" style="top:-15px;left:-15px;height:30px;width:30px"></div>
 																					<img decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" class="pins_image" style="top:-15px;left:-15px" data-lazy-src="{{url('frontend/rt-content/uploads/2018/09/004-user-1.svg')}}">
 																					<noscript>
@@ -964,12 +857,9 @@
 																					</noscript>
 																				</div>
 																			</div>
-																			<div class="drag_element tips "
-																				style="top:37.92%;left:25.84%;">
-																				<div class="point_style has-hover ihotspot_tooltop_html" data-placement="n" data-html="&lt;div class=&quot;box_view_html&quot;&gt;&lt;span class=&quot;close_ihp&quot;&gt;&lt;svg version=&quot;1.1&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; xmlns:xlink=&quot;http://www.w3.org/1999/xlink&quot; x=&quot;0px&quot; y=&quot;0px&quot; viewBox=&quot;0 0 1000 1000&quot; enable-background=&quot;new 0 0 1000 1000&quot; xml:space=&quot;preserve&quot;&gt;&lt;g&gt;&lt;path d=&quot;M153.7,153.7C57.9,249.5,10,365.3,10,499c0,135.7,47.9,251.5,143.7,347.3l0,0C249.5,942.1,363.3,990,499,990c135.7,0,251.5-47.9,347.3-143.7C942.1,750.5,990,634.7,990,499c0-135.7-47.9-249.5-143.7-345.3l0,0C750.5,57.9,634.7,10,499,10C365.3,10,249.5,57.9,153.7,153.7z M209.6,211.6l2-2C289.4,129.7,387.2,89.8,499,89.8c113.8,0,209.6,39.9,291.4,121.8c79.8,77.8,119.8,175.6,119.8,287.4c0,113.8-39.9,209.6-119.8,291.4C708.6,870.3,612.8,910.2,499,910.2c-111.8,0-209.6-39.9-287.4-119.8C129.8,708.6,89.8,612.8,89.8,499C89.8,387.2,129.8,289.4,209.6,211.6z&quot;/&gt;&lt;path d=&quot;M293.4,331.3c0,12,4,22,12,29.9L443.1,497L305.4,632.7c-8,8-12,18-12,29.9c0,10,4,18,12,26c8,8,18,12,28,12c12,0,20-4,27.9-10L499,552.9l135.7,137.7c8,6,16,10,28,10c12,0,21.9-4,27.9-10c8-8,12-18,12-28c0-12-4-21.9-12-29.9L554.9,497l135.7-135.7c8-8,12-18,12-27.9c0-12-4-22-12-29.9c-6-8-16-12-25.9-12c-12,0-21.9,4-29.9,12L499,441.1L363.3,303.4c-8-8-18-12-29.9-12c-10,0-20,4-28,12C297.4,311.4,293.4,321.4,293.4,331.3z&quot;/&gt;&lt;/g&gt;&lt;/svg&gt;&lt;/span&gt;&lt;p&gt;They understand the importance of solving problems in real time.&lt;/p&gt;&lt;/div&gt;>
-																					<div class="pins_animation ihotspot_pulse"
-																						style="top:-15px;left:-15px;height:30px;width:30px">
-																					</div>
+																			<div class="drag_element tips" style="top:37.92%;left:25.84%;">
+																				<div class="point_style has-hover ihotspot_tooltop_html" data-placement="n" data-html="&lt;div class=&quot;box_view_html&quot;&gt;&lt;span class=&quot;close_ihp&quot;&gt;&lt;svg version=&quot;1.1&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; xmlns:xlink=&quot;http://www.w3.org/1999/xlink&quot; x=&quot;0px&quot; y=&quot;0px&quot; viewBox=&quot;0 0 1000 1000&quot; enable-background=&quot;new 0 0 1000 1000&quot; xml:space=&quot;preserve&quot;&gt;&lt;g&gt;&lt;path d=&quot;M153.7,153.7C57.9,249.5,10,365.3,10,499c0,135.7,47.9,251.5,143.7,347.3l0,0C249.5,942.1,363.3,990,499,990c135.7,0,251.5-47.9,347.3-143.7C942.1,750.5,990,634.7,990,499c0-135.7-47.9-249.5-143.7-345.3l0,0C750.5,57.9,634.7,10,499,10C365.3,10,249.5,57.9,153.7,153.7z M209.6,211.6l2-2C289.4,129.7,387.2,89.8,499,89.8c113.8,0,209.6,39.9,291.4,121.8c79.8,77.8,119.8,175.6,119.8,287.4c0,113.8-39.9,209.6-119.8,291.4C708.6,870.3,612.8,910.2,499,910.2c-111.8,0-209.6-39.9-287.4-119.8C129.8,708.6,89.8,612.8,89.8,499C89.8,387.2,129.8,289.4,209.6,211.6z&quot;/&gt;&lt;path d=&quot;M293.4,331.3c0,12,4,22,12,29.9L443.1,497L305.4,632.7c-8,8-12,18-12,29.9c0,10,4,18,12,26c8,8,18,12,28,12c12,0,20-4,27.9-10L499,552.9l135.7,137.7c8,6,16,10,28,10c12,0,21.9-4,27.9-10c8-8,12-18,12-28c0-12-4-21.9-12-29.9L554.9,497l135.7-135.7c8-8,12-18,12-27.9c0-12-4-22-12-29.9c-6-8-16-12-25.9-12c-12,0-21.9,4-29.9,12L499,441.1L363.3,303.4c-8-8-18-12-29.9-12c-10,0-20,4-28,12C297.4,311.4,293.4,321.4,293.4,331.3z&quot;/&gt;&lt;/g&gt;&lt;/svg&gt;&lt;/span&gt;&lt;p&gt;They understand the importance of solving problems in real time.&lt;/p&gt;&lt;/div&gt;" >
+																					<div class="pins_animation ihotspot_pulse" style="top:-15px;left:-15px;height:30px;width:30px"></div>
 																					<img width="60" height="60" decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2060%2060'%3E%3C/svg%3E" class="pins_image ihotspot_hastooltop" style="top:-15px;left:-15px" data-lazy-src="{{url('frontend/rt-content/uploads/2018/09/m1.png')}}">
 																					<noscript>
 																						<img width="60" height="60" decoding="async" src="{{url('frontend/rt-content/uploads/2018/09/m1.png')}}" class="pins_image ihotspot_hastooltop" style="top:-15px;left:-15px">
@@ -977,37 +867,30 @@
 																					<img width="60" height="60" decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2060%2060'%3E%3C/svg%3E" class="pins_image_hover ihotspot_hastooltop" style="top:-15px;left:-15px" data-lazy-src="{{url('frontend/rt-content/uploads/2018/09/m1.png')}}"><noscript><img width="60" height="60" decoding="async" src="{{url('frontend/rt-content/uploads/2018/09/m1.png')}}" class="pins_image_hover ihotspot_hastooltop" style="top:-15px;left:-15px"></noscript>
 																				</div>
 																			</div>
-																			<div class="drag_element tips"
-																				style="top:2.48%;left:34.92%;">
+																			<div class="drag_element tips" style="top:2.48%;left:34.92%;">
 																				<div class="point_style has-hover ihotspot_tooltop_html" data-placement="n" data-html="&lt;div class=&quot;box_view_html&quot;&gt;&lt;span class=&quot;close_ihp&quot;&gt;&lt;svg version=&quot;1.1&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; xmlns:xlink=&quot;http://www.w3.org/1999/xlink&quot; x=&quot;0px&quot; y=&quot;0px&quot; viewBox=&quot;0 0 1000 1000&quot; enable-background=&quot;new 0 0 1000 1000&quot; xml:space=&quot;preserve&quot;&gt;&lt;g&gt;&lt;path d=&quot;M153.7,153.7C57.9,249.5,10,365.3,10,499c0,135.7,47.9,251.5,143.7,347.3l0,0C249.5,942.1,363.3,990,499,990c135.7,0,251.5-47.9,347.3-143.7C942.1,750.5,990,634.7,990,499c0-135.7-47.9-249.5-143.7-345.3l0,0C750.5,57.9,634.7,10,499,10C365.3,10,249.5,57.9,153.7,153.7z M209.6,211.6l2-2C289.4,129.7,387.2,89.8,499,89.8c113.8,0,209.6,39.9,291.4,121.8c79.8,77.8,119.8,175.6,119.8,287.4c0,113.8-39.9,209.6-119.8,291.4C708.6,870.3,612.8,910.2,499,910.2c-111.8,0-209.6-39.9-287.4-119.8C129.8,708.6,89.8,612.8,89.8,499C89.8,387.2,129.8,289.4,209.6,211.6z&quot;/&gt;&lt;path d=&quot;M293.4,331.3c0,12,4,22,12,29.9L443.1,497L305.4,632.7c-8,8-12,18-12,29.9c0,10,4,18,12,26c8,8,18,12,28,12c12,0,20-4,27.9-10L499,552.9l135.7,137.7c8,6,16,10,28,10c12,0,21.9-4,27.9-10c8-8,12-18,12-28c0-12-4-21.9-12-29.9L554.9,497l135.7-135.7c8-8,12-18,12-27.9c0-12-4-22-12-29.9c-6-8-16-12-25.9-12c-12,0-21.9,4-29.9,12L499,441.1L363.3,303.4c-8-8-18-12-29.9-12c-10,0-20,4-28,12C297.4,311.4,293.4,321.4,293.4,331.3z&quot;/&gt;&lt;/g&gt;&lt;/svg&gt;&lt;/span&gt;&lt;p&gt;They understand the importance of solving problems in real time.&lt;/p&gt;&lt;/div&gt;">
-																					<div class="pins_animation ihotspot_pulse" style="top:-15px;left:-15px;height:30px;width:30px">
-																					</div>
+																					<div class="pins_animation ihotspot_pulse" style="top:-15px;left:-15px;height:30px;width:30px"></div>
 																					<img width="60" height="60" decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2060%2060'%3E%3C/svg%3E" class="pins_image ihotspot_hastooltop" style="top:-15px;left:-15px" data-lazy-src="{{url('frontend/rt-content/uploads/2018/09/m3.png')}}"><noscript><img width="60" height="60" decoding="async" src="{{url('frontend/rt-content/uploads/2018/09/m3.png')}}" class="pins_image ihotspot_hastooltop" style="top:-15px;left:-15px"></noscript>
 																					<img width="60" height="60" decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2060%2060'%3E%3C/svg%3E" class="pins_image_hover ihotspot_hastooltop" style="top:-15px;left:-15px" data-lazy-src="{{url('frontend/rt-content/uploads/2018/09/m3.png')}}"><noscript><img width="60" height="60" decoding="async" src="{{url('frontend/rt-content/uploads/2018/09/m3.png')}}" class="pins_image_hover ihotspot_hastooltop" style="top:-15px;left:-15px"></noscript>
 																				</div>
 																			</div>
-																			<div class="drag_element tips " style="top:34.99%;left:49.30%;">
+																			<div class="drag_element tips" style="top:34.99%;left:49.30%;">
 																				<div class="point_style has-hover ihotspot_tooltop_html" data-placement="n" data-html="&lt;div class=&quot;box_view_html&quot;&gt;&lt;span class=&quot;close_ihp&quot;&gt;&lt;svg version=&quot;1.1&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; xmlns:xlink=&quot;http://www.w3.org/1999/xlink&quot; x=&quot;0px&quot; y=&quot;0px&quot; viewBox=&quot;0 0 1000 1000&quot; enable-background=&quot;new 0 0 1000 1000&quot; xml:space=&quot;preserve&quot;&gt;&lt;g&gt;&lt;path d=&quot;M153.7,153.7C57.9,249.5,10,365.3,10,499c0,135.7,47.9,251.5,143.7,347.3l0,0C249.5,942.1,363.3,990,499,990c135.7,0,251.5-47.9,347.3-143.7C942.1,750.5,990,634.7,990,499c0-135.7-47.9-249.5-143.7-345.3l0,0C750.5,57.9,634.7,10,499,10C365.3,10,249.5,57.9,153.7,153.7z M209.6,211.6l2-2C289.4,129.7,387.2,89.8,499,89.8c113.8,0,209.6,39.9,291.4,121.8c79.8,77.8,119.8,175.6,119.8,287.4c0,113.8-39.9,209.6-119.8,291.4C708.6,870.3,612.8,910.2,499,910.2c-111.8,0-209.6-39.9-287.4-119.8C129.8,708.6,89.8,612.8,89.8,499C89.8,387.2,129.8,289.4,209.6,211.6z&quot;/&gt;&lt;path d=&quot;M293.4,331.3c0,12,4,22,12,29.9L443.1,497L305.4,632.7c-8,8-12,18-12,29.9c0,10,4,18,12,26c8,8,18,12,28,12c12,0,20-4,27.9-10L499,552.9l135.7,137.7c8,6,16,10,28,10c12,0,21.9-4,27.9-10c8-8,12-18,12-28c0-12-4-21.9-12-29.9L554.9,497l135.7-135.7c8-8,12-18,12-27.9c0-12-4-22-12-29.9c-6-8-16-12-25.9-12c-12,0-21.9,4-29.9,12L499,441.1L363.3,303.4c-8-8-18-12-29.9-12c-10,0-20,4-28,12C297.4,311.4,293.4,321.4,293.4,331.3z&quot;/&gt;&lt;/g&gt;&lt;/svg&gt;&lt;/span&gt;&lt;p&gt;They understand the importance of solving problems in real time.&lt;/p&gt;&lt;/div&gt;">
-																					<div class="pins_animation ihotspot_pulse" style="top:-15px;left:-15px;height:30px;width:30px">
-																					</div>
+																					<div class="pins_animation ihotspot_pulse" style="top:-15px;left:-15px;height:30px;width:30px"></div>
 																					<img width="60" height="60" decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2060%2060'%3E%3C/svg%3E" class="pins_image ihotspot_hastooltop" style="top:-15px;left:-15px" data-lazy-src="{{url('frontend/rt-content/uploads/2018/09/m2.png')}}"><noscript><img width="60" height="60" decoding="async" src="{{url('frontend/rt-content/uploads/2018/09/m2.png')}}" class="pins_image ihotspot_hastooltop" style="top:-15px;left:-15px"></noscript>
 																					<img width="60" height="60" decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2060%2060'%3E%3C/svg%3E" class="pins_image_hover ihotspot_hastooltop" style="top:-15px;left:-15px" data-lazy-src="{{url('frontend/rt-content/uploads/2018/09/m2.png')}}"><noscript><img width="60" height="60" decoding="async" src="{{url('frontend/rt-content/uploads/2018/09/m2.png')}}" class="pins_image_hover ihotspot_hastooltop" style="top:-15px;left:-15px"></noscript>
 																				</div>
 																			</div>
-																			<div class="drag_element tips " style="top:20.99%;left:60.97%;">
+																			<div class="drag_element tips" style="top:20.99%;left:60.97%;">
 																				<div class="point_style has-hover ihotspot_tooltop_html" data-placement="n" data-html="&lt;div class=&quot;box_view_html&quot;&gt;&lt;span class=&quot;close_ihp&quot;&gt;&lt;svg version=&quot;1.1&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; xmlns:xlink=&quot;http://www.w3.org/1999/xlink&quot; x=&quot;0px&quot; y=&quot;0px&quot; viewBox=&quot;0 0 1000 1000&quot; enable-background=&quot;new 0 0 1000 1000&quot; xml:space=&quot;preserve&quot;&gt;&lt;g&gt;&lt;path d=&quot;M153.7,153.7C57.9,249.5,10,365.3,10,499c0,135.7,47.9,251.5,143.7,347.3l0,0C249.5,942.1,363.3,990,499,990c135.7,0,251.5-47.9,347.3-143.7C942.1,750.5,990,634.7,990,499c0-135.7-47.9-249.5-143.7-345.3l0,0C750.5,57.9,634.7,10,499,10C365.3,10,249.5,57.9,153.7,153.7z M209.6,211.6l2-2C289.4,129.7,387.2,89.8,499,89.8c113.8,0,209.6,39.9,291.4,121.8c79.8,77.8,119.8,175.6,119.8,287.4c0,113.8-39.9,209.6-119.8,291.4C708.6,870.3,612.8,910.2,499,910.2c-111.8,0-209.6-39.9-287.4-119.8C129.8,708.6,89.8,612.8,89.8,499C89.8,387.2,129.8,289.4,209.6,211.6z&quot;/&gt;&lt;path d=&quot;M293.4,331.3c0,12,4,22,12,29.9L443.1,497L305.4,632.7c-8,8-12,18-12,29.9c0,10,4,18,12,26c8,8,18,12,28,12c12,0,20-4,27.9-10L499,552.9l135.7,137.7c8,6,16,10,28,10c12,0,21.9-4,27.9-10c8-8,12-18,12-28c0-12-4-21.9-12-29.9L554.9,497l135.7-135.7c8-8,12-18,12-27.9c0-12-4-22-12-29.9c-6-8-16-12-25.9-12c-12,0-21.9,4-29.9,12L499,441.1L363.3,303.4c-8-8-18-12-29.9-12c-10,0-20,4-28,12C297.4,311.4,293.4,321.4,293.4,331.3z&quot;/&gt;&lt;/g&gt;&lt;/svg&gt;&lt;/span&gt;&lt;p&gt;They understand the importance of solving problems in real time.&lt;/p&gt;&lt;/div&gt;">
-																					<div class="pins_animation ihotspot_pulse" style="top:-15px;left:-15px;height:30px;width:30px">
-																					</div>
+																					<div class="pins_animation ihotspot_pulse" style="top:-15px;left:-15px;height:30px;width:30px"></div>
 																					<img width="60" height="60" decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2060%2060'%3E%3C/svg%3E" class="pins_image ihotspot_hastooltop" style="top:-15px;left:-15px" data-lazy-src="{{url('frontend/rt-content/uploads/2018/09/m4.png')}}"><noscript><img width="60" height="60" decoding="async" src="{{url('frontend/rt-content/uploads/2018/09/m4.png')}}" class="pins_image ihotspot_hastooltop" style="top:-15px;left:-15px"></noscript>
-																					<img width="60" height="60" decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2060%2060'%3E%3C/svg%3E"
-																						class="pins_image_hover ihotspot_hastooltop" style="top:-15px;left:-15px" data-lazy-src="{{url('frontend/rt-content/uploads/2018/09/m4.png')}}"><noscript><img width="60" height="60" decoding="async" src="{{url('frontend/rt-content/uploads/2018/09/m4.png')}}" class="pins_image_hover ihotspot_hastooltop" style="top:-15px;left:-15px"></noscript>
+																					<img width="60" height="60" decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2060%2060'%3E%3C/svg%3E" class="pins_image_hover ihotspot_hastooltop" style="top:-15px;left:-15px" data-lazy-src="{{url('frontend/rt-content/uploads/2018/09/m4.png')}}"><noscript><img width="60" height="60" decoding="async" src="{{url('frontend/rt-content/uploads/2018/09/m4.png')}}" class="pins_image_hover ihotspot_hastooltop" style="top:-15px;left:-15px"></noscript>
 																				</div>
 																			</div>
-																			<div class="drag_element tips "
-																				style="top:8.58%;left:78.49%;">
+																			<div class="drag_element tips" style="top:8.58%;left:78.49%;">
 																				<div class="point_style has-hover ihotspot_tooltop_html" data-placement="n" data-html="">
-																					<div class="pins_animation ihotspot_pulse" style="top:-15px;left:-15px;height:30px;width:30px">
-																					</div>
+																					<div class="pins_animation ihotspot_pulse" style="top:-15px;left:-15px;height:30px;width:30px"></div>
 																					<img decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" class="pins_image " style="top:-15px;left:-15px" data-lazy-src="{{url('frontend/rt-content/uploads/2018/09/004-user-1.svg')}}"><noscript><img decoding="async" src="{{url('frontend/rt-content/uploads/2018/09/004-user-1.svg')}}" class="pins_image " style="top:-15px;left:-15px"></noscript>
 																					<img decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" class="pins_image_hover " style="top:-15px;left:-15px" data-lazy-src="{{url('frontend/rt-content/uploads/2018/09/004-user-1-1.svg')}}"><noscript><img decoding="async" src="{{url('frontend/rt-content/uploads/2018/09/004-user-1-1.svg')}}" class="pins_image_hover " style="top:-15px;left:-15px"></noscript>
 																				</div>
@@ -1020,47 +903,47 @@
 																				</div>
 																			</div>
 																			<div class="drag_element tips "style="top:20.32%;left:96.00%;">
-																				<div class="point_style has-hover ihotspot_tooltop_html"data-placement="n"data-html="		 			 		 		 ">
-																					<div class="pins_animation ihotspot_pulse"style="top:-15px;left:-15px;height:30px;width:30px">
-																					</div>
+																				<div class="point_style has-hover ihotspot_tooltop_html"data-placement="n"data-html="">
+																					<div class="pins_animation ihotspot_pulse"style="top:-15px;left:-15px;height:30px;width:30px"></div>
 																					<img decoding="async"src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"class="pins_image "style="top:-15px;left:-15px"data-lazy-src="{{url('frontend/rt-content/uploads/2018/09/004-user-1.svg')}}"><noscript><imgdecoding="async"src="{{url('frontend/rt-content/uploads/2018/09/004-user-1.svg')}}"class="pins_image "style="top:-15px;left:-15px"></noscript>
 																					<img decoding="async"src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"class="pins_image_hover "style="top:-15px;left:-15px"data-lazy-src="{{url('frontend/rt-content/uploads/2018/09/004-user-1-1.svg')}}"><noscript><imgdecoding="async"src="{{url('frontend/rt-content/uploads/2018/09/004-user-1-1.svg')}}"class="pins_image_hover "style="top:-15px;left:-15px"></noscript>
 																				</div>
 																			</div>
 																			<div class="drag_element tips "style="top:51.69%;left:62.38%;">
-																				<div class="point_style has-hover ihotspot_tooltop_html"data-placement="n"data-html="		 			 		 		 "><div class="pins_animation ihotspot_pulse"style="top:-15px;left:-15px;height:30px;width:30px">
-																					</div>
+																				<div class="point_style has-hover ihotspot_tooltop_html"data-placement="n"data-html="">
+																					<div class="pins_animation ihotspot_pulse"style="top:-15px;left:-15px;height:30px;width:30px"></div>
 																					<img decoding="async"src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"class="pins_image "style="top:-15px;left:-15px"data-lazy-src="{{url('frontend/rt-content/uploads/2018/09/004-user-1.svg')}}"><noscript><imgdecoding="async"src="{{url('frontend/rt-content/uploads/2018/09/004-user-1.svg')}}"class="pins_image "style="top:-15px;left:-15px"></noscript>
 																					<img decoding="async"src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"class="pins_image_hover "style="top:-15px;left:-15px"data-lazy-src="{{url('frontend/rt-content/uploads/2018/09/004-user-1-1.svg')}}"><noscript><imgdecoding="async"src="{{url('frontend/rt-content/uploads/2018/09/004-user-1-1.svg')}}"class="pins_image_hover "style="top:-15px;left:-15px"></noscript>
 																				</div>
 																			</div>
-
-
 																		</div>
 																	</div>
 																</div>
-
-
 															</div>
 														</div>
-														<divclass="vc_row wpb_row vc_inner vc_row-fluid wpb_animate_when_almost_visible wpb_bounceIn bounceIn vc_custom_1537521751471">
+														<div class="vc_row wpb_row vc_inner vc_row-fluid wpb_animate_when_almost_visible wpb_bounceIn bounceIn vc_custom_1537521751471">
 															<div class="wpb_column vc_column_container vc_col-sm-12">
 																<div class="vc_column-inner">
 																	<div class="wpb_wrapper">
-																		<ulclass="iconlist iconlist iconlist-icon-xlarge ">
+																		<ul class="iconlist iconlist iconlist-icon-xlarge ">
 																			<li>
 																				<div class="hover2">
-																					<div class="iconlist-item-icon"><imgdecoding="async"src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"alt="verify-user-2882_34a423f4-f6f9-442b-a332-d9866d0f7ce8"data-lazy-src="{{url('frontend/rt-content/uploads/2018/09/verify-user-2882_34a423f4-f6f9-442b-a332-d9866d0f7ce8.svg')}}" /><noscript><imgdecoding="async"src="{{url('frontend/rt-content/uploads/2018/09/verify-user-2882_34a423f4-f6f9-442b-a332-d9866d0f7ce8.svg')}}"alt="verify-user-2882_34a423f4-f6f9-442b-a332-d9866d0f7ce8" /></noscript>
+																					<div class="iconlist-item-icon">
+																						<img decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="verify-user-2882_34a423f4-f6f9-442b-a332-d9866d0f7ce8" data-lazy-src="{{url('frontend/rt-content/uploads/2018/09/verify-user-2882_34a423f4-f6f9-442b-a332-d9866d0f7ce8.svg')}}" />
+																						<noscript>
+																							<img decoding="async" src="{{url('frontend/rt-content/uploads/2018/09/verify-user-2882_34a423f4-f6f9-442b-a332-d9866d0f7ce8.svg')}}" alt="verify-user-2882_34a423f4-f6f9-442b-a332-d9866d0f7ce8" />
+																						</noscript>
 																					</div>
 																					<div class="iconlist-item-content">
 																						<h4>We have an IT department</h4>
-																						<p>Partner with us for ITmanagement services to growyour existing ITinfrastructure<br /><aclass="link"href="contact-us/index.html">Contactus today</a>
+																						<p>Partner with us for ITmanagement services to growyour existing ITinfrastructure<br /><a class="link" href="{{url('/contacts')}}">Contactus today</a>
 																					</div>
 																				</div>
 																			</li>
 																			<li>
 																				<div class="hover2">
-																					<div class="iconlist-item-icon"><imgdecoding="async"src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"alt="delete-user-2883_8d24d9cd-37cc-4ac4-9d5f-322c30da185c"data-lazy-src="{{url('frontend/rt-content/uploads/2018/09/delete-user-2883_8d24d9cd-37cc-4ac4-9d5f-322c30da185c.svg')}}" /><noscript><imgdecoding="async"src="{{url('frontend/rt-content/uploads/2018/09/delete-user-2883_8d24d9cd-37cc-4ac4-9d5f-322c30da185c.svg')}}"alt="delete-user-2883_8d24d9cd-37cc-4ac4-9d5f-322c30da185c" /></noscript>
+																					<div class="iconlist-item-icon">
+																						<img decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="delete-user-2883_8d24d9cd-37cc-4ac4-9d5f-322c30da185c" data-lazy-src="{{url('frontend/rt-content/uploads/2018/09/delete-user-2883_8d24d9cd-37cc-4ac4-9d5f-322c30da185c.svg')}}" /><noscript><imgdecoding="async"src="{{url('frontend/rt-content/uploads/2018/09/delete-user-2883_8d24d9cd-37cc-4ac4-9d5f-322c30da185c.svg')}}" alt="delete-user-2883_8d24d9cd-37cc-4ac4-9d5f-322c30da185c" /></noscript>
 																					</div>
 																					<div class="iconlist-item-content">
 																						<h4>We don&#8217;t have an ITdepartment</h4>
@@ -1073,11 +956,12 @@
 																</div>
 															</div>
 														</div>
-														<div class="vc_empty_space" style="height: 60px"><spanclass="vc_empty_space_inner"></span></div>
+														<div class="vc_empty_space" style="height: 60px">
+															<span class="vc_empty_space_inner"></span>
+														</div>
 														<div class="wpb_text_column wpb_content_element ">
 															<div class="wpb_wrapper">
 																<p style="text-align: center; font-size: 15px;">Discoverhow we can help your business WIN with managed ITservices. <a class="dot"href="it-services/index.html"><spanstyle="color: #032b5f;">Discovernow</span></a></p>
-
 															</div>
 														</div>
 													</div>
@@ -1097,10 +981,10 @@
 											<div class="wpb_column vc_column_container vc_col-sm-8">
 												<div class="vc_column-inner">
 													<div class="wpb_wrapper">
-														<h6 style="font-size: 10px;color: #627792;text-align: center"class="vc_custom_heading style1">Form our blog</h6>
-														<div class="vc_empty_space" style="height: 6px"><spanclass="vc_empty_space_inner"></span></div>
-														<h3 style="text-align: center" class="vc_custom_heading">Morearticles from resource library</h3>
-														<div class="vc_empty_space" style="height: 60px"><spanclass="vc_empty_space_inner"></span></div>
+														<h6 style="font-size: 10px;color: #627792;text-align: center" class="vc_custom_heading style1">Form our blog</h6>
+														<div class="vc_empty_space" style="height: 6px"><span class="vc_empty_space_inner"></span></div>
+														<h3 style="text-align: center" class="vc_custom_heading">More articles from resource library</h3>
+														<div class="vc_empty_space" style="height: 60px"><span class="vc_empty_space_inner"></span></div>
 													</div>
 												</div>
 											</div>
@@ -1113,109 +997,105 @@
 									</div>
 									<div class="vc_row wpb_row vc_row-fluid">
 										<div class="row-inner">
-											<divclass="wpb_animate_when_almost_visible wpb_fadeInLeft fadeInLeft wpb_column vc_column_container vc_col-sm-6">
+											<div class="wpb_animate_when_almost_visible wpb_fadeInLeft fadeInLeft wpb_column vc_column_container vc_col-sm-6">
 												<div class="vc_column-inner">
 													<div class="wpb_wrapper">
-														<divclass="blog-shortcode  has-post-content post-thumbnail-cover">
-
+														<div class="blog-shortcode  has-post-content post-thumbnail-cover">
 															<div class="blog-entries">
 																<div class="entries-wrapper content-inner">
-
-																	<divclass="post post-194 type-post status-publish format-video has-post-thumbnail hentry category-success-stories tag-customer tag-video post_format-post-format-video">
+																	<div class="post post-194 type-post status-publish format-video has-post-thumbnail hentry category-success-stories tag-customer tag-video post_format-post-format-video">
 																		<div class="post-inner">
-
-																			<ahref="partnering-with-it-provider-helps-erie-manufacturing-company-thrive-in-21st-century/index.html">
-
-
+																			<a href="partnering-with-it-provider-helps-erie-manufacturing-company-thrive-in-21st-century/index.html">
 																				<div class="post-image">
 																					<div class="post-meta">
 																						<div class="post-avatar">
-																							<img alt=''src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"data-lazy-srcset='https://secure.gravatar.com/avatar/9019e5866b246d894d49125909178aeb?s=160&#038;d=mm&#038;r=g 2x'class='avatar avatar-80 photo'height='80' width='80'data-lazy-src="https://secure.gravatar.com/avatar/9019e5866b246d894d49125909178aeb?s=80&amp;d=mm&amp;r=g" /><noscript><imgalt=''src='https://secure.gravatar.com/avatar/9019e5866b246d894d49125909178aeb?s=80&amp;d=mm&amp;r=g'srcset='https://secure.gravatar.com/avatar/9019e5866b246d894d49125909178aeb?s=160&#038;d=mm&#038;r=g 2x'class='avatar avatar-80 photo'height='80'width='80' /></noscript>
+																							<img alt='' src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E" data-lazy-srcset='https://secure.gravatar.com/avatar/9019e5866b246d894d49125909178aeb?s=160&#038;d=mm&#038;r=g 2x' class='avatar avatar-80 photo' height='80' width='80' data-lazy-src="https://secure.gravatar.com/avatar/9019e5866b246d894d49125909178aeb?s=80&amp;d=mm&amp;r=g" />
+																							<noscript>
+																								<img alt='' src='https://secure.gravatar.com/avatar/9019e5866b246d894d49125909178aeb?s=80&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/9019e5866b246d894d49125909178aeb?s=160&#038;d=mm&#038;r=g 2x' class='avatar avatar-80 photo' height='80' width='80' />
+																							</noscript>
 																						</div>
-																						<divclass="post-author-content"><span>by</span><spanclass="post-name">Linethemes</span>
+																						<div class="post-author-content">
+																							<span>by</span>
+																							<span class="post-name">Linethemes</span>
 																						</div>
 																					</div>
-																					<img decoding="async" class=""src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201190%20558'%3E%3C/svg%3E"width="1190" height="558"alt="285-jir-60871-nam-eye-id-392451-jpeg(1)"title="285-jir-60871-nam-eye-id-392451-jpeg(1)"data-lazy-src="{{url('frontend/rt-content/uploads/2018/05/285-jir-60871-nam-eye-id-392451-jpeg1-1190x558.jpg')}}" /><noscript><imgdecoding="async" class=""src="{{url('frontend/rt-content/uploads/2018/05/285-jir-60871-nam-eye-id-392451-jpeg1-1190x558.jpg')}}"width="1190" height="558"alt="285-jir-60871-nam-eye-id-392451-jpeg(1)"title="285-jir-60871-nam-eye-id-392451-jpeg(1)" /></noscript>
+																					<img decoding="async" class="" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201190%20558'%3E%3C/svg%3E" width="1190" height="558" alt="285-jir-60871-nam-eye-id-392451-jpeg(1)" title="285-jir-60871-nam-eye-id-392451-jpeg(1)" data-lazy-src="{{url('frontend/rt-content/uploads/2018/05/285-jir-60871-nam-eye-id-392451-jpeg1-1190x558.jpg')}}" />
+																					<noscript>
+																						<img decoding="async" class="" src="{{url('frontend/rt-content/uploads/2018/05/285-jir-60871-nam-eye-id-392451-jpeg1-1190x558.jpg')}}" width="1190" height="558" alt="285-jir-60871-nam-eye-id-392451-jpeg(1)" title="285-jir-60871-nam-eye-id-392451-jpeg(1)" />
+																					</noscript>
 																				</div>
-
-
-
 																				<div class="post-wrap">
-																					<span class="post-date">May 8,2018</span>
-
-																					<h2 class="post-title">Partneringwith IT provider helps eriemanufacturing company thrive in21st century</h2>
-
-																					<div class="post-content">Berman Bedding, Inc. has been inbusiness since 1912. But whenthis mattress manufacturerstarted producing medical padsin the 1950s, it realized the...
-																					</div>
-
-																					<span class="button">Read more </span>
+																					<span class="post-date">May 8, 2018</span>
+																					<h2 class="post-title">Partnering with IT provider helps erie manufacturing company thrive in 21st century</h2>
+																					<div class="post-content">Berman Bedding, Inc. has been in business since 1912. But when this mattress manufacturer started producing medical pads in the 1950s, it realized the...</div>
+																					<span class="button"> Read more </span>
 																				</div>
 																			</a>
 																		</div>
 																	</div>
-
 																</div>
 															</div>
 														</div>
-														<div class="vc_empty_space" style="height: 30px"><spanclass="vc_empty_space_inner"></span></div>
+														<div class="vc_empty_space" style="height: 30px">
+															<span class="vc_empty_space_inner"></span>
+														</div>
 													</div>
 												</div>
 											</div>
-											<divclass="wpb_animate_when_almost_visible wpb_fadeInRight fadeInRight wpb_column vc_column_container vc_col-sm-6">
+											<div class="wpb_animate_when_almost_visible wpb_fadeInRight fadeInRight wpb_column vc_column_container vc_col-sm-6">
 												<div class="vc_column-inner">
 													<div class="wpb_wrapper">
-														<div class="blog-shortcode  post-thumbnail-cover">
-
+														<div class="blog-shortcode post-thumbnail-cover">
 															<div class="blog-entries">
-																<div class="entries-wrapper content-inner blog-grid"data-grid-normal data-columns="2">
-
-																	<divclass="post post-204 type-post status-publish format-standard has-post-thumbnail hentry category-success-stories tag-lighthouse tag-technology">
+																<div class="entries-wrapper content-inner blog-grid" data-grid-normal data-columns="2">
+																	<div class="post post-204 type-post status-publish format-standard has-post-thumbnail hentry category-success-stories tag-lighthouse tag-technology">
 																		<div class="post-inner">
-
-																			<ahref="improving-lives-with-technology-hse-lighthouse-project/index.html">
-
-
+																			<a href="improving-lives-with-technology-hse-lighthouse-project/index.html">
 																				<div class="post-image">
 																					<div class="post-meta">
 																						<div class="post-avatar">
-																							<img alt=''src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"data-lazy-srcset='https://secure.gravatar.com/avatar/9019e5866b246d894d49125909178aeb?s=160&#038;d=mm&#038;r=g 2x'class='avatar avatar-80 photo'height='80' width='80'data-lazy-src="https://secure.gravatar.com/avatar/9019e5866b246d894d49125909178aeb?s=80&amp;d=mm&amp;r=g" /><noscript><imgalt=''src='https://secure.gravatar.com/avatar/9019e5866b246d894d49125909178aeb?s=80&amp;d=mm&amp;r=g'srcset='https://secure.gravatar.com/avatar/9019e5866b246d894d49125909178aeb?s=160&#038;d=mm&#038;r=g 2x'class='avatar avatar-80 photo'height='80'width='80' /></noscript>
+																							<img alt='' src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E" data-lazy-srcset='https://secure.gravatar.com/avatar/9019e5866b246d894d49125909178aeb?s=160&#038;d=mm&#038;r=g 2x' class='avatar avatar-80 photo' height='80' width='80' data-lazy-src="https://secure.gravatar.com/avatar/9019e5866b246d894d49125909178aeb?s=80&amp;d=mm&amp;r=g" />
+																							<noscript>
+																								<img alt='' src='https://secure.gravatar.com/avatar/9019e5866b246d894d49125909178aeb?s=80&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/9019e5866b246d894d49125909178aeb?s=160&#038;d=mm&#038;r=g 2x' class='avatar avatar-80 photo' height='80' width='80' />
+																							</noscript>
 																						</div>
-																						<div class="post-author-content"> <span>by</span> <span class="post-name">Linethemes</span>
+																						<div class="post-author-content">
+																							<span>by</span>
+																							<span class="post-name">Linethemes</span>
 																						</div>
 																					</div>
-																					<img decoding="async" class="" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20800%20400'%3E%3C/svg%3E" width="800" height="400" alt="imgix-391813-unsplash(1)" title="imgix-391813-unsplash(1)" data-lazy-src="{{url('frontend/rt-content/uploads/2018/05/imgix-391813-unsplash1-800x400.jpg')}}" /><noscript><img decoding="async" class="" src="{{url('frontend/rt-content/uploads/2018/05/imgix-391813-unsplash1-800x400.jpg')}}" width="800" height="400" alt="imgix-391813-unsplash(1)" title="imgix-391813-unsplash(1)" /></noscript>
+																					<img decoding="async" class="" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20800%20400'%3E%3C/svg%3E" width="800" height="400" alt="imgix-391813-unsplash(1)" title="imgix-391813-unsplash(1)" data-lazy-src="{{url('frontend/rt-content/uploads/2018/05/imgix-391813-unsplash1-800x400.jpg')}}" />
+																					<noscript>
+																						<img decoding="async" class="" src="{{url('frontend/rt-content/uploads/2018/05/imgix-391813-unsplash1-800x400.jpg')}}" width="800" height="400" alt="imgix-391813-unsplash(1)" title="imgix-391813-unsplash(1)" />
+																					</noscript>
 																				</div>
-
-
-
 																				<div class="post-wrap">
 																					<span class="post-date">May 8, 2018</span>
-
 																					<h2 class="post-title">Improving lives with technology &#8211; HSE lighthouse project</h2>
-
-
 																				</div>
 																			</a>
 																		</div>
 																	</div>
-
-
 																	<div class="post post-179 type-post status-publish format-standard has-post-thumbnail hentry category-success-stories tag-17 tag-case-studies tag-office">
 																		<div class="post-inner">
-
 																			<a href="dynamics-365-a-game-changer-for-dairygold-operations/index.html">
-
-
 																				<div class="post-image">
 																					<div class="post-meta">
 																						<div class="post-avatar">
-																							<img alt='' src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E" data-lazy-srcset='https://secure.gravatar.com/avatar/9019e5866b246d894d49125909178aeb?s=160&#038;d=mm&#038;r=g 2x' class='avatar avatar-80 photo' height='80' width='80' data-lazy-src="https://secure.gravatar.com/avatar/9019e5866b246d894d49125909178aeb?s=80&amp;d=mm&amp;r=g" /><noscript><img alt='' src='https://secure.gravatar.com/avatar/9019e5866b246d894d49125909178aeb?s=80&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/9019e5866b246d894d49125909178aeb?s=160&#038;d=mm&#038;r=g 2x' class='avatar avatar-80 photo' height='80' width='80' /></noscript>
+																							<img alt='' src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E" data-lazy-srcset='https://secure.gravatar.com/avatar/9019e5866b246d894d49125909178aeb?s=160&#038;d=mm&#038;r=g 2x' class='avatar avatar-80 photo' height='80' width='80' data-lazy-src="https://secure.gravatar.com/avatar/9019e5866b246d894d49125909178aeb?s=80&amp;d=mm&amp;r=g" />
+																							<noscript>
+																								<img alt='' src='https://secure.gravatar.com/avatar/9019e5866b246d894d49125909178aeb?s=80&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/9019e5866b246d894d49125909178aeb?s=160&#038;d=mm&#038;r=g 2x' class='avatar avatar-80 photo' height='80' width='80' />
+																							</noscript>
 																						</div>
 																						<div class="post-author-content">
-																							<span>by</span> <span class="post-name">Linethemes</span>
+																							<span>by</span>
+																							<span class="post-name">Linethemes</span>
 																						</div>
 																					</div>
-																					<img decoding="async" class="" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20800%20400'%3E%3C/svg%3E" width="800" height="400" alt="k-95-ake-367f-l_2-id-55372-jpeg(1)" title="k-95-ake-367f-l_2-id-55372-jpeg(1)" data-lazy-src="{{url('frontend/rt-content/uploads/2018/05/k-95-ake-367f-l_2-id-55372-jpeg1-800x400.jpg')}}" /><noscript><img decoding="async" class="" src="{{url('frontend/rt-content/uploads/2018/05/k-95-ake-367f-l_2-id-55372-jpeg1-800x400.jpg')}}" width="800" height="400" alt="k-95-ake-367f-l_2-id-55372-jpeg(1)" title="k-95-ake-367f-l_2-id-55372-jpeg(1)" /></noscript>
+																					<img decoding="async" class="" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20800%20400'%3E%3C/svg%3E" width="800" height="400" alt="k-95-ake-367f-l_2-id-55372-jpeg(1)" title="k-95-ake-367f-l_2-id-55372-jpeg(1)" data-lazy-src="{{url('frontend/rt-content/uploads/2018/05/k-95-ake-367f-l_2-id-55372-jpeg1-800x400.jpg')}}" />
+																					<noscript>
+																						<img decoding="async" class="" src="{{url('frontend/rt-content/uploads/2018/05/k-95-ake-367f-l_2-id-55372-jpeg1-800x400.jpg')}}" width="800" height="400" alt="k-95-ake-367f-l_2-id-55372-jpeg(1)" title="k-95-ake-367f-l_2-id-55372-jpeg(1)" />
+																					</noscript>
 																				</div>
 																				<div class="post-wrap">
 																					<span class="post-date">May 8, 2018</span>
@@ -1226,65 +1106,61 @@
 																	</div>
 																	<div class="post post-192 type-post status-publish format-standard has-post-thumbnail hentry category-news-events tag-benefits tag-managed-services">
 																		<div class="post-inner">
-
 																			<a href="tips-to-make-your-workforce-a-security-front-line/index.html">
 																				<div class="post-image">
 																					<div class="post-meta">
 																						<div class="post-avatar">
-																							<img alt='' src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E" data-lazy-srcset='https://secure.gravatar.com/avatar/9019e5866b246d894d49125909178aeb?s=160&#038;d=mm&#038;r=g 2x' class='avatar avatar-80 photo' height='80' width='80' data-lazy-src="https://secure.gravatar.com/avatar/9019e5866b246d894d49125909178aeb?s=80&amp;d=mm&amp;r=g" /><noscript><img alt='' src='https://secure.gravatar.com/avatar/9019e5866b246d894d49125909178aeb?s=80&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/9019e5866b246d894d49125909178aeb?s=160&#038;d=mm&#038;r=g 2x' class='avatar avatar-80 photo' height='80' width='80' /></noscript>
+																							<img alt='' src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E" data-lazy-srcset='https://secure.gravatar.com/avatar/9019e5866b246d894d49125909178aeb?s=160&#038;d=mm&#038;r=g 2x' class='avatar avatar-80 photo' height='80' width='80' data-lazy-src="https://secure.gravatar.com/avatar/9019e5866b246d894d49125909178aeb?s=80&amp;d=mm&amp;r=g" />
+																							<noscript>
+																								<img alt='' src='https://secure.gravatar.com/avatar/9019e5866b246d894d49125909178aeb?s=80&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/9019e5866b246d894d49125909178aeb?s=160&#038;d=mm&#038;r=g 2x' class='avatar avatar-80 photo' height='80' width='80' />
+																							</noscript>
 																						</div>
 																						<div class="post-author-content">
-																							<span>by</span> <span class="post-name">Linethemes</span>
+																							<span>by</span>
+																							<span class="post-name">Linethemes</span>
 																						</div>
 																					</div>
-																					<img decoding="async" class="" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20800%20400'%3E%3C/svg%3E" width="800" height="400" alt="rawpixel-com-567026-unsplash(1)" title="rawpixel-com-567026-unsplash(1)" data-lazy-src="{{url('frontend/rt-content/uploads/2018/05/rawpixel-com-567026-unsplash1-800x400.jpg')}}" /><noscript><img decoding="async" class="" src="{{url('frontend/rt-content/uploads/2018/05/rawpixel-com-567026-unsplash1-800x400.jpg')}}" width="800" height="400" alt="rawpixel-com-567026-unsplash(1)" title="rawpixel-com-567026-unsplash(1)" /></noscript>
+																					<img decoding="async" class="" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20800%20400'%3E%3C/svg%3E" width="800" height="400" alt="rawpixel-com-567026-unsplash(1)" title="rawpixel-com-567026-unsplash(1)" data-lazy-src="{{url('frontend/rt-content/uploads/2018/05/rawpixel-com-567026-unsplash1-800x400.jpg')}}" />
+																					<noscript>
+																						<img decoding="async" class="" src="{{url('frontend/rt-content/uploads/2018/05/rawpixel-com-567026-unsplash1-800x400.jpg')}}" width="800" height="400" alt="rawpixel-com-567026-unsplash(1)" title="rawpixel-com-567026-unsplash(1)" />
+																					</noscript>
 																				</div>
-
-
-
 																				<div class="post-wrap">
 																					<span class="post-date">May 8, 2018</span>
-
-																					<h2 class="post-title">Tips to make your workforce a security front line</h2>
-
-
+																					<h2 class="post-title">Tips to make your workforce a security frontline</h2>
 																				</div>
 																			</a>
 																		</div>
 																	</div>
-
-
 																	<div class="post post-1 type-post status-publish format-standard has-post-thumbnail hentry category-quick-tips tag-cbtnuggets tag-computer tag-tips">
 																		<div class="post-inner">
-
 																			<a href="4-ways-compsec-pros-protect-their-computers/index.html">
-
-
 																				<div class="post-image">
 																					<div class="post-meta">
 																						<div class="post-avatar">
-																							<img alt='' src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E" data-lazy-srcset='https://secure.gravatar.com/avatar/9019e5866b246d894d49125909178aeb?s=160&#038;d=mm&#038;r=g 2x' class='avatar avatar-80 photo' height='80' width='80' data-lazy-src="https://secure.gravatar.com/avatar/9019e5866b246d894d49125909178aeb?s=80&amp;d=mm&amp;r=g" /><noscript><img alt='' src='https://secure.gravatar.com/avatar/9019e5866b246d894d49125909178aeb?s=80&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/9019e5866b246d894d49125909178aeb?s=160&#038;d=mm&#038;r=g 2x' class='avatar avatar-80 photo' height='80' width='80' /></noscript>
+																							<img alt='' src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E" data-lazy-srcset='https://secure.gravatar.com/avatar/9019e5866b246d894d49125909178aeb?s=160&#038;d=mm&#038;r=g 2x' class='avatar avatar-80 photo' height='80' width='80' data-lazy-src="https://secure.gravatar.com/avatar/9019e5866b246d894d49125909178aeb?s=80&amp;d=mm&amp;r=g" />
+																							<noscript>
+																								<img alt='' src='https://secure.gravatar.com/avatar/9019e5866b246d894d49125909178aeb?s=80&amp;d=mm&amp;r=g' srcset='https://secure.gravatar.com/avatar/9019e5866b246d894d49125909178aeb?s=160&#038;d=mm&#038;r=g 2x' class='avatar avatar-80 photo' height='80' width='80' />
+																							</noscript>
 																						</div>
-																						<div class="post-author-content">
-																							<span>by</span> <span class="post-name">Linethemes</span>
+																						<div
+																							class="post-author-content">
+																							<span>by</span>
+																							<span class="post-name">Linethemes</span>
 																						</div>
 																					</div>
-																					<img decoding="async" class="" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20800%20400'%3E%3C/svg%3E" width="800" height="400" alt="tirza-van-dijk-58298-unsplash" title="tirza-van-dijk-58298-unsplash" data-lazy-src="{{url('frontend/rt-content/uploads/2018/04/tirza-van-dijk-58298-unsplash-800x400.jpg')}}" /><noscript><img decoding="async" class="" src="{{url('frontend/rt-content/uploads/2018/04/tirza-van-dijk-58298-unsplash-800x400.jpg')}}" width="800" height="400" alt="tirza-van-dijk-58298-unsplash" title="tirza-van-dijk-58298-unsplash" /></noscript>
+																					<img decoding="async" class="" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20800%20400'%3E%3C/svg%3E" width="800" height="400" alt="tirza-van-dijk-58298-unsplash" title="tirza-van-dijk-58298-unsplash" data-lazy-src="{{url('frontend/rt-content/uploads/2018/04/tirza-van-dijk-58298-unsplash-800x400.jpg')}}" />
+																					<noscript>
+																						<img decoding="async" class="" src="{{url('frontend/rt-content/uploads/2018/04/tirza-van-dijk-58298-unsplash-800x400.jpg')}}" width="800" height="400" alt="tirza-van-dijk-58298-unsplash" title="tirza-van-dijk-58298-unsplash" />
+																					</noscript>
 																				</div>
-
-
-
 																				<div class="post-wrap">
 																					<span class="post-date">April 24, 2018</span>
-
 																					<h2 class="post-title">4 ways compsec pros protect their computers</h2>
-
-
 																				</div>
 																			</a>
 																		</div>
 																	</div>
-
 																</div>
 															</div>
 														</div>
@@ -1298,10 +1174,17 @@
 											<div class="wpb_column vc_column_container vc_col-sm-12">
 												<div class="vc_column-inner">
 													<div class="wpb_wrapper">
-														<div class="vc_empty_space" style="height: 10px"><span class="vc_empty_space_inner"></span></div>
+														<div class="vc_empty_space" style="height: 10px">
+															<span class="vc_empty_space_inner"></span>
+														</div>
 														<div class="wpb_text_column wpb_content_element ">
 															<div class="wpb_wrapper">
-																<p style="text-align: center; font-size: 15px;">Insights to help you do what you do better, faster and more profitably. <a class="dot" href="it-blog/index.html"><span style="color: #032b5f;">View all article</span></a></p>
+																<p style="text-align: center; font-size: 15px;">
+																	Insights to help you do what you do better, faster and more profitably. 
+																	<a class="dot" ref="{{url('/blogs')}}">
+																		<span style="color: #032b5f;">View all article</span>
+																	</a>
+																</p>
 															</div>
 														</div>
 													</div>
@@ -1311,8 +1194,7 @@
 									</div>
 								</section>
 								<section class="vc_section vc_custom_1575619267969 vc_section-has-fill">
-									<div 
-										class="vc_row wpb_row vc_row-fluid vc_custom_1536718850421 vc_row-has-fill">
+									<div class="vc_row wpb_row vc_row-fluid vc_custom_1536718850421 vc_row-has-fill">
 										<div class="row-inner">
 											<div class="wpb_column vc_column_container vc_col-sm-2">
 												<div class="vc_column-inner">
@@ -1322,38 +1204,30 @@
 											<div class="wpb_column vc_column_container vc_col-sm-8">
 												<div class="vc_column-inner">
 													<div class="wpb_wrapper">
-														<div style="font-size: 3rem;color: #ffffff;text-align: center"
-															class="vc_custom_heading delay-1 custom-hd wpb_animate_when_almost_visible wpb_fadeInUp fadeInUp">
-															our values</div>
-														<div class="vc_empty_space" style="height: 20px"><span
-																class="vc_empty_space_inner"></span></div>
-														<div
-															class="wpb_text_column wpb_content_element  aligncenter white-color">
+														<div style="font-size: 3rem;color: #ffffff;text-align: center" class="vc_custom_heading delay-1 custom-hd wpb_animate_when_almost_visible wpb_fadeInUp fadeInUp">our values</div>
+														<div class="vc_empty_space" style="height: 20px">
+															<span class="vc_empty_space_inner"></span>
+														</div>
+														<div class="wpb_text_column wpb_content_element  aligncenter white-color">
 															<div class="wpb_wrapper">
-																<h1 class="cd-headline push"><span> </span> <span
-																		class="cd-words-wrapper"><b
-																			class="is-visible">COMMITMENT</b>
+																<h1 class="cd-headline push">
+																	<span> </span> 
+																	<span class="cd-words-wrapper">
+																		<b class="is-visible">COMMITMENT</b>
 																		<b class="">INNOVATION</b>
 																		<b class="">REPUTATION</b>
 																		<b class="">EXCELLENCE</b>
-																	</span></h1>
-
+																	</span>
+																</h1>
 															</div>
 														</div>
-														<div style="font-size: 1.35rem;color: #ffffff;text-align: center"
-															class="vc_custom_heading delay-1 wpb_animate_when_almost_visible wpb_fadeInUp fadeInUp vc_custom_1540365744179">
-															These values give us the foundations we need.</div>
-														<div class="vc_empty_space" style="height: 50px"><span
-																class="vc_empty_space_inner"></span></div>
-														<div
-															class="wpb_text_column wpb_content_element  wpb_animate_when_almost_visible wpb_fadeInUp fadeInUp vc_custom_1540365406359 delay-3">
+														<div style="font-size: 1.35rem;color: #ffffff;text-align: center" class="vc_custom_heading delay-1 wpb_animate_when_almost_visible wpb_fadeInUp fadeInUp vc_custom_1540365744179">These values give us the foundations we need.</div>
+														<div class="vc_empty_space" style="height: 50px"><span class="vc_empty_space_inner"></span></div>
+														<div class="wpb_text_column wpb_content_element  wpb_animate_when_almost_visible wpb_fadeInUp fadeInUp vc_custom_1540365406359 delay-3">
 															<div class="wpb_wrapper">
-																<div class="button-video" style="text-align: center;"><a
-																		id="66233321cb35a" rel="wp-video-lightbox"
-																		href="https://www.youtube.com/watch?v=SZEflIVnhH8&amp;width=640&amp;height=480"
-																		title="">click</a>
+																<div class="button-video" style="text-align: center;">
+																	<a id="66233321cb35a" rel="wp-video-lightbox" href="https://www.youtube.com/watch?v=SZEflIVnhH8&amp;width=640&amp;height=480" title="">click</a>
 																	<script>
-																		/* <![CDATA[ */
 																		jQuery(document).ready(function ($) {
 																			$(function () {
 																				var width = $(window).innerWidth();
@@ -1363,18 +1237,14 @@
 																				var link = 'https://www.youtube.com/watch?v=SZEflIVnhH8&amp;width=640&amp;height=480';
 																				if (width < setwidth) {
 																					height = Math.floor(width * 0.75);
-																					//console.log("device width "+width+", set width "+640+", ratio "+0.75+", new height "+ height);
 																					var new_url = wpvl_paramReplace('width', link, width);
 																					var new_url = wpvl_paramReplace('height', new_url, height);
 																					$("a#66233321cb35a").attr('href', new_url);
-																					//console.log(new_url);
 																				}
 																			});
 																		});
-																		/* ]]&gt; */
 																	</script>
 																</div>
-
 															</div>
 														</div>
 													</div>
@@ -1388,9 +1258,8 @@
 										</div>
 									</div>
 								</section>
-								<section 
-									class="vc_section fix-overflow wpb_animate_when_almost_visible wpb_fadeInUp fadeInUp vc_custom_1575619275268">
-									<div  class="vc_row wpb_row vc_row-fluid">
+								<section class="vc_section fix-overflow wpb_animate_when_almost_visible wpb_fadeInUp fadeInUp vc_custom_1575619275268">
+									<div class="vc_row wpb_row vc_row-fluid">
 										<div class="row-inner">
 											<div class="wpb_column vc_column_container vc_col-sm-2">
 												<div class="vc_column-inner">
@@ -1400,13 +1269,14 @@
 											<div class="wpb_column vc_column_container vc_col-sm-8">
 												<div class="vc_column-inner">
 													<div class="wpb_wrapper">
-														<h6 style="font-size: 10px;color: #627792;text-align: center" id="custom_customers" class="vc_custom_heading style1">Testimonials</h6>
-														<div class="vc_empty_space" style="height: 6px"><span
-																class="vc_empty_space_inner"></span></div>
-														<h3 style="text-align: center" class="vc_custom_heading">What
-															our customers say</h3>
-														<div class="vc_empty_space" style="height: 60px"><span
-																class="vc_empty_space_inner"></span></div>
+														<h6 style="font-size: 10px;color: #627792;text-align: center" class="vc_custom_heading style1">Testimonials</h6>
+														<div class="vc_empty_space" style="height: 6px">
+															<span class="vc_empty_space_inner"></span>
+														</div>
+														<h3 style="text-align: center" class="vc_custom_heading">What our customers say</h3>
+														<div class="vc_empty_space" style="height: 60px">
+															<span class="vc_empty_space_inner"></span>
+														</div>
 													</div>
 												</div>
 											</div>
@@ -1421,160 +1291,102 @@
 										<div class="row-inner">
 											<div class="wpb_column vc_column_container vc_col-sm-12">
 												<div class="vc_column-inner">
-													<div class="wpb_wrapper"><!-- BEGIN: .elements-carousel -->
+													<div class="wpb_wrapper">
 														<div class="elements-carousel  "
 															data-config="{&quot;items&quot;:3,&quot;itemsTablet&quot;:[768,2],&quot;itemsMobile&quot;:[479,1],&quot;autoPlay&quot;:false,&quot;stopOnHover&quot;:true,&quot;mouseDrag&quot;:true,&quot;touchDrag&quot;:true,&quot;responsive&quot;:true,&quot;scrollPerPage&quot;:true,&quot;slideSpeed&quot;:200,&quot;paginationSpeed&quot;:200,&quot;rewindSpeed&quot;:200,&quot;navigation&quot;:false,&quot;rewindNav&quot;:false,&quot;pagination&quot;:true,&quot;paginationNumbers&quot;:false,&quot;dragBeforeAnimFinish&quot;:true,&quot;addClassActive&quot;:true,&quot;autoHeight&quot;:true,&quot;navigationText&quot;:[&quot;Previous&quot;,&quot;Next&quot;],&quot;itemsScaleUp&quot;:true}">
 															<div class="elements-carousel-wrap">
-
-																<div
-																	class="testimonial   vc_custom_1539848935838 has-image">
+																<div class="testimonial   vc_custom_1539848935838 has-image">
 																	<div class="testimonial-wrap">
 																		<div class="testimonial-content">
-
 																			<div class="testimonial-image">
-																				<img decoding="async"
-																					src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
-																					alt="John H. Bedard, Jr"
-																					data-lazy-src="{{url('frontend/rt-content/uploads/2018/09/j-c.svg')}}" /><noscript><img
-																						decoding="async"
-																						src="{{url('frontend/rt-content/uploads/2018/09/j-c.svg')}}"
-																						alt="John H. Bedard, Jr" /></noscript>
+																				<img decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="John H. Bedard, Jr" data-lazy-src="wp-content/uploads/2018/09/j-c.svg" />
+																				<noscript>
+																					<img decoding="async" src="{{url('frontend/rt-content/uploads/2018/09/j-c.svg')}}" alt="John H. Bedard, Jr" />
+																				</noscript>
 																			</div>
 																			<div class="testimonial-text">
-																				<p>&#8220;I sleep easier at night
-																					knowing the NanoSoft team is in my
-																					corner. Supporting my business and
-																					keeping my systems in Tip-Top
-																					shape&#8221;</p>
+																				<p>&#8220;I sleep easier at night knowing the NanoSoft team is in my corner. Supporting my business and keeping my systems in Tip-Top shape&#8221;</p>
 																			</div>
 																		</div>
-
 																		<div class="author-info">
-																			<h6 class="author-name">John H. Bedard, Jr
-																			</h6>
+																			<h6 class="author-name">John H. Bedard, Jr</h6>
 																			<span class="subtitle">Office Manager</span>
 																		</div>
 																	</div>
 																</div>
-
-																<div
-																	class="testimonial   vc_custom_1539848941825 has-image">
+																<div class="testimonial   vc_custom_1539848941825 has-image">
 																	<div class="testimonial-wrap">
 																		<div class="testimonial-content">
-
 																			<div class="testimonial-image">
-																				<img decoding="async"
-																					src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
-																					alt="John Doe"
-																					data-lazy-src="{{url('frontend/rt-content/uploads/2018/09/box-c.svg')}}" /><noscript><img
-																						decoding="async"
-																						src="{{url('frontend/rt-content/uploads/2018/09/box-c.svg')}}"
-																						alt="John Doe" /></noscript>
+																				<img decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="John Doe" data-lazy-src="{{url('frontend/rt-content/uploads/2018/09/box-c.svg')}}" />
+																				<noscript>
+																					<img decoding="async" src="{{url('frontend/rt-content/uploads/2018/09/box-c.svg')}}" alt="John Doe" />
+																				</noscript>
 																			</div>
 																			<div class="testimonial-text">
-																				<p>“NanoSoft are always accommodating
-																					our diverse needs and we feel like
-																					they are a part of our Company
-																					rather than an external supplier”
-																				</p>
+																				<p>“NanoSoft are always accommodating our diverse needs and we feel like they are a part of our Company rather than an external supplier”</p>
 																			</div>
 																		</div>
-
 																		<div class="author-info">
 																			<h6 class="author-name">John Doe</h6>
-																			<span class="subtitle">CEO</span> <span
-																				class="divider">-</span> <span
-																				class="company">Envato</span>
+																			<span class="subtitle">CEO</span> 
+																			<span class="divider">-</span> 
+																			<span class="company">Envato</span>
 																		</div>
 																	</div>
 																</div>
-
-																<div
-																	class="testimonial   vc_custom_1539848946651 has-image">
+																<div class="testimonial   vc_custom_1539848946651 has-image">
 																	<div class="testimonial-wrap">
 																		<div class="testimonial-content">
-
 																			<div class="testimonial-image">
-																				<img decoding="async"
-																					src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
-																					alt="John H. Bedard, Jr"
-																					data-lazy-src="{{url('frontend/rt-content/uploads/2018/09/k-c.svg')}}" /><noscript><img
-																						decoding="async"
-																						src="{{url('frontend/rt-content/uploads/2018/09/k-c.svg')}}"
-																						alt="John H. Bedard, Jr" /></noscript>
+																				<img decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="John H. Bedard, Jr" data-lazy-src="{{url('frontend/rt-content/uploads/2018/09/k-c.svg')}}" />
+																				<noscript>
+																					<img decoding="async" src="{{url('frontend/rt-content/uploads/2018/09/k-c.svg')}}" alt="John H. Bedard, Jr" />
+																				</noscript>
 																			</div>
 																			<div class="testimonial-text">
-																				<p>“Being a managed services client has
-																					improved our pptime, increased our
-																					productivity and systematized our
-																					software updates”</p>
+																				<p>“Being a managed services client has improved our pptime, increased our productivity and systematized our software updates”</p>
 																			</div>
 																		</div>
-
 																		<div class="author-info">
-																			<h6 class="author-name">John H. Bedard, Jr
-																			</h6>
+																			<h6 class="author-name">John H. Bedard, Jr</h6>
 																			<span class="subtitle">Chris Ellison</span>
-																			<span class="divider">-</span> <span
-																				class="company">CEO and
-																				Co-founder</span>
+																			<span class="divider">-</span> 
+																			<span class="company">CEO and Co-founder</span>
 																		</div>
 																	</div>
 																</div>
-
-																<div
-																	class="testimonial   vc_custom_1539848952548 has-image">
+																<div class="testimonial   vc_custom_1539848952548 has-image">
 																	<div class="testimonial-wrap">
 																		<div class="testimonial-content">
-
 																			<div class="testimonial-image">
-																				<img decoding="async"
-																					src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
-																					alt="John H. Bedard, Jr"
-																					data-lazy-src="{{url('frontend/rt-content/uploads/2018/09/fu-c.svg')}}" /><noscript><img
-																						decoding="async"
-																						src="{{url('frontend/rt-content/uploads/2018/09/fu-c.svg')}}"
-																						alt="John H. Bedard, Jr" /></noscript>
+																				<img decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="John H. Bedard, Jr" data-lazy-src="{{url('frontend/rt-content/uploads/2018/09/fu-c.svg')}}" />
+																				<noscript>
+																					<img decoding="async" src="{{url('frontend/rt-content/uploads/2018/09/fu-c.svg')}}" alt="John H. Bedard, Jr" />
+																				</noscript>
 																			</div>
 																			<div class="testimonial-text">
-																				<p>&#8220;I sleep easier at night
-																					knowing the NanoSoft team is in my
-																					corner. Supporting my business and
-																					keeping my systems in Tip-Top
-																					shape&#8221;</p>
+																				<p>&#8220;I sleep easier at night knowing the NanoSoft team is in my corner. Supporting my business and keeping my systems in Tip-Top shape&#8221;</p>
 																			</div>
 																		</div>
-
 																		<div class="author-info">
-																			<h6 class="author-name">John H. Bedard, Jr
-																			</h6>
+																			<h6 class="author-name">John H. Bedard, Jr</h6>
 																			<span class="subtitle">Office Manager</span>
 																		</div>
 																	</div>
 																</div>
 															</div>
 														</div>
-														<!-- END: .elements-carousel -->
 													</div>
 												</div>
 											</div>
 										</div>
 									</div>
 								</section>
-
 							</div>
-							<!-- /.content -->
-
 						</div>
-						<!-- /.main-content-inner -->
 					</main>
-					<!-- /.main-content -->
-
-
 				</div>
-				<!-- /.content-body-inner -->
 			</div>
-			<!-- /.content-body -->
 		</div>
-		<!-- /.site-content -->
         @endsection
