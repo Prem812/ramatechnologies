@@ -479,7 +479,7 @@
 	<link rel="icon" href="{{url('frontend/rt-content/uploads/2018/10/cropped-favico-1-32x32.png')}}" sizes="32x32" />
 	<link rel="icon" href="{{url('frontend/rt-content/uploads/2018/10/cropped-favico-1-192x192.png')}}" sizes="192x192" />
 	<link rel="apple-touch-icon" href="{{url('frontend/rt-content/uploads/2018/10/cropped-favico-1-180x180.png')}}" />
-	<meta name="msapplication-TileImage" content="https://live.21lab.co/nanosoft/wp-content/uploads/2018/10/cropped-favico-1-270x270.png" />
+	<meta name="msapplication-TileImage" content="http://127.0.1:8000/frontend/rt-content/uploads/2018/10/cropped-favico-1-270x270.png" />
 	<script>
 		function setREVStartSize(e) {
 			//window.requestAnimationFrame(function() {
@@ -610,7 +610,7 @@
 		}
 
 		.vc_custom_1575619267969 {
-			background: #0a2044 url(https://live.21lab.co/nanosoft/wp-content/uploads/2018/09/10.jpg?id=1363) !important;
+			background: #0a2044 url(http://127.0.1:8000/frontend/rt-content/uploads/2018/09/10.jpg?id=1363) !important;
 			background-position: center !important;
 			background-repeat: no-repeat !important;
 			background-size: cover !important;
@@ -1082,7 +1082,7 @@
 		}
 
 		.vc_custom_1575621943152 {
-			background: #fc766a url(https://live.21lab.co/nanosoft/wp-content/uploads/2018/08/job12-279-chim-01065.jpg?id=1062) !important;
+			background: #fc766a url(http://127.0.1:8000/frontend/rt-content/uploads/2018/08/job12-279-chim-01065.jpg?id=1062) !important;
 			background-position: center !important;
 			background-repeat: no-repeat !important;
 			background-size: cover !important;
@@ -1217,7 +1217,7 @@
 		}
 
 		.vc_custom_1575622095321 {
-			background: #fc766a url(https://live.21lab.co/nanosoft/wp-content/uploads/2018/08/job12-279-chim-01065.jpg?id=1062) !important;
+			background: #fc766a url(http://127.0.1:8000/frontend/rt-content/uploads/2018/08/job12-279-chim-01065.jpg?id=1062) !important;
 			background-position: center !important;
 			background-repeat: no-repeat !important;
 			background-size: cover !important;
@@ -1348,7 +1348,7 @@
 		}
 
 		.vc_custom_1575621943152 {
-			background: #fc766a url(https://live.21lab.co/nanosoft/wp-content/uploads/2018/08/job12-279-chim-01065.jpg?id=1062) !important;
+			background: #fc766a url(http://127.0.1:8000/frontend/rt-content/uploads/2018/08/job12-279-chim-01065.jpg?id=1062) !important;
 			background-position: center !important;
 			background-repeat: no-repeat !important;
 			background-size: cover !important;
@@ -1485,7 +1485,7 @@
 		}
 
 		.vc_custom_1575621943152 {
-			background: #fc766a url(https://live.21lab.co/nanosoft/wp-content/uploads/2018/08/job12-279-chim-01065.jpg?id=1062) !important;
+			background: #fc766a url(http://127.0.1:8000/frontend/rt-content/uploads/2018/08/job12-279-chim-01065.jpg?id=1062) !important;
 			background-position: center !important;
 			background-repeat: no-repeat !important;
 			background-size: cover !important;
@@ -1620,7 +1620,7 @@
 		}
 
 		.vc_custom_1575621943152 {
-			background: #fc766a url(https://live.21lab.co/nanosoft/wp-content/uploads/2018/08/job12-279-chim-01065.jpg?id=1062) !important;
+			background: #fc766a url(http://127.0.1:8000/frontend/rt-content/uploads/2018/08/job12-279-chim-01065.jpg?id=1062) !important;
 			background-position: center !important;
 			background-repeat: no-repeat !important;
 			background-size: cover !important;
@@ -1755,7 +1755,7 @@
 		}
 
 		.vc_custom_1575621943152 {
-			background: #fc766a url(https://live.21lab.co/nanosoft/wp-content/uploads/2018/08/job12-279-chim-01065.jpg?id=1062) !important;
+			background: #fc766a url(http://127.0.1:8000/frontend/rt-content/uploads/2018/08/job12-279-chim-01065.jpg?id=1062) !important;
 			background-position: center !important;
 			background-repeat: no-repeat !important;
 			background-size: cover !important;
@@ -2566,10 +2566,10 @@
 			<div class="site-header-inner wrap">
 				<div class="header-content">
 					<div class="header-brand">
-						<a href="https://live.21lab.co/nanosoft">
-							<img width="154" height="36" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20154%2036'%3E%3C/svg%3E" data-lazy-srcset="https://live.21lab.co/nanosoft/wp-content/uploads/2018/10/logo.png 1x, https://live.21lab.co/nanosoft/wp-content/uploads/2018/10/logo@2x.png 2x" alt="NanoSoft" class="logo logoDefault" data-lazy-src="https://live.21lab.co/nanosoft/wp-content/uploads/2018/10/logo.png" />
+						<a href="http://127.0.1:8000">
+							<img width="154" height="36" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20154%2036'%3E%3C/svg%3E" data-lazy-srcset="http://127.0.1:8000/frontend/rt-content/uploads/2018/10/logo.png 1x, http://127.0.1:8000/frontend/rt-content/uploads/2018/10/logo@2x.png 2x" alt="NanoSoft" class="logo logoDefault" data-lazy-src="http://127.0.1:8000/frontend/rt-content/uploads/2018/10/logo.png" />
 							<noscript>
-								<img width="154" height="36" src="{{url('frontend/rt-content/uploads/2018/10/logo.png')}}" srcset="https://live.21lab.co/nanosoft/wp-content/uploads/2018/10/logo.png 1x, https://live.21lab.co/nanosoft/wp-content/uploads/2018/10/logo@2x.png 2x" alt="NanoSoft" class="logo logoDefault" />
+								<img width="154" height="36" src="{{url('frontend/rt-content/uploads/2018/10/logo.png')}}" srcset="http://127.0.1:8000/frontend/rt-content/uploads/2018/10/logo.png 1x, http://127.0.1:8000/frontend/rt-content/uploads/2018/10/logo@2x.png 2x" alt="NanoSoft" class="logo logoDefault" />
 							</noscript>
 						</a>
 					</div>
@@ -2683,7 +2683,7 @@
 						<div class="header-info-text">
 							<div class="icons-info widget">
 								<div class="icons">
-									<img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="icon" data-lazy-src="https://live.21lab.co/nanosoft/wp-content/uploads/2018/08/conversations-4872_af60b258-251e-41af-b238-dfb706d7b3d4.svg" />
+									<img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="icon" data-lazy-src="http://127.0.1:8000/frontend/rt-content/uploads/2018/08/conversations-4872_af60b258-251e-41af-b238-dfb706d7b3d4.svg" />
 									<noscript>
 										<img src="{{url('frontend/rt-content/uploads/2018/08/conversations-4872_af60b258-251e-41af-b238-dfb706d7b3d4.svg')}}" alt="icon" />
 									</noscript>
@@ -2708,7 +2708,6 @@
 								</div>
 							</li>
 						</ul>
-						<!-- search function for top ends -->
 					</div>
 					<a href="javascript:;" data-target="off-canvas-right" class="off-canvas-toggle">
 						<span></span>
@@ -2720,10 +2719,10 @@
 			<div class="site-header-inner wrap">
 				<div class="header-content"> 
 					<div class="header-brand">
-						<a href="https://live.21lab.co/nanosoft">
-							<img width="154" height="36" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20154%2036'%3E%3C/svg%3E" data-lazy-srcset="https://live.21lab.co/nanosoft/wp-content/uploads/2018/10/logo.png 1x, https://live.21lab.co/nanosoft/wp-content/uploads/2018/10/logo@2x.png 2x" alt="NanoSoft" class="logo logoDefault" data-lazy-src="{{url('frontend/rt-content/uploads/2018/10/logo.png')}}" />
+						<a href="http://127.0.1:8000">
+							<img width="154" height="36" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20154%2036'%3E%3C/svg%3E" data-lazy-srcset="http://127.0.1:8000/frontend/rt-content/uploads/2018/10/logo.png 1x, http://127.0.1:8000/frontend/rt-content/uploads/2018/10/logo@2x.png 2x" alt="NanoSoft" class="logo logoDefault" data-lazy-src="{{url('frontend/rt-content/uploads/2018/10/logo.png')}}" />
 							<noscript>
-								<img width="154" height="36" src="{{url('frontend/rt-content/uploads/2018/10/logo.png')}}" srcset="https://live.21lab.co/nanosoft/wp-content/uploads/2018/10/logo.png 1x,  https://live.21lab.co/nanosoft/wp-content/uploads/2018/10/logo@2x.png 2x" alt="NanoSoft" class="logo logoDefault" />
+								<img width="154" height="36" src="{{url('frontend/rt-content/uploads/2018/10/logo.png')}}" srcset="http://127.0.1:8000/frontend/rt-content/uploads/2018/10/logo.png 1x,  http://127.0.1:8000/frontend/rt-content/uploads/2018/10/logo@2x.png 2x" alt="NanoSoft" class="logo logoDefault" />
 							</noscript>
 						</a>
 					</div>

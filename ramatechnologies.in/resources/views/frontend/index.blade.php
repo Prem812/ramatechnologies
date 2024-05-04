@@ -15,8 +15,8 @@
 													<rs-module-wrap id="rev_slider_1_1_wrapper" data-source="gallery" style="visibility:hidden;background:#1dc2ef;padding:0;margin:0px auto;margin-top:0;margin-bottom:0;">
 														<rs-module id="rev_slider_1_1" data-version="6.5.14">
 															<rs-slides>
-																<rs-slide style="position: absolute;" data-key="rs-3" data-title="Slide" data-thumb="{{url('frontend/rt-content/uploads/2018/08/slider-1-100x50.jpg')}}" data-anim="ms:600;r:0;" data-in="o:0;" data-out="a:false;">
-																	<img width="1" height="1" decoding="async" src="{{url('frontend/rt-content/plugins/revslider/public/assets/assets/dummy.png')}}" alt="" title="Home" class="rev-slidebg tp-rs-img rs-lazyload" data-lazyload="{{url('frontend/rt-content/uploads/2018/08/slider-1.jpg')}}" data-no-retina>
+																<rs-slide style="position: absolute;" data-key="rs-3" data-title="Slide" data-thumb="http://127.0.1:8000/frontend/rt-content/uploads/2018/08/slider-12bab.jpg" data-anim="ms:600;r:0;" data-in="o:0;" data-out="a:false;">
+																	<img width="1" height="1" decoding="async" src="http://127.0.1:8000/frontend/rt-content/plugins/revslider/public/assets/assets/dummy.png" alt="" title="Home" class="rev-slidebg tp-rs-img rs-lazyload" data-lazyload="http://127.0.1:8000/frontend/rt-content/uploads/2018/08/slider-12bab.jpg" data-no-retina>
 																	<rs-layer id="slider-1-slide-3-layer-1" data-type="text" data-color="#ffffff" data-xy="x:52px;y:c;yo:-135px;" data-text="s:60;l:80;a:center;" data-frame_0="y:-100%;o:1;tp:600;" data-frame_0_mask="u:t;" data-frame_1="tp:600;sp:1500;sR:10;" data-frame_1_mask="u:t;" data-frame_999="o:0;tp:600;st:w;sR:7490;" style="z-index:5;font-family:'Roboto';text-transform:lowercase;">
 																		<div class="slider-sub">Every Device</div>
 																	</rs-layer>
@@ -32,13 +32,13 @@
 																	<rs-layer id="slider-1-slide-3-layer-9" class="tp-shape tp-shapewrapper" data-type="shape" data-rsp_ch="on" data-xy="x:55px;y:c;yo:100px;" data-text="a:inherit;" data-dim="w:80px;h:5px;" data-frame_0="y:-100%;o:1;tp:600;" data-frame_0_mask="u:t;" data-frame_1="tp:600;sp:1500;sR:10;" data-frame_1_mask="u:t;" data-frame_999="o:0;tp:600;st:w;sR:7490;" style="z-index:9;background-color:#ffffff;">
 																	</rs-layer>
 																</rs-slide>
-																<rs-slide style="position: absolute;" data-key="rs-2" data-title="Slide" data-thumb="{{url('frontend/rt-content/uploads/2018/08/job12-279-chim-01065-100x50.jpg')}}" data-anim="ms:600;r:0;" data-in="o:0;" data-out="a:false;">
-																	<img width="1" height="1" decoding="async" src="{{url('frontend/rt-content/plugins/revslider/public/assets/assets/dummy.png')}}" alt="" title="Home" class="rev-slidebg tp-rs-img rs-lazyload" data-lazyload="{{url('frontend/rt-content/uploads/2018/08/job12-279-chim-01065.jpg')}}" data-no-retina>
+																<rs-slide style="position: absolute;" data-key="rs-2" data-title="Slide" data-thumb="http://127.0.1:8000/frontend/rt-content/uploads/2018/08/job12-288-chim-00969-800x450.jpg" data-anim="ms:600;r:0;" data-in="o:0;" data-out="a:false;">
+																	<img width="1" height="1" decoding="async" src="http://127.0.1:8000/frontend/rt-content/plugins/revslider/public/assets/assets/dummy.png" alt="" title="Home" class="rev-slidebg tp-rs-img rs-lazyload" data-lazyload="http://127.0.1:8000/frontend/rt-content/uploads/2018/08/job12-288-chim-00969-800x450.jpg" data-no-retina>
 																	<rs-layer id="slider-1-slide-2-layer-1" data-type="text" data-color="#ffffff" data-xy="x:c;y:c;yo:50px;" data-text="s:32;l:40;a:center;" data-frame_0="y:-100%;o:1;tp:600;" data-frame_0_mask="u:t;" data-frame_1="tp:600;sp:1500;sR:10;" data-frame_1_mask="u:t;" data-frame_999="o:0;tp:600;st:w;sR:7490;" style="z-index:5;font-family:'Roboto';">
 																		<div class="slider-sub">Let us provide the support you deserve.</div>
 																	</rs-layer>
 																	<rs-layer id="slider-1-slide-2-layer-2" data-type="text" data-color="#ffffff" data-xy="x:c;y:c;yo:180px;" data-text="l:22;a:inherit;" data-vbility="t,t,f,f" data-frame_0="y:-100%;o:1;tp:600;" data-frame_0_mask="u:t;" data-frame_1="tp:600;sp:1500;sR:10;" data-frame_1_mask="u:t;" data-frame_999="o:0;tp:600;st:w;sR:7490;" style="z-index:6;font-family:'Open Sans';">
-																		<a class="button line" href="about/index.html">Discover US No.1 Service Provider</a>
+																		<a class="button line" href="{{url('/company/about')}}">Discover US No.1 Service Provider</a>
 																	</rs-layer>
 																	<rs-layer id="slider-1-slide-2-layer-3" data-type="text" data-color="#ffffff" data-xy="x:c;y:c;yo:-130px;" data-text="s:112;l:128;a:inherit;" data-frame_0="y:-100%;o:1;tp:600;" data-frame_0_mask="u:t;" data-frame_1="tp:600;sp:1500;sR:10;" data-frame_1_mask="u:t;" data-frame_999="o:0;tp:600;st:w;sR:7490;" style="z-index:7;font-family:'Roboto';">
 																		<div class="slider-title">focus</div>
@@ -49,13 +49,13 @@
 																	<rs-layer id="slider-1-slide-2-layer-7" class="tp-shape tp-shapewrapper" data-type="shape" data-rsp_ch="on" data-xy="x:c;y:c;yo:100px;" data-text="fw:100;a:inherit;" data-dim="w:80px;h:5px;" data-frame_0="y:-100%;o:1;tp:600;" data-frame_0_mask="u:t;" data-frame_1="tp:600;sp:1500;sR:10;" data-frame_1_mask="u:t;" data-frame_999="o:0;tp:600;st:w;sR:7490;" style="z-index:9;background-color:#ffffff;">
 																	</rs-layer>
 																</rs-slide>
-																<rs-slide style="position: absolute;" data-key="rs-1" data-title="Slide" data-thumb="{{url('frontend/rt-content/uploads/2018/08/slider3-100x50.jpg')}}" data-anim="ms:600;r:0;" data-in="o:0;" data-out="a:false;">
-																	<img width="1" height="1" decoding="async" src="{{url('frontend/rt-content/plugins/revslider/public/assets/assets/dummy.png')}}" alt="" title="Home" class="rev-slidebg tp-rs-img rs-lazyload" data-lazyload="{{url('frontend/rt-content/uploads/2018/08/slider3.jpg')}}" data-no-retina>
+																<rs-slide style="position: absolute;" data-key="rs-1" data-title="Slide" data-thumb="http://127.0.1:8000/frontend/rt-content/uploads/2018/08/slider3-100x50.jpg')}}" data-anim="ms:600;r:0;" data-in="o:0;" data-out="a:false;">
+																	<img width="1" height="1" decoding="async" src="http://127.0.1:8000/frontend/rt-content/plugins/revslider/public/assets/assets/dummy.png')}}" alt="" title="Home" class="rev-slidebg tp-rs-img rs-lazyload" data-lazyload="http://127.0.1:8000/frontend/rt-content/uploads/2018/08/slider3.jpg')}}" data-no-retina>
 																	<rs-layer id="slider-1-slide-1-layer-1" data-type="text" data-color="#ffffff" data-xy="x:r;xo:50px;y:c;yo:-150px;" data-text="s:60;l:80;a:center;" data-frame_0="y:-100%;o:1;tp:600;" data-frame_0_mask="u:t;" data-frame_1="tp:600;sp:1500;sR:10;" data-frame_1_mask="u:t;" data-frame_999="o:0;tp:600;st:w;sR:7490;" style="z-index:5;font-family:'Roboto';">
 																		<div class="slider-sub">workplace</div>
 																	</rs-layer>
 																	<rs-layer id="slider-1-slide-1-layer-2" data-type="text" data-color="#ffffff" data-xy="x:r;xo:50px;y:c;yo:180px;" data-text="l:22;a:inherit;" data-vbility="t,t,f,f" data-frame_0="y:-100%;o:1;tp:600;" data-frame_0_mask="u:t;" data-frame_1="tp:600;sp:1500;sR:10;" data-frame_1_mask="u:t;" data-frame_999="o:0;tp:600;st:w;sR:7490;" style="z-index:6;font-family:'Open Sans';">
-																		<a class="button line" href="contact-us/index.html">Make IT Stress Free</a>
+																		<a class="button line" href="{{url('/contacts')}}">Make IT Stress Free</a>
 																	</rs-layer>
 																	<rs-layer id="slider-1-slide-1-layer-3" data-type="text" data-color="#ffffff" data-xy="x:r;xo:50px;y:c;yo:-65px;" data-text="s:112;l:128;a:inherit;" data-frame_0="y:-100%;o:1;tp:600;" data-frame_0_mask="u:t;" data-frame_1="tp:600;sp:1500;sR:10;" data-frame_1_mask="u:t;" data-frame_999="o:0;tp:600;st:w;sR:7490;" style="z-index:7;font-family:'Roboto';">
 																		<div class="slider-title">technology</div>
@@ -163,7 +163,7 @@
 													<div class="wpb_wrapper">
 														<div class="imagebox  ">
 															<div class="box-image">
-																<a class="box-header" href="{{url('/itservices/whychooseus')}}" target="_self">
+																<a class="box-header" href="{{url('/company/whychooseus')}}" target="_self">
 																	<h6 class="box-subtitle"><span>Our expertise</span></h6>
 																	<h2 class="box-title">Why partner with us</h2>
 																	<div class="box-button">
@@ -222,7 +222,7 @@
 															<div class="wpb_wrapper">
 																<p style="text-align: center; font-size: 15px;">
 																	Stop wasting time and money on technology. 
-																	<a class="dot" href="about/index.html">
+																	<a class="dot" href="{{url('/company/about')}}">
 																		<span style="color: #032b5f;">Explore our company</span>
 																	</a>
 																</p>
@@ -669,9 +669,9 @@
 																			<a class="mask" style="background-color: #71cbcc;" href="nproject/cloud-migration-saves-money-for-health-insurer/index.html">#71cbcc </a>
 																			<figure class="project-thumbnail">
 																				<div class="project-category">
-																					<a href="nproject-category/healthcare-industry/index.html" rel="tag">Healthcare Industry</a>
+																					<a href="{{url('/industries/healthcare')}}" rel="tag">Healthcare Industry</a>
 																				</div>
-																				<a href="nproject/cloud-migration-saves-money-for-health-insurer/index.html">
+																				<a href="{{url('/industries/healthcare')}}">
 																					<span class="project-client">
 																						<img decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" class="attachment-full" alt="" data-lazy-src="{{url('frontend/rt-content/uploads/2018/08/uni-w.svg')}}" /><noscript><img decoding="async" src="{{url('frontend/rt-content/uploads/2018/08/uni-w.svg')}}" class="attachment-full" alt="" /></noscript>
 																					</span>
@@ -687,9 +687,9 @@
 																			<div class="project-info">
 																				<div class="project-info-inner">
 																					<div class="project-category">
-																						<a href="nproject-category/healthcare-industry/index.html" rel="tag">Healthcare Industry</a>
+																						<a href="{{url('/industries/healthcare')}}" rel="tag">Healthcare Industry</a>
 																					</div>
-																					<a href="nproject/cloud-migration-saves-money-for-health-insurer/index.html">
+																					<a href="{{url('/industries/healthcare')}}">
 																						<h2 class="project-title" itemprop="name headline">Cloud migration saves money for health insurer </h2>
 																						<div class="project-client">
 																							<img decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" class="attachment-full" alt="" data-lazy-src="{{url('frontend/rt-content/uploads/2018/08/uni-w.svg')}}" />
@@ -711,7 +711,7 @@
 																			<a class="mask" style="background-color: #29b2fe;" href="nproject/remote-support-center-for-semiconductor-provider/index.html">#29b2fe </a>
 																			<figure class="project-thumbnail">
 																				<div class="project-category">
-																					<a href="nproject-category/cyber-security/index.html" rel="tag">Cyber Security</a>
+																					<a href="{{url('/itservices/cybersecurity')}}" rel="tag">Cyber Security</a>
 																				</div>
 																				<a href="nproject/remote-support-center-for-semiconductor-provider/index.html">
 																					<span class="project-client">
@@ -732,7 +732,7 @@
 																			<div class="project-info">
 																				<div class="project-info-inner">
 																					<div class="project-category">
-																						<a href="nproject-category/cyber-security/index.html" rel="tag">Cyber Security</a>
+																						<a href="{{url('/itservices/cybersecurity')}}" rel="tag">Cyber Security</a>
 																					</div>
 																					<a href="nproject/remote-support-center-for-semiconductor-provider/index.html">
 																						<h2 class="project-title" itemprop="name headline"> Remote support center for semiconductor provider </h2>
@@ -805,7 +805,7 @@
 														<div class="wpb_text_column wpb_content_element ">
 															<div class="wpb_wrapper">
 																<p style="text-align: center; font-size: 15px;">Find out how companies succeed with us. 
-																<a class="dot" href="case-studies/index.html"><span style="color: #032b5f;">Read our case studies</span></a></p>
+																<a class="dot" href="{{url('/casestudies')}}"><span style="color: #032b5f;">Read our case studies</span></a></p>
 															</div>
 														</div>
 													</div>
@@ -947,7 +947,7 @@
 																					</div>
 																					<div class="iconlist-item-content">
 																						<h4>We don&#8217;t have an ITdepartment</h4>
-																						<p>Work with us as your one-stopshop for IT management andsolutions<br /><aclass="link"href="contact-us/index.html">Contactus today</a>
+																						<p>Work with us as your one-stopshop for IT management andsolutions<br /><aclass="link"href="{{url('/contacts')}}">Contactus today</a>
 																					</div>
 																				</div>
 																			</li>
@@ -961,7 +961,7 @@
 														</div>
 														<div class="wpb_text_column wpb_content_element ">
 															<div class="wpb_wrapper">
-																<p style="text-align: center; font-size: 15px;">Discoverhow we can help your business WIN with managed ITservices. <a class="dot"href="it-services/index.html"><spanstyle="color: #032b5f;">Discovernow</span></a></p>
+																<p style="text-align: center; font-size: 15px;">Discoverhow we can help your business WIN with managed ITservices. <a class="dot"href="{{url('/itservices')}}"><span style="color: #032b5f;">Discover now</span></a></p>
 															</div>
 														</div>
 													</div>
