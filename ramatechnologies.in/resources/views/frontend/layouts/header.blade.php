@@ -1,9 +1,5 @@
 <!DOCTYPE html>
 <html lang="en-US" class="no-js">
-
-<!-- Mirrored from live.21lab.co/nanosoft/ by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 20 Apr 2024 08:08:59 GMT -->
-<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
-
 <head>
 	<meta charset="UTF-8" />
 	<meta content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" name="viewport">
@@ -16,11 +12,8 @@
 	<link rel="stylesheet" href="{{url('frontend/rt-content/cache/min/1/e941e6ac283245e82c14b5e6217ccc82.css')}}" media="all" data-minify="1" />
 	<link rel="stylesheet" href="{{url('frontend/rt-content/cache/min/1/e5d3697f1f409e4504274b774f0d8708.css')}}" media="all" data-minify="1" />
 	<link rel="stylesheet" href="{{url('frontend/rt-content/cache/min/1/538e79fa5f4ea36b5777720c5c009daa.css')}}" media="all" data-minify="1" />
-	<meta name='robots' content='max-image-preview:large' />
 	<link rel='dns-prefetch' href='http://fonts.googleapis.com/' />
 	<link href='https://fonts.gstatic.com/' crossorigin rel='preconnect' />
-	<link rel="alternate" type="application/rss+xml" title="NanoSoft &raquo; Feed" href="feed/index.html" />
-	<link rel="alternate" type="application/rss+xml" title="NanoSoft &raquo; Comments Feed" href="comments/feed/index.html" />
 	<link rel="stylesheet" href="{{url('frontend/rt-self/index.css')}}" />
 	<style id='wp-emoji-styles-inline-css' type='text/css'>
 		img.wp-smiley,
@@ -46,7 +39,6 @@
 			padding: calc(.667em + 2px) calc(1.333em + 2px);
 			font-size: 1.125em
 		}
-
 		.wp-block-file__button {
 			background: #32373c;
 			color: #fff;
@@ -449,14 +441,6 @@
 		};
 	</script>
 	<script data-minify="1" type="text/javascript" src="{{url('frontend/rt-content/cache/min/1/nanosoft/wp-content/plugins/wp-video-lightbox/js/video-lightbox7b33.js')}}?ver=1644830545" id="video-lightbox-js"></script>
-	<link rel="https://api.w.org/" href="{{url('frontend/rt-json/index.html')}}" />
-	<link rel="alternate" type="application/json" href="{{url('frontend/rt-json/wp/v2/pages/2.json')}}" />
-	<link rel="EditURI" type="application/rsd+xml" title="RSD" href="xmlrpc0db0.php?rsd" />
-	<meta name="generator" content="WordPress 6.5.2" />
-	<link rel="canonical" href="index.html" />
-	<link rel='shortlink' href='index.html' />
-	<link rel="alternate" type="application/json+oembed" href="{{url('frontend/rt-json/oembed/1.0/embed5d75.json')}}?url=https%3A%2F%2Flive.21lab.co%2Fnanosoft%2F" />
-	<link rel="alternate" type="text/xml+oembed" href="{{url('frontend/rt-json/oembed/1.0/embed4028')}}?url=https%3A%2F%2Flive.21lab.co%2Fnanosoft%2F&amp;format=xml" />
 	<style type="text/css" id="custom_fonts">
 		@font-face {
 			font-family: Sailec-Bold;
@@ -2559,7 +2543,6 @@
 		</style>
 	</noscript>
 </head>
-
 <body class="home page-template page-template-tmpl page-template-template-fullwidth page-template-tmpltemplate-fullwidth-php page page-id-2 sliding-desktop-off sliding-overlay layout-wide sidebar-none wpb-js-composer js-comp-ver-6.8.0 vc_responsive" itemscope="itemscope" itemtype="https://schema.org/WebPage">
 	<div id="site" class="site wrap header-position-top full-content">
 		<div id="site-header" class="site-header site-header-classic header-brand-left header-full header-shadow">

@@ -313,15 +313,12 @@
 			</ul>
 		</div>
 	</div>
-
 	<div id="frame">
 		<span class="frame_top"></span>
 		<span class="frame_right"></span>
 		<span class="frame_bottom"></span>
 		<span class="frame_left"></span>
 	</div>
-
-
 	<script>
 		window.RS_MODULES = window.RS_MODULES || {};
 		window.RS_MODULES.modules = window.RS_MODULES.modules || {};
@@ -341,11 +338,11 @@
 		}
 		#rs-demo-id {}
 	</style>
-	<script  data-minify="1"  type="text/javascript"  src="{{url('frontend/rt-content/cache/min/1/nanosoft/wp-content/themes/nanosoft/assets/js/componentsc841.js')}}?ver=1644830546"  id="nanosoft-components-js"></script>
-	<script  data-minify="1"  type="text/javascript"  src="{{url('frontend/rt-content/cache/min/1/nanosoft/wp-content/themes/nanosoft/assets/js/themec841.js')}}?ver=1644830546"  id="nanosoft-js"></script>
-	<script  type="text/javascript"  src="{{url('frontend/rt-includes/js/dist/vendor/wp-polyfill-inert.min0226.js')}}?ver=3.1.2"  id="wp-polyfill-inert-js"></script>
-	<script  type="text/javascript"  src="{{url('frontend/rt-includes/js/dist/vendor/regenerator-runtime.min6c85.js')}}?ver=0.14.0"  id="regenerator-runtime-js"></script>
-	<script  type="text/javascript"  src="{{url('frontend/rt-includes/js/dist/vendor/wp-polyfill.min2c7c.js')}}?ver=3.15.0"  id="wp-polyfill-js"></script>
+	<script data-minify="1"  type="text/javascript" src="{{url('frontend/rt-content/cache/min/1/nanosoft/wp-content/themes/nanosoft/assets/js/componentsc841.js')}}?ver=1644830546"  id="nanosoft-components-js"></script>
+	<script data-minify="1"  type="text/javascript" src="{{url('frontend/rt-content/cache/min/1/nanosoft/wp-content/themes/nanosoft/assets/js/themec841.js')}}?ver=1644830546"  id="nanosoft-js"></script>
+	<script type="text/javascript" src="{{url('frontend/rt-includes/js/dist/vendor/wp-polyfill-inert.min0226.js')}}?ver=3.1.2"  id="wp-polyfill-inert-js"></script>
+	<script type="text/javascript" src="{{url('frontend/rt-includes/js/dist/vendor/regenerator-runtime.min6c85.js')}}?ver=0.14.0"  id="regenerator-runtime-js"></script>
+	<script type="text/javascript" src="{{url('frontend/rt-includes/js/dist/vendor/wp-polyfill.min2c7c.js')}}?ver=3.15.0"  id="wp-polyfill-js"></script>
 	<script type="text/javascript" id="contact-form-7-js-extra">
 		var wpcf7 = { "api": { "root": "https:\/\/live.21lab.co\/nanosoft\/wp-json\/", "namespace": "contact-form-7\/v1" }, "cached": "1" };
 	</script>
