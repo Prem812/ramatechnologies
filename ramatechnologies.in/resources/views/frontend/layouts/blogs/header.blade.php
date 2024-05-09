@@ -1,14 +1,14 @@
 <!DOCTYPE html>
 <html lang="en-US" class="no-js">
 
-<!-- Mirrored from live.21lab.co/nanosoft/medium-image-with-sidebar/ by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 20 Apr 2024 08:12:51 GMT -->
+<!-- Mirrored from live.21lab.co/ramatechnologies/medium-image-with-sidebar/ by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 20 Apr 2024 08:12:51 GMT -->
 <!-- Added by HTTrack -->
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 
 <head>
 	<meta charset="UTF-8" />
 	<meta content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" name="viewport">
-	<title>Medium Image (with sidebar) &#8211; NanoSoft</title>
+	<title>Medium Image (with sidebar) &#8211; RamaTechnologies</title>
 	<link rel="preload" as="style" href="https://fonts.googleapis.com/css?family=Rubik%3A300%2C300italic%2Cregular%2Citalic%2C500%2C500italic%2C700%2C700italic%2C900%2C900italic%7CPoppins%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2Cregular%2Citalic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&amp;subset=latin-ext%2Chebrew%2Clatin%2Ccyrillic%2Cdevanagari&amp;display=swap" />
 	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Rubik%3A300%2C300italic%2Cregular%2Citalic%2C500%2C500italic%2C700%2C700italic%2C900%2C900italic%7CPoppins%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2Cregular%2Citalic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&amp;subset=latin-ext%2Chebrew%2Clatin%2Ccyrillic%2Cdevanagari&amp;display=swap" media="print" onload="this.media='all'" />
 	<noscript>
@@ -18,7 +18,7 @@
 		data-minify="1" />
 	<meta name='robots' content='max-image-preview:large' />
 	<link rel='dns-prefetch' href='http://fonts.googleapis.com/' />
-	<style id='nanosoft-inline-css' type='text/css'>
+	<style id='RamaTechnologies-inline-css' type='text/css'>
 		body,
 		.site,
 		.mask::after,
@@ -1139,7 +1139,7 @@
 	<script type="text/javascript" src="{{url('frontend/rt-includes/js/jquery/jquery-migrate.min5589.js')}}?ver=3.4.1"
 		id="jquery-migrate-js"></script>
 	<script data-minify="1" type="text/javascript"
-		src="{{url('frontend/rt-content/cache/min/1/nanosoft/wp-content/plugins/wp-video-lightbox/js/jquery.prettyPhoto7b33.js')}}?ver=1644830545"
+		src="{{url('frontend/rt-content/cache/min/1/ramatechnologies/rt-content/plugins/wp-video-lightbox/js/jquery.prettyPhoto7b33.js')}}?ver=1644830545"
 		id="jquery.prettyphoto-js"></script>
 	<script type="text/javascript" id="video-lightbox-js-extra">
 		/* <![CDATA[ */
@@ -1147,7 +1147,7 @@
 		/* ]]> */
 	</script>
 	<script data-minify="1" type="text/javascript"
-		src="{{url('frontend/rt-content/cache/min/1/nanosoft/wp-content/plugins/wp-video-lightbox/js/video-lightbox7b33.js')}}?ver=1644830545"
+		src="{{url('frontend/rt-content/cache/min/1/ramatechnologies/rt-content/plugins/wp-video-lightbox/js/video-lightbox7b33.js')}}?ver=1644830545"
 		id="video-lightbox-js"></script>
 	<link rel="https://api.w.org/" href="{{url('frontend/rt-json/index.html')}}" />
 	<link rel="alternate" type="application/json" href="{{url('frontend/rt-json/wp/v2/pages/493.json')}}" />
@@ -1156,9 +1156,9 @@
 	<link rel="canonical" href="index.html" />
 	<link rel='shortlink' href='../index7255.html?p=493' />
 	<link rel="alternate" type="application/json+oembed"
-		href="{{url('frontend/rt-json/oembed/1.0/embed11ff.json')}}?url=https%3A%2F%2Flive.21lab.co%2Fnanosoft%2Fmedium-image-with-sidebar%2F" />
+		href="{{url('frontend/rt-json/oembed/1.0/embed11ff.json')}}?url=https%3A%2F%2Flive.21lab.co%2FRamaTechnologies%2Fmedium-image-with-sidebar%2F" />
 	<link rel="alternate" type="text/xml+oembed"
-		href="{{url('frontend/rt-json/oembed/1.0/embede4ca')}}?url=https%3A%2F%2Flive.21lab.co%2Fnanosoft%2Fmedium-image-with-sidebar%2F&amp;format=xml" />
+		href="{{url('frontend/rt-json/oembed/1.0/embede4ca')}}?url=https%3A%2F%2Flive.21lab.co%2FRamaTechnologies%2Fmedium-image-with-sidebar%2F&amp;format=xml" />
 	<style type="text/css" id="custom_fonts">
 		@font-face {
 			font-family: Sailec-Bold;
@@ -1207,7 +1207,7 @@
 	<link rel="icon" href="{{url('frontend/rt-content/uploads/2018/10/cropped-favico-1-192x192.png')}}" sizes="192x192" />
 	<link rel="apple-touch-icon" href="{{url('frontend/rt-content/uploads/2018/10/cropped-favico-1-180x180.png')}}" />
 	<meta name="msapplication-TileImage"
-		content="https://live.21lab.co/nanosoft/wp-content/uploads/2018/10/cropped-favico-1-270x270.png" />
+		content="https://live.21lab.co/ramatechnologies/rt-content/uploads/2018/10/cropped-favico-1-270x270.png" />
 	<script>function setREVStartSize(e) {
 			//window.requestAnimationFrame(function() {
 			window.RSIW = window.RSIW === undefined ? window.innerWidth : window.RSIW;
@@ -1325,15 +1325,15 @@
 
 				<div class="header-content">
 					<div class="header-brand">
-						<a href="https://live.21lab.co/nanosoft">
+						<a href="https://live.21lab.co/RamaTechnologies">
 							<img width="154" height="36"
 								src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20154%2036'%3E%3C/svg%3E"
-								data-lazy-srcset="https://live.21lab.co/nanosoft/wp-content/uploads/2018/10/logo.png 1x, https://live.21lab.co/nanosoft/wp-content/uploads/2018/10/logo@2x.png 2x"
-								alt="NanoSoft" class="logo logoDefault"
-								data-lazy-src="https://live.21lab.co/nanosoft/wp-content/uploads/2018/10/logo.png" /><noscript><img
+								data-lazy-srcset="https://live.21lab.co/ramatechnologies/rt-content/uploads/2018/10/logo.png 1x, https://live.21lab.co/ramatechnologies/rt-content/uploads/2018/10/logo@2x.png 2x"
+								alt="RamaTechnologies" class="logo logoDefault"
+								data-lazy-src="https://live.21lab.co/ramatechnologies/rt-content/uploads/2018/10/logo.png" /><noscript><img
 									width="154" height="36" src="{{url('frontend/rt-content/uploads/2018/10/logo.png')}}"
-									srcset="https://live.21lab.co/nanosoft/wp-content/uploads/2018/10/logo.png 1x, https://live.21lab.co/nanosoft/wp-content/uploads/2018/10/logo@2x.png 2x"
-									alt="NanoSoft" class="logo logoDefault" /></noscript> </a>
+									srcset="https://live.21lab.co/ramatechnologies/rt-content/uploads/2018/10/logo.png 1x, https://live.21lab.co/ramatechnologies/rt-content/uploads/2018/10/logo@2x.png 2x"
+									alt="RamaTechnologies" class="logo logoDefault" /></noscript> </a>
 					</div>
 
 
@@ -1451,7 +1451,7 @@
 								<div class="icons"><img
 										src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
 										alt="icon"
-										data-lazy-src="https://live.21lab.co/nanosoft/wp-content/uploads/2018/08/conversations-4872_af60b258-251e-41af-b238-dfb706d7b3d4.svg" /><noscript><img
+										data-lazy-src="https://live.21lab.co/ramatechnologies/rt-content/uploads/2018/08/conversations-4872_af60b258-251e-41af-b238-dfb706d7b3d4.svg" /><noscript><img
 											src="{{url('frontend/rt-content/uploads/2018/08/conversations-4872_af60b258-251e-41af-b238-dfb706d7b3d4.svg')}}')}}')}}"
 											alt="icon" /></noscript></div>
 								<div class="info">Have any questions?<br>
@@ -1467,7 +1467,7 @@
 								</a>
 								<div class="widget widget_search">
 									<form role="search" method="get" class="search-form"
-										action="https://live.21lab.co/nanosoft/">
+										action="https://live.21lab.co/ramatechnologies/">
 										<label>
 											<span class="screen-reader-text">Search for:</span>
 											<input type="search" class="search-field" placeholder="Search &hellip;"
@@ -1496,15 +1496,15 @@
 			<div class="site-header-inner wrap">
 				<div class="header-content">
 					<div class="header-brand">
-						<a href="https://live.21lab.co/nanosoft">
+						<a href="https://live.21lab.co/RamaTechnologies">
 							<img width="154" height="36"
 								src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20154%2036'%3E%3C/svg%3E"
-								data-lazy-srcset="https://live.21lab.co/nanosoft/wp-content/uploads/2018/10/logo.png 1x, https://live.21lab.co/nanosoft/wp-content/uploads/2018/10/logo@2x.png 2x"
-								alt="NanoSoft" class="logo logoDefault"
+								data-lazy-srcset="https://live.21lab.co/ramatechnologies/rt-content/uploads/2018/10/logo.png 1x, https://live.21lab.co/ramatechnologies/rt-content/uploads/2018/10/logo@2x.png 2x"
+								alt="RamaTechnologies" class="logo logoDefault"
 								data-lazy-src="{{url('frontend/rt-content/uploads/2018/10/logo.png')}}')}}" /><noscript><img width="154"
 									height="36" src="{{url('frontend/rt-content/uploads/2018/10/logo.png')}}')}}"
-									srcset="https://live.21lab.co/nanosoft/wp-content/uploads/2018/10/logo.png 1x, https://live.21lab.co/nanosoft/wp-content/uploads/2018/10/logo@2x.png 2x"
-									alt="NanoSoft" class="logo logoDefault" /></noscript> </a>
+									srcset="https://live.21lab.co/ramatechnologies/rt-content/uploads/2018/10/logo.png 1x, https://live.21lab.co/ramatechnologies/rt-content/uploads/2018/10/logo@2x.png 2x"
+									alt="RamaTechnologies" class="logo logoDefault" /></noscript> </a>
 					</div>
 
 
@@ -1630,7 +1630,7 @@
 								</a>
 								<div class="widget widget_search">
 									<form role="search" method="get" class="search-form"
-										action="https://live.21lab.co/nanosoft/">
+										action="https://live.21lab.co/ramatechnologies/">
 										<label>
 											<span class="screen-reader-text">Search for:</span>
 											<input type="search" class="search-field" placeholder="Search &hellip;"

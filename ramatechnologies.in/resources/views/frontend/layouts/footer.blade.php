@@ -21,9 +21,9 @@
 						<aside data-width="4">
 							<div id="media_image-8" class="widget-odd widget-first widget-1 widget widget_media_image">
 								<a href="/">
-									<img width="60" height="60" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2060%2060'%3E%3C/svg%3E" class="image wp-image-545  attachment-60x60 size-60x60" alt="" data-lazy-src="{{url('frontend/rt-content/uploads/2018/08/ft-logo.png')}}" />
+									<img width="100" height="100" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2060%2060'%3E%3C/svg%3E" class="image wp-image-545  attachment-60x60 size-60x60" alt="" data-lazy-src="{{url('frontend/rt-content/uploads/2018/08/ft-ram.png')}}" />
 									<noscript>
-										<img width="60" height="60" src="{{url('frontend/rt-content/uploads/2018/08/ft-logo.png')}}" class="image wp-image-545  attachment-60x60 size-60x60" alt="" style="max-width: 100%; height: auto;" decoding="async" />
+										<img width="100" height="100" src="{{url('frontend/rt-content/uploads/2018/08/ft-ram.png')}}" class="image wp-image-545  attachment-60x60 size-60x60" alt="" style="max-width: 100%; height: auto;" decoding="async" />
 									</noscript>
 								</a>
 							</div>
@@ -35,7 +35,7 @@
 							<div id="custom_html-5" class="widget_text widget-odd widget-last widget-3 widget widget_custom_html">
 								<div class="textwidget custom-html-widget">
 									<div class="social-icons">
-										<a href="#" target="_blank" rel="noopener">
+										<a href="https://twitter.com/ramatechnologi6" target="_blank" rel="noopener">
 											<i class="fa fa-twitter"></i>
 										</a>
 										<a href="https://www.youtube.com/channel/UC73rVQinweKXDvvIEGO-2ZA" target="_blank" rel="noopener">
@@ -46,9 +46,6 @@
 										</a>
 										<a href="https://www.linkedin.com/company/ramatechnologies/" target="_blank" rel="noopener">
 											<i class="fa fa-linkedin-square"></i>
-										</a>
-										<a href="https://twitter.com/ramatechnologi6" target="_blank" rel="noopener">
-											<i class="fa fa-twitter-square"></i>
 										</a>
 									</div>
 								</div>
@@ -170,7 +167,7 @@
 		</a>
 		<div class="off-canvas-wrap">
 			<div class="widget widget_search">
-				<form role="search" method="get" class="search-form" action="https://live.21lab.co/nanosoft/">
+				<form role="search" method="get" class="search-form" action="https://live.21lab.co/ramatechnologies/">
 					<label>
 						<span class="screen-reader-text">Search for:</span>
 						<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" />
@@ -338,15 +335,15 @@
 		}
 		#rs-demo-id {}
 	</style>
-	<script data-minify="1"  type="text/javascript" src="{{url('frontend/rt-content/cache/min/1/nanosoft/wp-content/themes/nanosoft/assets/js/componentsc841.js')}}?ver=1644830546"  id="nanosoft-components-js"></script>
-	<script data-minify="1"  type="text/javascript" src="{{url('frontend/rt-content/cache/min/1/nanosoft/wp-content/themes/nanosoft/assets/js/themec841.js')}}?ver=1644830546"  id="nanosoft-js"></script>
+	<script data-minify="1" type="text/javascript" src="{{url('frontend/rt-content/cache/min/1/ramatechnologies/rt-content/themes/ramatechnologies/assets/js/componentsc841.js')}}?ver=1644830546"  id="nanosoft-components-js"></script>
+	<script data-minify="1" type="text/javascript" src="{{url('frontend/rt-content/cache/min/1/ramatechnologies/rt-content/themes/ramatechnologies/assets/js/themec841.js')}}?ver=1644830546"  id="nanosoft-js"></script>
 	<script type="text/javascript" src="{{url('frontend/rt-includes/js/dist/vendor/wp-polyfill-inert.min0226.js')}}?ver=3.1.2"  id="wp-polyfill-inert-js"></script>
 	<script type="text/javascript" src="{{url('frontend/rt-includes/js/dist/vendor/regenerator-runtime.min6c85.js')}}?ver=0.14.0"  id="regenerator-runtime-js"></script>
 	<script type="text/javascript" src="{{url('frontend/rt-includes/js/dist/vendor/wp-polyfill.min2c7c.js')}}?ver=3.15.0"  id="wp-polyfill-js"></script>
 	<script type="text/javascript" id="contact-form-7-js-extra">
 		var wpcf7 = { "api": { "root": "https:\/\/live.21lab.co\/nanosoft\/wp-json\/", "namespace": "contact-form-7\/v1" }, "cached": "1" };
 	</script>
-	<script  data-minify="1"  type="text/javascript"  src="{{url('frontend/rt-content/cache/min/1/nanosoft/wp-content/plugins/contact-form-7/includes/js/indexc841.js')}}?ver=1644830546"  id="contact-form-7-js"></script>
+	<script  data-minify="1"  type="text/javascript"  src="{{url('frontend/rt-content/cache/min/1/ramatechnologies/rt-content/plugins/contact-form-7/includes/js/indexc841.js')}}?ver=1644830546"  id="contact-form-7-js"></script>
 	<script  type="text/javascript"  src="{{url('frontend/rt-content/plugins/devvn-image-hotspot/frontend/js/jquery.ihotspot.min1576.js')}}?ver=1.2.1"  id="ihotspot-js-js"></script>
 	<script type="text/javascript" id="page-scroll-to-id-plugin-script-js-extra">
 		var mPS2id_params = { "instances": { "mPS2id_instance_0": { "selector": "a[href*='#']:not([href='#'])", "autoSelectorMenuLinks": "true", "excludeSelector": "a[href^='#tab-'], a[href^='#tabs-'], a[data-toggle]:not([data-toggle='tooltip']), a[data-slide], a[data-vc-tabs], a[data-vc-accordion], a.screen-reader-text.skip-link", "scrollSpeed": 800, "autoScrollSpeed": "true", "scrollEasing": "easeInOutQuint", "scrollingEasing": "easeOutQuint", "forceScrollEasing": "false", "pageEndSmoothScroll": "true", "stopScrollOnUserAction": "false", "autoCorrectScroll": "false", "autoCorrectScrollExtend": "false", "layout": "vertical", "offset": 0, "dummyOffset": "false", "highlightSelector": "", "clickedClass": "mPS2id-clicked", "targetClass": "mPS2id-target", "highlightClass": "mPS2id-highlight", "forceSingleHighlight": "false", "keepHighlightUntilNext": "false", "highlightByNextTarget": "false", "appendHash": "false", "scrollToHash": "true", "scrollToHashForAll": "true", "scrollToHashDelay": 0, "scrollToHashUseElementData": "true", "scrollToHashRemoveUrlHash": "false", "disablePluginBelow": 0, "adminDisplayWidgetsId": "true", "adminTinyMCEbuttons": "true", "unbindUnrelatedClickEvents": "false", "unbindUnrelatedClickEventsSelector": "", "normalizeAnchorPointTargets": "false", "encodeLinks": "false" } }, "total_instances": "1", "shortcode_class": "_ps2id" };
@@ -366,11 +363,11 @@
 		var q2w3_sidebar_options = [{ "sidebar": "primary", "use_sticky_position": false, "margin_top": 90, "margin_bottom": 0, "stop_elements_selectors": "#site-footer", "screen_max_width": 0, "screen_max_height": 0, "widgets": ["#media_image-9"] }, { "sidebar": "sidebar-5b683839caf67", "use_sticky_position": false, "margin_top": 90, "margin_bottom": 0, "stop_elements_selectors": "#site-footer", "screen_max_width": 0, "screen_max_height": 0, "widgets": ["#nav_menu-5"] }, { "sidebar": "sidebar-5b6cfa681b024", "use_sticky_position": false, "margin_top": 90, "margin_bottom": 0, "stop_elements_selectors": "#site-footer", "screen_max_width": 0, "screen_max_height": 0, "widgets": ["#nav_menu-6"] }, { "sidebar": "sidebar-5b8f8fdb9861f", "use_sticky_position": false, "margin_top": 90, "margin_bottom": 0, "stop_elements_selectors": "#site-footer", "screen_max_width": 0, "screen_max_height": 0, "widgets": ["#nav_menu-7"] }, { "sidebar": "sidebar-5b93349ec234c", "use_sticky_position": false, "margin_top": 90, "margin_bottom": 0, "stop_elements_selectors": "#site-footer", "screen_max_width": 0, "screen_max_height": 0, "widgets": ["#nav_menu-8"] }];
 	</script>
 	<script  type="text/javascript"  src="{{url('frontend/rt-content/plugins/q2w3-fixed-widget/js/frontend.mindc24.js')}}?ver=6.0.4"  id="q2w3_fixed_widget-js"></script>
-	<script data-minify="1"  type="text/javascript"  src="{{url('frontend/rt-content/cache/min/1/nanosoft/wp-content/plugins/animated-headline/js/mainc841.js')}}?ver=1644830546"  id="mainjs-js"></script>
+	<script data-minify="1"  type="text/javascript"  src="{{url('frontend/rt-content/cache/min/1/ramatechnologies/rt-content/plugins/animated-headline/js/mainc841.js')}}?ver=1644830546"  id="mainjs-js"></script>
 	<script  type="text/javascript"  src="{{url('frontend/rt-content/plugins/js_composer/assets/js/dist/js_composer_front.min8e94.js')}}?ver=6.8.0"  id="wpb_composer_front_js-js"></script>
 	<script  type="text/javascript"  src="{{url('frontend/rt-content/plugins/js_composer/assets/lib/vc_waypoints/vc-waypoints.min8e94.js')}}?ver=6.8.0"  id="vc_waypoints-js"></script>
-	<script  data-minify="1"  type="text/javascript"  src="{{url('frontend/rt-content/cache/min/1/nanosoft/wp-content/plugins/line-shortcodes/js/shortcodes-3rdc841.js')}}?ver=1644830546"  id="line-shortcode-3rd-js"></script>
-	<script  data-minify="1"  type="text/javascript"  src="{{url('frontend/rt-content/cache/min/1/nanosoft/wp-content/plugins/line-shortcodes/js/shortcodesc841.js')}}?ver=1644830546"  id="line-shortcode-js"></script>
+	<script  data-minify="1"  type="text/javascript"  src="{{url('frontend/rt-content/cache/min/1/ramatechnologies/rt-content/plugins/line-shortcodes/js/shortcodes-3rdc841.js')}}?ver=1644830546"  id="line-shortcode-3rd-js"></script>
+	<script  data-minify="1"  type="text/javascript"  src="{{url('frontend/rt-content/cache/min/1/ramatechnologies/rt-content/plugins/line-shortcodes/js/shortcodesc841.js')}}?ver=1644830546"  id="line-shortcode-js"></script>
 	<script id="rs-initialisation-scripts">
 		var tpj = jQuery;
 		var revapi1;

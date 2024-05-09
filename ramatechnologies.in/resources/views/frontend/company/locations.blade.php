@@ -137,14 +137,14 @@
 												<div class="vc_column-inner">
 													<div class="wpb_wrapper">
 														<div class="iconbox  ">
-															<h4 class="box-title">United States</h4>
+															<h4 class="box-title">INDIA</h4>
 															<div class="box-detail">
-																<p>2307 Beverley Rd Brooklyn, New York 11226 United States.</p>
+																<p>Address: Near Bsnl Office Bilaunji, Post-Waidhan, Distt-Singrauli, Madhya Pradesh, 486886 INDIA.</p>
 															</div>
 															<div class="box-icon">
-																<img decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="United States" data-lazy-src="{{url('frontend/rt-content/uploads/2018/08/001-united-states.svg')}}" />
+																<img decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="INDIA" data-lazy-src="{{url('frontend/rt-content/uploads/2018/08/001-united-states.svg')}}" />
 																<noscript>
-																	<img decoding="async" src="{{url('frontend/rt-content/uploads/2018/08/001-united-states.svg')}}" alt="United States" />
+																	<img decoding="async" src="{{url('frontend/rt-content/uploads/2018/08/001-united-states.svg')}}" alt="INDIA" />
 																</noscript>
 															</div>
 															<div class="box-readmore">
@@ -161,14 +161,14 @@
 												<div class="vc_column-inner">
 													<div class="wpb_wrapper">
 														<div class="iconbox  ">
-															<h4 class="box-title">Germany</h4>
+															<h4 class="box-title">INDIA</h4>
 															<div class="box-detail">
-																<p>Address: Schulstr. 9 70173 Stuttgart Germany. Phone: +49 711 17 22244</p>
+																<p>Address: B/501, Venus Tower, Veera Desai Road, Azad Nagar, Andheri(West), Mumbai-53 400065 INDIA.</p>
 															</div>
 															<div class="box-icon">
-																<img decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="Germany" data-lazy-src="{{url('frontend/rt-content/uploads/2018/08/002-germany.svg')}}" />
+																<img decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBo='0%200%200%200'%3E%3C/svg%3E" alt="INDIA" data-lazy-src="{{url('frontend/rt-content/uploads/2018/08/002-germany.svg')}}" />
 																<noscript>
-																	<img decoding="async" src="{{url('frontend/rt-content/uploads/2018/08/002-germany.svg')}}" alt="Germany" />
+																	<img decoding="async" src="{{url('frontend/rt-content/uploads/2018/08/002-germany.svg')}}" alt="INDIA" />
 																</noscript>
 															</div>
 															<div class="box-readmore">
@@ -181,31 +181,7 @@
 													</div>
 												</div>
 											</div>
-											<div class="delay-3 wpb_animate_when_almost_visible wpb_fadeIn fadeIn wpb_column vc_column_container vc_col-sm-4">
-												<div class="vc_column-inner">
-													<div class="wpb_wrapper">
-														<div class="iconbox  ">
-															<h4 class="box-title">Russia</h4>
-															<div class="box-detail">
-																<p>Address: 4 Zemlyanoy val, bld.1 Moscow, Russia 105064</p>
-
-															</div>
-															<div class="box-icon">
-																<img decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="Russia" data-lazy-src="{{url('frontend/rt-content/uploads/2018/08/003-russia.svg')}}" />
-																<noscript>
-																	<img decoding="async" src="{{url('frontend/rt-content/uploads/2018/08/003-russia.svg')}}" alt="Russia" />
-																</noscript>
-															</div>
-															<div class="box-readmore">
-																<a class="button no-bg" href="#">Help Center</a>
-															</div>
-														</div>
-														<div class="vc_empty_space" style="height: 30px">
-															<span class="vc_empty_space_inner"></span>
-														</div>
-													</div>
-												</div>
-											</div>
+											
 										</div>
 									</div>
 								</section>

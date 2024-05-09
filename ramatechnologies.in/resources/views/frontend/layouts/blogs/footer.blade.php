@@ -191,7 +191,7 @@
 			<div class="footer-copyright footer-copyright-center">
 				<div class="footer-copyright-inner wrap">
 					<div class="copyright-content">
-						Copyright © 2018 NanoSoft. Designed and Developed by <a href="#">LineThemes</a> Only on <a
+						Copyright © 2018 RamaTechnologies. Designed and Developed by <a href="#">LineThemes</a> Only on <a
 							href="#">Envato Market.</a> </div>
 
 
@@ -211,7 +211,7 @@
 
 		<div class="off-canvas-wrap">
 			<div class="widget widget_search">
-				<form role="search" method="get" class="search-form" action="https://live.21lab.co/nanosoft/">
+				<form role="search" method="get" class="search-form" action="https://live.21lab.co/ramatechnologies/">
 					<label>
 						<span class="screen-reader-text">Search for:</span>
 						<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" />
@@ -395,15 +395,15 @@
 	<style id='rs-plugin-settings-inline-css' type='text/css'>
 		#rs-demo-id {}
 	</style>
-	<script data-minify="1" type="text/javascript" src="{{url('frontend/rt-content/cache/min/1/nanosoft/wp-content/themes/nanosoft/assets/js/componentsc841.js')}}?ver=1644830546" id="nanosoft-components-js"></script>
-	<script data-minify="1" type="text/javascript" src="{{url('frontend/rt-content/cache/min/1/nanosoft/wp-content/themes/nanosoft/assets/js/themec841.js')}}?ver=1644830546" id="nanosoft-js"></script>
+	<script data-minify="1" type="text/javascript" src="{{url('frontend/rt-content/cache/min/1/ramatechnologies/rt-content/themes/ramatechnologies/assets/js/componentsc841.js')}}?ver=1644830546" id="RamaTechnologies-components-js"></script>
+	<script data-minify="1" type="text/javascript" src="{{url('frontend/rt-content/cache/min/1/ramatechnologies/rt-content/themes/ramatechnologies/assets/js/themec841.js')}}?ver=1644830546" id="RamaTechnologies-js"></script>
 	<script type="text/javascript" src="{{url('frontend/rt-includes/js/dist/vendor/wp-polyfill-inert.min0226.js')}}?ver=3.1.2" id="wp-polyfill-inert-js"></script>
 	<script type="text/javascript" src="{{url('frontend/rt-includes/js/dist/vendor/regenerator-runtime.min6c85.js')}}?ver=0.14.0" id="regenerator-runtime-js"></script>
 	<script type="text/javascript" src="{{url('frontend/rt-includes/js/dist/vendor/wp-polyfill.min2c7c.js')}}?ver=3.15.0" id="wp-polyfill-js"></script>
 	<script type="text/javascript" id="contact-form-7-js-extra">
-		var wpcf7 = { "api": { "root": "https:\/\/live.21lab.co\/nanosoft\/wp-json\/", "namespace": "contact-form-7\/v1" }, "cached": "1" };
+		var wpcf7 = { "api": { "root": "https:\/\/live.21lab.co\/ramatechnologies\/wp-json\/", "namespace": "contact-form-7\/v1" }, "cached": "1" };
 	</script>
-	<script data-minify="1" type="text/javascript" src="{{url('frontend/rt-content/cache/min/1/nanosoft/wp-content/plugins/contact-form-7/includes/js/indexc841.js')}}?ver=1644830546" id="contact-form-7-js"></script>
+	<script data-minify="1" type="text/javascript" src="{{url('frontend/rt-content/cache/min/1/ramatechnologies/rt-content/plugins/contact-form-7/includes/js/indexc841.js')}}?ver=1644830546" id="contact-form-7-js"></script>
 	<script type="text/javascript"
 		src="{{url('frontend/rt-content/plugins/devvn-image-hotspot/frontend/js/jquery.ihotspot.min1576.js')}}?ver=1.2.1"
 		id="ihotspot-js-js"></script>
@@ -429,7 +429,7 @@
 		var q2w3_sidebar_options = [{ "sidebar": "primary", "use_sticky_position": false, "margin_top": 90, "margin_bottom": 0, "stop_elements_selectors": "#site-footer", "screen_max_width": 0, "screen_max_height": 0, "widgets": ["#media_image-9"] }, { "sidebar": "sidebar-5b683839caf67", "use_sticky_position": false, "margin_top": 90, "margin_bottom": 0, "stop_elements_selectors": "#site-footer", "screen_max_width": 0, "screen_max_height": 0, "widgets": ["#nav_menu-5"] }, { "sidebar": "sidebar-5b6cfa681b024", "use_sticky_position": false, "margin_top": 90, "margin_bottom": 0, "stop_elements_selectors": "#site-footer", "screen_max_width": 0, "screen_max_height": 0, "widgets": ["#nav_menu-6"] }, { "sidebar": "sidebar-5b8f8fdb9861f", "use_sticky_position": false, "margin_top": 90, "margin_bottom": 0, "stop_elements_selectors": "#site-footer", "screen_max_width": 0, "screen_max_height": 0, "widgets": ["#nav_menu-7"] }, { "sidebar": "sidebar-5b93349ec234c", "use_sticky_position": false, "margin_top": 90, "margin_bottom": 0, "stop_elements_selectors": "#site-footer", "screen_max_width": 0, "screen_max_height": 0, "widgets": ["#nav_menu-8"] }];
 	</script>
 	<script type="text/javascript" src="{{url('frontend/rt-content/plugins/q2w3-fixed-widget/js/frontend.mindc24.js')}}?ver=6.0.4" id="q2w3_fixed_widget-js"></script>
-	<script data-minify="1" type="text/javascript" src="{{url('frontend/rt-content/cache/min/1/nanosoft/wp-content/plugins/animated-headline/js/mainc841.js')}}?ver=1644830546" id="mainjs-js"></script>
+	<script data-minify="1" type="text/javascript" src="{{url('frontend/rt-content/cache/min/1/ramatechnologies/rt-content/plugins/animated-headline/js/mainc841.js')}}?ver=1644830546" id="mainjs-js"></script>
 	<script>
 		window.lazyLoadOptions = { elements_selector: "img[data-lazy-src],.rocket-lazyload,iframe[data-lazy-src]", data_src: "lazy-src", data_srcset: "lazy-srcset", data_sizes: "lazy-sizes", class_loading: "lazyloading", class_loaded: "lazyloaded", threshold: 300, callback_loaded: function (element) { if (element.tagName === "IFRAME" && element.dataset.rocketLazyload == "fitvidscompatible") { if (element.classList.contains("lazyloaded")) { if (typeof window.jQuery != "undefined") { if (jQuery.fn.fitVids) { jQuery(element).parent().fitVids() } } } } } }; window.addEventListener('LazyLoad::Initialized', function (e) {
 			var lazyLoadInstance = e.detail.instance; if (window.MutationObserver) {

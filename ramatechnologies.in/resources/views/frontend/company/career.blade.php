@@ -199,19 +199,19 @@
 																</thead>
 																<tbody>
 																	<tr>
-																		<td><h6 class="no-margin-top no-margin-bottom"><a class="dot" href="https://www.linkedin.com/jobs/" target="_blank" rel="noopener noreferrer">Engineer: Observability Applications </a></h6></td>
+																		<td><h6 class="no-margin-top no-margin-bottom"><a class="dot" href="https://www.linkedin.com/company/ramatechnologies/jobs" target="_blank" rel="noopener noreferrer">Engineer: Observability Applications </a></h6></td>
 																		<td>New York</td>
 																		<td>Full Time</td>
 																		<td class="text-right"><a class="button small" href="{{url('/contacts')}}">Apply Now</a></td>
 																	</tr>
 																	<tr>
-																		<td><h6 class="no-margin-top no-margin-bottom"><a class="dot" href="https://www.linkedin.com/jobs/" target="_blank" rel="noopener noreferrer">Cloud Ops Administrator</a></h6></td>
+																		<td><h6 class="no-margin-top no-margin-bottom"><a class="dot" href="https://www.linkedin.com/company/ramatechnologies/jobs" target="_blank" rel="noopener noreferrer">Cloud Ops Administrator</a></h6></td>
 																		<td>New York</td>
 																		<td>Full Time</td>
 																		<td class="text-right"><a class="button small" href="{{url('/contacts')}}">Apply Now</a></td>
 																	</tr>
 																	<tr>
-																		<td><h6 class="no-margin-top no-margin-bottom"><a class="dot" href="https://www.linkedin.com/jobs/" target="_blank" rel="noopener noreferrer">Platform Support Specialist </a></h6></td>
+																		<td><h6 class="no-margin-top no-margin-bottom"><a class="dot" href="https://www.linkedin.com/company/ramatechnologies/jobs" target="_blank" rel="noopener noreferrer">Platform Support Specialist </a></h6></td>
 																		<td>New York</td>
 																		<td>Full Time</td>
 																		<td class="text-right"><a class="button small" href="{{url('/contacts')}}">Apply Now</a></td>

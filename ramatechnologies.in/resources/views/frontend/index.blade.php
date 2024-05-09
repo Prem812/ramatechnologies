@@ -15,8 +15,8 @@
 													<rs-module-wrap id="rev_slider_1_1_wrapper" data-source="gallery" style="visibility:hidden;background:#1dc2ef;padding:0;margin:0px auto;margin-top:0;margin-bottom:0;">
 														<rs-module id="rev_slider_1_1" data-version="6.5.14">
 															<rs-slides>
-																<rs-slide style="position: absolute;" data-key="rs-3" data-title="Slide" data-thumb="http://127.0.1:8000/frontend/rt-content/uploads/2018/08/slider-12bab.jpg" data-anim="ms:600;r:0;" data-in="o:0;" data-out="a:false;">
-																	<img width="1" height="1" decoding="async" src="http://127.0.1:8000/frontend/rt-content/plugins/revslider/public/assets/assets/dummy.png" alt="" title="Home" class="rev-slidebg tp-rs-img rs-lazyload" data-lazyload="http://127.0.1:8000/frontend/rt-content/uploads/2018/08/slider-12bab.jpg" data-no-retina>
+																<rs-slide style="position: absolute;" data-key="rs-3" data-title="Slide" data-thumb="{{url('frontend/rt-content/uploads/2018/08/slider-12bab.jpg')}}" data-anim="ms:600;r:0;" data-in="o:0;" data-out="a:false;">
+																	<img width="1" height="1" decoding="async" src="{{url('frontend/rt-content/plugins/revslider/public/assets/assets/dummy.png')}}" alt="" title="Home" class="rev-slidebg tp-rs-img rs-lazyload" data-lazyload="{{url('frontend/rt-content/uploads/2018/08/slider-12bab.jpg')}}" data-no-retina>
 																	<rs-layer id="slider-1-slide-3-layer-1" data-type="text" data-color="#ffffff" data-xy="x:52px;y:c;yo:-135px;" data-text="s:60;l:80;a:center;" data-frame_0="y:-100%;o:1;tp:600;" data-frame_0_mask="u:t;" data-frame_1="tp:600;sp:1500;sR:10;" data-frame_1_mask="u:t;" data-frame_999="o:0;tp:600;st:w;sR:7490;" style="z-index:5;font-family:'Roboto';text-transform:lowercase;">
 																		<div class="slider-sub">Every Device</div>
 																	</rs-layer>
@@ -32,8 +32,8 @@
 																	<rs-layer id="slider-1-slide-3-layer-9" class="tp-shape tp-shapewrapper" data-type="shape" data-rsp_ch="on" data-xy="x:55px;y:c;yo:100px;" data-text="a:inherit;" data-dim="w:80px;h:5px;" data-frame_0="y:-100%;o:1;tp:600;" data-frame_0_mask="u:t;" data-frame_1="tp:600;sp:1500;sR:10;" data-frame_1_mask="u:t;" data-frame_999="o:0;tp:600;st:w;sR:7490;" style="z-index:9;background-color:#ffffff;">
 																	</rs-layer>
 																</rs-slide>
-																<rs-slide style="position: absolute;" data-key="rs-2" data-title="Slide" data-thumb="http://127.0.1:8000/frontend/rt-content/uploads/2018/08/job12-288-chim-00969-800x450.jpg" data-anim="ms:600;r:0;" data-in="o:0;" data-out="a:false;">
-																	<img width="1" height="1" decoding="async" src="http://127.0.1:8000/frontend/rt-content/plugins/revslider/public/assets/assets/dummy.png" alt="" title="Home" class="rev-slidebg tp-rs-img rs-lazyload" data-lazyload="http://127.0.1:8000/frontend/rt-content/uploads/2018/08/job12-288-chim-00969-800x450.jpg" data-no-retina>
+																<rs-slide style="position: absolute;" data-key="rs-2" data-title="Slide" data-thumb="{{url('frontend/rt-content/uploads/2018/08/job12-288-chim-00969-800x450.jpg')}}" data-anim="ms:600;r:0;" data-in="o:0;" data-out="a:false;">
+																	<img width="1" height="1" decoding="async" src="{{url('frontend/rt-content/plugins/revslider/public/assets/assets/dummy.png')}}" alt="" title="Home" class="rev-slidebg tp-rs-img rs-lazyload" data-lazyload="{{url('frontend/rt-content/uploads/2018/08/job12-288-chim-00969-800x450.jpg')}}" data-no-retina>
 																	<rs-layer id="slider-1-slide-2-layer-1" data-type="text" data-color="#ffffff" data-xy="x:c;y:c;yo:50px;" data-text="s:32;l:40;a:center;" data-frame_0="y:-100%;o:1;tp:600;" data-frame_0_mask="u:t;" data-frame_1="tp:600;sp:1500;sR:10;" data-frame_1_mask="u:t;" data-frame_999="o:0;tp:600;st:w;sR:7490;" style="z-index:5;font-family:'Roboto';">
 																		<div class="slider-sub">Let us provide the support you deserve.</div>
 																	</rs-layer>
@@ -49,8 +49,8 @@
 																	<rs-layer id="slider-1-slide-2-layer-7" class="tp-shape tp-shapewrapper" data-type="shape" data-rsp_ch="on" data-xy="x:c;y:c;yo:100px;" data-text="fw:100;a:inherit;" data-dim="w:80px;h:5px;" data-frame_0="y:-100%;o:1;tp:600;" data-frame_0_mask="u:t;" data-frame_1="tp:600;sp:1500;sR:10;" data-frame_1_mask="u:t;" data-frame_999="o:0;tp:600;st:w;sR:7490;" style="z-index:9;background-color:#ffffff;">
 																	</rs-layer>
 																</rs-slide>
-																<rs-slide style="position: absolute;" data-key="rs-1" data-title="Slide" data-thumb="http://127.0.1:8000/frontend/rt-content/uploads/2018/08/slider3-100x50.jpg')}}" data-anim="ms:600;r:0;" data-in="o:0;" data-out="a:false;">
-																	<img width="1" height="1" decoding="async" src="http://127.0.1:8000/frontend/rt-content/plugins/revslider/public/assets/assets/dummy.png')}}" alt="" title="Home" class="rev-slidebg tp-rs-img rs-lazyload" data-lazyload="http://127.0.1:8000/frontend/rt-content/uploads/2018/08/slider3.jpg')}}" data-no-retina>
+																<rs-slide style="position: absolute;" data-key="rs-1" data-title="Slide" data-thumb="{{url('frontend/rt-content/uploads/2018/08/slider3-100x50.jpg')}}" data-anim="ms:600;r:0;" data-in="o:0;" data-out="a:false;">
+																	<img width="1" height="1" decoding="async" src="{{url('frontend/rt-content/plugins/revslider/public/assets/assets/dummy.png')}}" alt="" title="Home" class="rev-slidebg tp-rs-img rs-lazyload" data-lazyload="{{url('frontend/rt-content/uploads/2018/08/slider3.jpg')}}" data-no-retina>
 																	<rs-layer id="slider-1-slide-1-layer-1" data-type="text" data-color="#ffffff" data-xy="x:r;xo:50px;y:c;yo:-150px;" data-text="s:60;l:80;a:center;" data-frame_0="y:-100%;o:1;tp:600;" data-frame_0_mask="u:t;" data-frame_1="tp:600;sp:1500;sR:10;" data-frame_1_mask="u:t;" data-frame_999="o:0;tp:600;st:w;sR:7490;" style="z-index:5;font-family:'Roboto';">
 																		<div class="slider-sub">workplace</div>
 																	</rs-layer>
@@ -366,9 +366,9 @@
 														<div class="wpb_single_image wpb_content_element vc_align_center">
 															<figure class="wpb_wrapper vc_figure">
 																<div class="vc_single_image-wrapper vc_box_border_grey">
-																	<img decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" class="vc_single_image-img attachment-full" alt="" title="skylark" data-lazy-src="https://skylarkschool.in/public/uploads/9754c8443a88a5cba6d16cac0d422dc4%20header_logo.png" />
+																	<img decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" class="vc_single_image-img attachment-full" alt="Code Igniter" title="Code Igniter" data-lazy-src="https://codeigniter.com/assets/icons/ci-logo.png" />
 																	<noscript>
-																		<img decoding="async" src="https://skylarkschool.in/public/uploads/9754c8443a88a5cba6d16cac0d422dc4%20header_logo.png" class="vc_single_image-img attachment-full" alt="" title="skylark" />
+																		<img decoding="async" src="https://codeigniter.com/assets/icons/ci-logo.png" class="vc_single_image-img attachment-full" alt="Code Igniter" title="Code Igniter" />
 																	</noscript>
 																</div>
 															</figure>
@@ -382,9 +382,9 @@
 														<div class="wpb_single_image wpb_content_element vc_align_center">
 															<figure class="wpb_wrapper vc_figure">
 																<div class="vc_single_image-wrapper vc_box_border_grey">
-																	<img decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" class="vc_single_image-img attachment-full" alt="" title="akgml" data-lazy-src="https://akgml.in/assets/img/akgml_logo.jpeg" />
+																	<img decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" class="vc_single_image-img attachment-full" alt="" title="Laravel" data-lazy-src="https://laravel.com/img/logomark.min.svg" />
 																	<noscript>
-																		<img decoding="async" src="https://akgml.in/assets/img/akgml_logo.jpeg" class="vc_single_image-img attachment-full" alt="" title="akgml" />
+																		<img decoding="async" src="https://laravel.com/img/logomark.min.svg" class="vc_single_image-img attachment-full" alt="" title="Laravel" />
 																	</noscript>
 																</div>
 															</figure>
@@ -398,9 +398,9 @@
 														<div class="wpb_single_image wpb_content_element vc_align_center">
 															<figure class="wpb_wrapper vc_figure">
 																<div class="vc_single_image-wrapper vc_box_border_grey">
-																	<img decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" class="vc_single_image-img attachment-full" alt="" title="rsparvat" data-lazy-src="https://rsparvat.in/assets/images/596193800cccccccccccccccc.png" />
+																	<img decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" class="vc_single_image-img attachment-full" alt="" title="rsparvat" data-lazy-src="https://www.php.net//images/logos/new-php-logo.svg" />
 																	<noscript>
-																		<img decoding="async" src="https://rsparvat.in/assets/images/596193800cccccccccccccccc.png" class="vc_single_image-img attachment-full" alt="" title="rsparvat" />
+																		<img decoding="async" src="https://www.php.net//images/logos/new-php-logo.svg" class="vc_single_image-img attachment-full" alt="" title="rsparvat" />
 																	</noscript>
 																</div>
 															</figure>
@@ -414,9 +414,9 @@
 														<div class="wpb_single_image wpb_content_element vc_align_center">
 															<figure class="wpb_wrapper vc_figure">
 																<div class="vc_single_image-wrapper vc_box_border_grey">
-																	<img decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" class="vc_single_image-img attachment-full" alt="" title="SBS" data-lazy-src="https://sbsgroups.co.in/assets/frontend/img/sbs_logo.png" />
+																	<img decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" class="vc_single_image-img attachment-full" alt="" title="SBS" data-lazy-src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png" />
 																	<noscript>
-																		<img decoding="async" src="https://sbsgroups.co.in/assets/frontend/img/sbs_logo.png" class="vc_single_image-img attachment-full" alt="" title="SBS" />
+																		<img decoding="async" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png" class="vc_single_image-img attachment-full" alt="" title="SBS" />
 																	</noscript>
 																</div>
 															</figure>
@@ -430,9 +430,9 @@
 														<div class="wpb_single_image wpb_content_element vc_align_center">
 															<figure class="wpb_wrapper vc_figure">
 																<div class="vc_single_image-wrapper vc_box_border_grey">
-																	<img decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" class="vc_single_image-img attachment-full" alt="" title="smartkidzpublicschool" data-lazy-src="https://smartkidzpublicschool.in/public/uploads/cb7179533c4cc01aff1a118f9fab2b93%20smart.jpg" />
+																	<img decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" class="vc_single_image-img attachment-full" alt="" title="smartkidzpublicschool" data-lazy-src="https://www.gstatic.com/devrel-devsite/prod/v1814e2c0394042c64f7e87ce5b664171aeab7a59b0b6c0a95a5d8ca796c25ff6/android/images/lockup.svg" />
 																	<noscript>
-																		<img decoding="async" src="https://smartkidzpublicschool.in/public/uploads/cb7179533c4cc01aff1a118f9fab2b93%20smart.jpg" class="vc_single_image-img attachment-full" alt="" title="smartkidzpublicschool" />
+																		<img decoding="async" src="https://www.gstatic.com/devrel-devsite/prod/v1814e2c0394042c64f7e87ce5b664171aeab7a59b0b6c0a95a5d8ca796c25ff6/android/images/lockup.svg" class="vc_single_image-img attachment-full" alt="" title="smartkidzpublicschool" />
 																	</noscript>
 																</div>
 															</figure>
@@ -831,33 +831,7 @@
 																					<img decoding="async" src="{{url('frontend/rt-content/uploads/2018/04/map-1.svg')}}">
 																				</noscript>
 																			</div>
-																			<div class="drag_element tips " style="top:22.35%;left:9.84%;">
-																				<div class="point_style has-hover ihotspot_tooltop_html" data-placement="n" data-html="">
-																					<div class="pins_animation ihotspot_pulse" style="top:-15px;left:-15px;height:30px;width:30px"></div>
-																					<img decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" class="pins_image" style="top:-15px;left:-15px" data-lazy-src="{{url('frontend/rt-content/uploads/2018/09/004-user-1.svg')}}">
-																					<noscript>
-																						<img decoding="async" src="{{url('frontend/rt-content/uploads/2018/09/004-user-1.svg')}}" class="pins_image" style="top:-15px;left:-15px">
-																					</noscript>
-																					<img decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" class="pins_image_hover" style="top:-15px;left:-15px" data-lazy-src="{{url('frontend/rt-content/uploads/2018/09/004-user-1-1.svg')}}">
-																					<noscript>
-																						<img decoding="async" src="{{url('frontend/rt-content/uploads/2018/09/004-user-1-1.svg')}}" class="pins_image_hover" style="top:-15px;left:-15px">
-																					</noscript>
-																				</div>
-																			</div>
-																			<div class="drag_element tips" style="top:14.67%;left:19.24%;">
-																				<div class="point_style has-hover ihotspot_tooltop_html" data-placement="n" data-html="">
-																					<div class="pins_animation ihotspot_pulse" style="top:-15px;left:-15px;height:30px;width:30px"></div>
-																					<img decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" class="pins_image" style="top:-15px;left:-15px" data-lazy-src="{{url('frontend/rt-content/uploads/2018/09/004-user-1.svg')}}">
-																					<noscript>
-																						<img decoding="async" src="{{url('frontend/rt-content/uploads/2018/09/004-user-1.svg')}}" class="pins_image" style="top:-15px;left:-15px">
-																					</noscript>
-																					<img decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" class="pins_image_hover " style="top:-15px;left:-15px" data-lazy-src="{{url('frontend/rt-content/uploads/2018/09/004-user-1-1.svg')}}">
-																					<noscript>
-																						<img decoding="async" src="{{url('frontend/rt-content/uploads/2018/09/004-user-1-1.svg')}}" class="pins_image_hover " style="top:-15px;left:-15px">
-																					</noscript>
-																				</div>
-																			</div>
-																			<div class="drag_element tips" style="top:37.92%;left:25.84%;">
+																			<div class="drag_element tips" style="top:45.92%;left:68.84%;">
 																				<div class="point_style has-hover ihotspot_tooltop_html" data-placement="n" data-html="&lt;div class=&quot;box_view_html&quot;&gt;&lt;span class=&quot;close_ihp&quot;&gt;&lt;svg version=&quot;1.1&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; xmlns:xlink=&quot;http://www.w3.org/1999/xlink&quot; x=&quot;0px&quot; y=&quot;0px&quot; viewBox=&quot;0 0 1000 1000&quot; enable-background=&quot;new 0 0 1000 1000&quot; xml:space=&quot;preserve&quot;&gt;&lt;g&gt;&lt;path d=&quot;M153.7,153.7C57.9,249.5,10,365.3,10,499c0,135.7,47.9,251.5,143.7,347.3l0,0C249.5,942.1,363.3,990,499,990c135.7,0,251.5-47.9,347.3-143.7C942.1,750.5,990,634.7,990,499c0-135.7-47.9-249.5-143.7-345.3l0,0C750.5,57.9,634.7,10,499,10C365.3,10,249.5,57.9,153.7,153.7z M209.6,211.6l2-2C289.4,129.7,387.2,89.8,499,89.8c113.8,0,209.6,39.9,291.4,121.8c79.8,77.8,119.8,175.6,119.8,287.4c0,113.8-39.9,209.6-119.8,291.4C708.6,870.3,612.8,910.2,499,910.2c-111.8,0-209.6-39.9-287.4-119.8C129.8,708.6,89.8,612.8,89.8,499C89.8,387.2,129.8,289.4,209.6,211.6z&quot;/&gt;&lt;path d=&quot;M293.4,331.3c0,12,4,22,12,29.9L443.1,497L305.4,632.7c-8,8-12,18-12,29.9c0,10,4,18,12,26c8,8,18,12,28,12c12,0,20-4,27.9-10L499,552.9l135.7,137.7c8,6,16,10,28,10c12,0,21.9-4,27.9-10c8-8,12-18,12-28c0-12-4-21.9-12-29.9L554.9,497l135.7-135.7c8-8,12-18,12-27.9c0-12-4-22-12-29.9c-6-8-16-12-25.9-12c-12,0-21.9,4-29.9,12L499,441.1L363.3,303.4c-8-8-18-12-29.9-12c-10,0-20,4-28,12C297.4,311.4,293.4,321.4,293.4,331.3z&quot;/&gt;&lt;/g&gt;&lt;/svg&gt;&lt;/span&gt;&lt;p&gt;They understand the importance of solving problems in real time.&lt;/p&gt;&lt;/div&gt;" >
 																					<div class="pins_animation ihotspot_pulse" style="top:-15px;left:-15px;height:30px;width:30px"></div>
 																					<img width="60" height="60" decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2060%2060'%3E%3C/svg%3E" class="pins_image ihotspot_hastooltop" style="top:-15px;left:-15px" data-lazy-src="{{url('frontend/rt-content/uploads/2018/09/m1.png')}}">
@@ -867,53 +841,17 @@
 																					<img width="60" height="60" decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2060%2060'%3E%3C/svg%3E" class="pins_image_hover ihotspot_hastooltop" style="top:-15px;left:-15px" data-lazy-src="{{url('frontend/rt-content/uploads/2018/09/m1.png')}}"><noscript><img width="60" height="60" decoding="async" src="{{url('frontend/rt-content/uploads/2018/09/m1.png')}}" class="pins_image_hover ihotspot_hastooltop" style="top:-15px;left:-15px"></noscript>
 																				</div>
 																			</div>
-																			<div class="drag_element tips" style="top:2.48%;left:34.92%;">
+																			<div class="drag_element tips" style="top:46.92%;left:72.84%;">
 																				<div class="point_style has-hover ihotspot_tooltop_html" data-placement="n" data-html="&lt;div class=&quot;box_view_html&quot;&gt;&lt;span class=&quot;close_ihp&quot;&gt;&lt;svg version=&quot;1.1&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; xmlns:xlink=&quot;http://www.w3.org/1999/xlink&quot; x=&quot;0px&quot; y=&quot;0px&quot; viewBox=&quot;0 0 1000 1000&quot; enable-background=&quot;new 0 0 1000 1000&quot; xml:space=&quot;preserve&quot;&gt;&lt;g&gt;&lt;path d=&quot;M153.7,153.7C57.9,249.5,10,365.3,10,499c0,135.7,47.9,251.5,143.7,347.3l0,0C249.5,942.1,363.3,990,499,990c135.7,0,251.5-47.9,347.3-143.7C942.1,750.5,990,634.7,990,499c0-135.7-47.9-249.5-143.7-345.3l0,0C750.5,57.9,634.7,10,499,10C365.3,10,249.5,57.9,153.7,153.7z M209.6,211.6l2-2C289.4,129.7,387.2,89.8,499,89.8c113.8,0,209.6,39.9,291.4,121.8c79.8,77.8,119.8,175.6,119.8,287.4c0,113.8-39.9,209.6-119.8,291.4C708.6,870.3,612.8,910.2,499,910.2c-111.8,0-209.6-39.9-287.4-119.8C129.8,708.6,89.8,612.8,89.8,499C89.8,387.2,129.8,289.4,209.6,211.6z&quot;/&gt;&lt;path d=&quot;M293.4,331.3c0,12,4,22,12,29.9L443.1,497L305.4,632.7c-8,8-12,18-12,29.9c0,10,4,18,12,26c8,8,18,12,28,12c12,0,20-4,27.9-10L499,552.9l135.7,137.7c8,6,16,10,28,10c12,0,21.9-4,27.9-10c8-8,12-18,12-28c0-12-4-21.9-12-29.9L554.9,497l135.7-135.7c8-8,12-18,12-27.9c0-12-4-22-12-29.9c-6-8-16-12-25.9-12c-12,0-21.9,4-29.9,12L499,441.1L363.3,303.4c-8-8-18-12-29.9-12c-10,0-20,4-28,12C297.4,311.4,293.4,321.4,293.4,331.3z&quot;/&gt;&lt;/g&gt;&lt;/svg&gt;&lt;/span&gt;&lt;p&gt;They understand the importance of solving problems in real time.&lt;/p&gt;&lt;/div&gt;">
 																					<div class="pins_animation ihotspot_pulse" style="top:-15px;left:-15px;height:30px;width:30px"></div>
-																					<img width="60" height="60" decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2060%2060'%3E%3C/svg%3E" class="pins_image ihotspot_hastooltop" style="top:-15px;left:-15px" data-lazy-src="{{url('frontend/rt-content/uploads/2018/09/m3.png')}}"><noscript><img width="60" height="60" decoding="async" src="{{url('frontend/rt-content/uploads/2018/09/m3.png')}}" class="pins_image ihotspot_hastooltop" style="top:-15px;left:-15px"></noscript>
-																					<img width="60" height="60" decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2060%2060'%3E%3C/svg%3E" class="pins_image_hover ihotspot_hastooltop" style="top:-15px;left:-15px" data-lazy-src="{{url('frontend/rt-content/uploads/2018/09/m3.png')}}"><noscript><img width="60" height="60" decoding="async" src="{{url('frontend/rt-content/uploads/2018/09/m3.png')}}" class="pins_image_hover ihotspot_hastooltop" style="top:-15px;left:-15px"></noscript>
-																				</div>
-																			</div>
-																			<div class="drag_element tips" style="top:34.99%;left:49.30%;">
-																				<div class="point_style has-hover ihotspot_tooltop_html" data-placement="n" data-html="&lt;div class=&quot;box_view_html&quot;&gt;&lt;span class=&quot;close_ihp&quot;&gt;&lt;svg version=&quot;1.1&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; xmlns:xlink=&quot;http://www.w3.org/1999/xlink&quot; x=&quot;0px&quot; y=&quot;0px&quot; viewBox=&quot;0 0 1000 1000&quot; enable-background=&quot;new 0 0 1000 1000&quot; xml:space=&quot;preserve&quot;&gt;&lt;g&gt;&lt;path d=&quot;M153.7,153.7C57.9,249.5,10,365.3,10,499c0,135.7,47.9,251.5,143.7,347.3l0,0C249.5,942.1,363.3,990,499,990c135.7,0,251.5-47.9,347.3-143.7C942.1,750.5,990,634.7,990,499c0-135.7-47.9-249.5-143.7-345.3l0,0C750.5,57.9,634.7,10,499,10C365.3,10,249.5,57.9,153.7,153.7z M209.6,211.6l2-2C289.4,129.7,387.2,89.8,499,89.8c113.8,0,209.6,39.9,291.4,121.8c79.8,77.8,119.8,175.6,119.8,287.4c0,113.8-39.9,209.6-119.8,291.4C708.6,870.3,612.8,910.2,499,910.2c-111.8,0-209.6-39.9-287.4-119.8C129.8,708.6,89.8,612.8,89.8,499C89.8,387.2,129.8,289.4,209.6,211.6z&quot;/&gt;&lt;path d=&quot;M293.4,331.3c0,12,4,22,12,29.9L443.1,497L305.4,632.7c-8,8-12,18-12,29.9c0,10,4,18,12,26c8,8,18,12,28,12c12,0,20-4,27.9-10L499,552.9l135.7,137.7c8,6,16,10,28,10c12,0,21.9-4,27.9-10c8-8,12-18,12-28c0-12-4-21.9-12-29.9L554.9,497l135.7-135.7c8-8,12-18,12-27.9c0-12-4-22-12-29.9c-6-8-16-12-25.9-12c-12,0-21.9,4-29.9,12L499,441.1L363.3,303.4c-8-8-18-12-29.9-12c-10,0-20,4-28,12C297.4,311.4,293.4,321.4,293.4,331.3z&quot;/&gt;&lt;/g&gt;&lt;/svg&gt;&lt;/span&gt;&lt;p&gt;They understand the importance of solving problems in real time.&lt;/p&gt;&lt;/div&gt;">
-																					<div class="pins_animation ihotspot_pulse" style="top:-15px;left:-15px;height:30px;width:30px"></div>
-																					<img width="60" height="60" decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2060%2060'%3E%3C/svg%3E" class="pins_image ihotspot_hastooltop" style="top:-15px;left:-15px" data-lazy-src="{{url('frontend/rt-content/uploads/2018/09/m2.png')}}"><noscript><img width="60" height="60" decoding="async" src="{{url('frontend/rt-content/uploads/2018/09/m2.png')}}" class="pins_image ihotspot_hastooltop" style="top:-15px;left:-15px"></noscript>
-																					<img width="60" height="60" decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2060%2060'%3E%3C/svg%3E" class="pins_image_hover ihotspot_hastooltop" style="top:-15px;left:-15px" data-lazy-src="{{url('frontend/rt-content/uploads/2018/09/m2.png')}}"><noscript><img width="60" height="60" decoding="async" src="{{url('frontend/rt-content/uploads/2018/09/m2.png')}}" class="pins_image_hover ihotspot_hastooltop" style="top:-15px;left:-15px"></noscript>
-																				</div>
-																			</div>
-																			<div class="drag_element tips" style="top:20.99%;left:60.97%;">
-																				<div class="point_style has-hover ihotspot_tooltop_html" data-placement="n" data-html="&lt;div class=&quot;box_view_html&quot;&gt;&lt;span class=&quot;close_ihp&quot;&gt;&lt;svg version=&quot;1.1&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; xmlns:xlink=&quot;http://www.w3.org/1999/xlink&quot; x=&quot;0px&quot; y=&quot;0px&quot; viewBox=&quot;0 0 1000 1000&quot; enable-background=&quot;new 0 0 1000 1000&quot; xml:space=&quot;preserve&quot;&gt;&lt;g&gt;&lt;path d=&quot;M153.7,153.7C57.9,249.5,10,365.3,10,499c0,135.7,47.9,251.5,143.7,347.3l0,0C249.5,942.1,363.3,990,499,990c135.7,0,251.5-47.9,347.3-143.7C942.1,750.5,990,634.7,990,499c0-135.7-47.9-249.5-143.7-345.3l0,0C750.5,57.9,634.7,10,499,10C365.3,10,249.5,57.9,153.7,153.7z M209.6,211.6l2-2C289.4,129.7,387.2,89.8,499,89.8c113.8,0,209.6,39.9,291.4,121.8c79.8,77.8,119.8,175.6,119.8,287.4c0,113.8-39.9,209.6-119.8,291.4C708.6,870.3,612.8,910.2,499,910.2c-111.8,0-209.6-39.9-287.4-119.8C129.8,708.6,89.8,612.8,89.8,499C89.8,387.2,129.8,289.4,209.6,211.6z&quot;/&gt;&lt;path d=&quot;M293.4,331.3c0,12,4,22,12,29.9L443.1,497L305.4,632.7c-8,8-12,18-12,29.9c0,10,4,18,12,26c8,8,18,12,28,12c12,0,20-4,27.9-10L499,552.9l135.7,137.7c8,6,16,10,28,10c12,0,21.9-4,27.9-10c8-8,12-18,12-28c0-12-4-21.9-12-29.9L554.9,497l135.7-135.7c8-8,12-18,12-27.9c0-12-4-22-12-29.9c-6-8-16-12-25.9-12c-12,0-21.9,4-29.9,12L499,441.1L363.3,303.4c-8-8-18-12-29.9-12c-10,0-20,4-28,12C297.4,311.4,293.4,321.4,293.4,331.3z&quot;/&gt;&lt;/g&gt;&lt;/svg&gt;&lt;/span&gt;&lt;p&gt;They understand the importance of solving problems in real time.&lt;/p&gt;&lt;/div&gt;">
-																					<div class="pins_animation ihotspot_pulse" style="top:-15px;left:-15px;height:30px;width:30px"></div>
-																					<img width="60" height="60" decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2060%2060'%3E%3C/svg%3E" class="pins_image ihotspot_hastooltop" style="top:-15px;left:-15px" data-lazy-src="{{url('frontend/rt-content/uploads/2018/09/m4.png')}}"><noscript><img width="60" height="60" decoding="async" src="{{url('frontend/rt-content/uploads/2018/09/m4.png')}}" class="pins_image ihotspot_hastooltop" style="top:-15px;left:-15px"></noscript>
-																					<img width="60" height="60" decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2060%2060'%3E%3C/svg%3E" class="pins_image_hover ihotspot_hastooltop" style="top:-15px;left:-15px" data-lazy-src="{{url('frontend/rt-content/uploads/2018/09/m4.png')}}"><noscript><img width="60" height="60" decoding="async" src="{{url('frontend/rt-content/uploads/2018/09/m4.png')}}" class="pins_image_hover ihotspot_hastooltop" style="top:-15px;left:-15px"></noscript>
-																				</div>
-																			</div>
-																			<div class="drag_element tips" style="top:8.58%;left:78.49%;">
-																				<div class="point_style has-hover ihotspot_tooltop_html" data-placement="n" data-html="">
-																					<div class="pins_animation ihotspot_pulse" style="top:-15px;left:-15px;height:30px;width:30px"></div>
-																					<img decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" class="pins_image " style="top:-15px;left:-15px" data-lazy-src="{{url('frontend/rt-content/uploads/2018/09/004-user-1.svg')}}"><noscript><img decoding="async" src="{{url('frontend/rt-content/uploads/2018/09/004-user-1.svg')}}" class="pins_image " style="top:-15px;left:-15px"></noscript>
-																					<img decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" class="pins_image_hover " style="top:-15px;left:-15px" data-lazy-src="{{url('frontend/rt-content/uploads/2018/09/004-user-1-1.svg')}}"><noscript><img decoding="async" src="{{url('frontend/rt-content/uploads/2018/09/004-user-1-1.svg')}}" class="pins_image_hover " style="top:-15px;left:-15px"></noscript>
-																				</div>
-																			</div>
-																			<div class="drag_element tips " style="top:35.89%;left:81.08%;">
-																				<div class="point_style has-hover ihotspot_tooltop_html" data-placement="n" data-html="&lt;div class=&quot;box_view_html&quot;&gt;&lt;span class=&quot;close_ihp&quot;&gt;&lt;svg version=&quot;1.1&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; xmlns:xlink=&quot;http://www.w3.org/1999/xlink&quot; x=&quot;0px&quot; y=&quot;0px&quot; viewBox=&quot;0 0 1000 1000&quot; enable-background=&quot;new 0 0 1000 1000&quot; xml:space=&quot;preserve&quot;&gt;&lt;g&gt;&lt;path d=&quot;M153.7,153.7C57.9,249.5,10,365.3,10,499c0,135.7,47.9,251.5,143.7,347.3l0,0C249.5,942.1,363.3,990,499,990c135.7,0,251.5-47.9,347.3-143.7C942.1,750.5,990,634.7,990,499c0-135.7-47.9-249.5-143.7-345.3l0,0C750.5,57.9,634.7,10,499,10C365.3,10,249.5,57.9,153.7,153.7z M209.6,211.6l2-2C289.4,129.7,387.2,89.8,499,89.8c113.8,0,209.6,39.9,291.4,121.8c79.8,77.8,119.8,175.6,119.8,287.4c0,113.8-39.9,209.6-119.8,291.4C708.6,870.3,612.8,910.2,499,910.2c-111.8,0-209.6-39.9-287.4-119.8C129.8,708.6,89.8,612.8,89.8,499C89.8,387.2,129.8,289.4,209.6,211.6z&quot;/&gt;&lt;path d=&quot;M293.4,331.3c0,12,4,22,12,29.9L443.1,497L305.4,632.7c-8,8-12,18-12,29.9c0,10,4,18,12,26c8,8,18,12,28,12c12,0,20-4,27.9-10L499,552.9l135.7,137.7c8,6,16,10,28,10c12,0,21.9-4,27.9-10c8-8,12-18,12-28c0-12-4-21.9-12-29.9L554.9,497l135.7-135.7c8-8,12-18,12-27.9c0-12-4-22-12-29.9c-6-8-16-12-25.9-12c-12,0-21.9,4-29.9,12L499,441.1L363.3,303.4c-8-8-18-12-29.9-12c-10,0-20,4-28,12C297.4,311.4,293.4,321.4,293.4,331.3z&quot;/&gt;&lt;/g&gt;&lt;/svg&gt;&lt;/span&gt;&lt;p&gt;They understand the importance of solving problems in real time.&lt;/p&gt;&lt;/div&gt;">
-																					<div class="pins_animation ihotspot_pulse" style="top:-15px;left:-15px;height:30px;width:30px"> </div>
-																					<img decoding="async"src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"class="pins_image ihotspot_hastooltop"style="top:-15px;left:-15px"data-lazy-src="{{url('frontend/rt-content/uploads/2018/09/004-user-1.svg')}}"><noscript><imgdecoding="async"src="{{url('frontend/rt-content/uploads/2018/09/004-user-1.svg')}}"class="pins_image ihotspot_hastooltop"style="top:-15px;left:-15px"></noscript>
-																					<img decoding="async"src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"class="pins_image_hover ihotspot_hastooltop"style="top:-15px;left:-15px"data-lazy-src="{{url('frontend/rt-content/uploads/2018/09/004-user-1-1.svg')}}"><noscript><imgdecoding="async"src="{{url('frontend/rt-content/uploads/2018/09/004-user-1-1.svg')}}"class="pins_image_hover ihotspot_hastooltop"style="top:-15px;left:-15px"></noscript>
-																				</div>
-																			</div>
-																			<div class="drag_element tips "style="top:20.32%;left:96.00%;">
-																				<div class="point_style has-hover ihotspot_tooltop_html"data-placement="n"data-html="">
-																					<div class="pins_animation ihotspot_pulse"style="top:-15px;left:-15px;height:30px;width:30px"></div>
-																					<img decoding="async"src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"class="pins_image "style="top:-15px;left:-15px"data-lazy-src="{{url('frontend/rt-content/uploads/2018/09/004-user-1.svg')}}"><noscript><imgdecoding="async"src="{{url('frontend/rt-content/uploads/2018/09/004-user-1.svg')}}"class="pins_image "style="top:-15px;left:-15px"></noscript>
-																					<img decoding="async"src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"class="pins_image_hover "style="top:-15px;left:-15px"data-lazy-src="{{url('frontend/rt-content/uploads/2018/09/004-user-1-1.svg')}}"><noscript><imgdecoding="async"src="{{url('frontend/rt-content/uploads/2018/09/004-user-1-1.svg')}}"class="pins_image_hover "style="top:-15px;left:-15px"></noscript>
-																				</div>
-																			</div>
-																			<div class="drag_element tips "style="top:51.69%;left:62.38%;">
-																				<div class="point_style has-hover ihotspot_tooltop_html"data-placement="n"data-html="">
-																					<div class="pins_animation ihotspot_pulse"style="top:-15px;left:-15px;height:30px;width:30px"></div>
-																					<img decoding="async"src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"class="pins_image "style="top:-15px;left:-15px"data-lazy-src="{{url('frontend/rt-content/uploads/2018/09/004-user-1.svg')}}"><noscript><imgdecoding="async"src="{{url('frontend/rt-content/uploads/2018/09/004-user-1.svg')}}"class="pins_image "style="top:-15px;left:-15px"></noscript>
-																					<img decoding="async"src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"class="pins_image_hover "style="top:-15px;left:-15px"data-lazy-src="{{url('frontend/rt-content/uploads/2018/09/004-user-1-1.svg')}}"><noscript><imgdecoding="async"src="{{url('frontend/rt-content/uploads/2018/09/004-user-1-1.svg')}}"class="pins_image_hover "style="top:-15px;left:-15px"></noscript>
+																					<img width="60" height="60" decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2060%2060'%3E%3C/svg%3E" class="pins_image ihotspot_hastooltop" style="top:-15px;left:-15px" data-lazy-src="{{url('frontend/rt-content/uploads/2018/09/m3.png')}}">
+																					<noscript>
+																						<img width="60" height="60" decoding="async" src="{{url('frontend/rt-content/uploads/2018/09/m3.png')}}" class="pins_image ihotspot_hastooltop" style="top:-15px;left:-15px">
+																					</noscript>
+																					<img width="60" height="60" decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2060%2060'%3E%3C/svg%3E" class="pins_image_hover ihotspot_hastooltop" style="top:-15px;left:-15px" data-lazy-src="{{url('frontend/rt-content/uploads/2018/09/m3.png')}}">
+																					<noscript>
+																						<img width="60" height="60" decoding="async" src="{{url('frontend/rt-content/uploads/2018/09/m3.png')}}" class="pins_image_hover ihotspot_hastooltop" style="top:-15px;left:-15px">
+																					</noscript>
 																				</div>
 																			</div>
 																		</div>
@@ -1258,7 +1196,7 @@
 										</div>
 									</div>
 								</section>
-								<section class="vc_section fix-overflow wpb_animate_when_almost_visible wpb_fadeInUp fadeInUp vc_custom_1575619275268">
+								<section class="vc_section fix-overflow wpb_animate_when_almost_visible wpb_fadeInUp fadeInUp vc_custom_1575619275268" id="custom_customers">
 									<div class="vc_row wpb_row vc_row-fluid">
 										<div class="row-inner">
 											<div class="wpb_column vc_column_container vc_col-sm-2">
@@ -1299,7 +1237,7 @@
 																	<div class="testimonial-wrap">
 																		<div class="testimonial-content">
 																			<div class="testimonial-image">
-																				<img decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="John H. Bedard, Jr" data-lazy-src="wp-content/uploads/2018/09/j-c.svg" />
+																				<img decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="John H. Bedard, Jr" data-lazy-src="{{url('frontend/rt-content/uploads/2018/09/j-c.svg')}}" />
 																				<noscript>
 																					<img decoding="async" src="{{url('frontend/rt-content/uploads/2018/09/j-c.svg')}}" alt="John H. Bedard, Jr" />
 																				</noscript>

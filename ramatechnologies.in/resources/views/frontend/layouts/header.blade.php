@@ -3,7 +3,7 @@
 <head>
 	<meta charset="UTF-8" />
 	<meta content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" name="viewport">
-	<title>NanoSoft &#8211; Just another WordPress site</title>
+	<title>Rama Technologies</title>
 	<link rel="preload" as="style" href="https://fonts.googleapis.com/css?family=Rubik%3A300%2C300italic%2Cregular%2Citalic%2C500%2C500italic%2C700%2C700italic%2C900%2C900italic%7CPoppins%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2Cregular%2Citalic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto%3A400%2C100%7COpen%20Sans%3A400&amp;subset=latin-ext%2Chebrew%2Clatin%2Ccyrillic%2Cdevanagari&amp;display=swap" />
 	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Rubik%3A300%2C300italic%2Cregular%2Citalic%2C500%2C500italic%2C700%2C700italic%2C900%2C900italic%7CPoppins%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2Cregular%2Citalic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto%3A400%2C100%7COpen%20Sans%3A400&amp;subset=latin-ext%2Chebrew%2Clatin%2Ccyrillic%2Cdevanagari&amp;display=swap" media="print" onload="this.media='all'" />
 	<noscript>
@@ -413,7 +413,7 @@
 	</style>
 	<script type="text/javascript" src="{{url('frontend/rt-includes/js/jquery/jquery.minf43b.js?ver=3.7.1" id="jquery-core-js')}}"></script>
 	<script type="text/javascript" src="{{url('frontend/rt-includes/js/jquery/jquery-migrate.min5589.js?ver=3.4.1')}}" id="jquery-migrate-js"></script>
-	<script data-minify="1" type="text/javascript" src="{{url('frontend/rt-content/cache/min/1/nanosoft/wp-content/plugins/wp-video-lightbox/js/jquery.prettyPhoto7b33.js')}}?ver=1644830545" id="jquery.prettyphoto-js"></script>
+	<script data-minify="1" type="text/javascript" src="{{url('frontend/rt-content/cache/min/1/ramatechnologies/rt-content/plugins/wp-video-lightbox/js/jquery.prettyPhoto7b33.js')}}?ver=1644830545" id="jquery.prettyphoto-js"></script>
 	<script type="text/javascript" id="video-lightbox-js-extra">
 		var vlpp_vars = {
 			"prettyPhoto_rel": "wp-video-lightbox",
@@ -440,7 +440,7 @@
 			"ie6_fallback": "true"
 		};
 	</script>
-	<script data-minify="1" type="text/javascript" src="{{url('frontend/rt-content/cache/min/1/nanosoft/wp-content/plugins/wp-video-lightbox/js/video-lightbox7b33.js')}}?ver=1644830545" id="video-lightbox-js"></script>
+	<script data-minify="1" type="text/javascript" src="{{url('frontend/rt-content/cache/min/1/ramatechnologies/rt-content/plugins/wp-video-lightbox/js/video-lightbox7b33.js')}}?ver=1644830545" id="video-lightbox-js"></script>
 	<style type="text/css" id="custom_fonts">
 		@font-face {
 			font-family: Sailec-Bold;
@@ -463,6 +463,8 @@
 	<link rel="icon" href="{{url('frontend/rt-content/uploads/2018/10/cropped-favico-1-32x32.png')}}" sizes="32x32" />
 	<link rel="icon" href="{{url('frontend/rt-content/uploads/2018/10/cropped-favico-1-192x192.png')}}" sizes="192x192" />
 	<link rel="apple-touch-icon" href="{{url('frontend/rt-content/uploads/2018/10/cropped-favico-1-180x180.png')}}" />
+	<meta name="designer" content="Prem Sagar Shah" />
+	<meta meta name="author" content="Rama Technologies Prem Sagar Shah(developer)" />
 	<meta name="msapplication-TileImage" content="http://127.0.1:8000/frontend/rt-content/uploads/2018/10/cropped-favico-1-270x270.png" />
 	<script>
 		function setREVStartSize(e) {
@@ -2550,9 +2552,9 @@
 				<div class="header-content">
 					<div class="header-brand">
 						<a href="http://127.0.1:8000">
-							<img width="154" height="36" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20154%2036'%3E%3C/svg%3E" data-lazy-srcset="http://127.0.1:8000/frontend/rt-content/uploads/2018/10/logo.png 1x, http://127.0.1:8000/frontend/rt-content/uploads/2018/10/logo@2x.png 2x" alt="NanoSoft" class="logo logoDefault" data-lazy-src="http://127.0.1:8000/frontend/rt-content/uploads/2018/10/logo.png" />
+							<img width="154" height="36" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20154%2036'%3E%3C/svg%3E" data-lazy-srcset="http://127.0.1:8000/frontend/rt-content/uploads/2018/10/logo.png 1x, http://127.0.1:8000/frontend/rt-content/uploads/2018/10/logo@2x.png 2x" alt="RamaTechnologies" class="logo logoDefault" data-lazy-src="http://127.0.1:8000/frontend/rt-content/uploads/2018/10/logo.png" />
 							<noscript>
-								<img width="154" height="36" src="{{url('frontend/rt-content/uploads/2018/10/logo.png')}}" srcset="http://127.0.1:8000/frontend/rt-content/uploads/2018/10/logo.png 1x, http://127.0.1:8000/frontend/rt-content/uploads/2018/10/logo@2x.png 2x" alt="NanoSoft" class="logo logoDefault" />
+								<img width="154" height="36" src="{{url('frontend/rt-content/uploads/2018/10/logo.png')}}" srcset="http://127.0.1:8000/frontend/rt-content/uploads/2018/10/logo.png 1x, http://127.0.1:8000/frontend/rt-content/uploads/2018/10/logo@2x.png 2x" alt="RamaTechnologies" class="logo logoDefault" />
 							</noscript>
 						</a>
 					</div>
@@ -2703,9 +2705,9 @@
 				<div class="header-content"> 
 					<div class="header-brand">
 						<a href="http://127.0.1:8000">
-							<img width="154" height="36" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20154%2036'%3E%3C/svg%3E" data-lazy-srcset="http://127.0.1:8000/frontend/rt-content/uploads/2018/10/logo.png 1x, http://127.0.1:8000/frontend/rt-content/uploads/2018/10/logo@2x.png 2x" alt="NanoSoft" class="logo logoDefault" data-lazy-src="{{url('frontend/rt-content/uploads/2018/10/logo.png')}}" />
+							<img width="154" height="36" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20154%2036'%3E%3C/svg%3E" data-lazy-srcset="http://127.0.1:8000/frontend/rt-content/uploads/2018/10/logo.png 1x, http://127.0.1:8000/frontend/rt-content/uploads/2018/10/logo@2x.png 2x" alt="RamaTechnologies" class="logo logoDefault" data-lazy-src="{{url('frontend/rt-content/uploads/2018/10/logo.png')}}" />
 							<noscript>
-								<img width="154" height="36" src="{{url('frontend/rt-content/uploads/2018/10/logo.png')}}" srcset="http://127.0.1:8000/frontend/rt-content/uploads/2018/10/logo.png 1x,  http://127.0.1:8000/frontend/rt-content/uploads/2018/10/logo@2x.png 2x" alt="NanoSoft" class="logo logoDefault" />
+								<img width="154" height="36" src="{{url('frontend/rt-content/uploads/2018/10/logo.png')}}" srcset="http://127.0.1:8000/frontend/rt-content/uploads/2018/10/logo.png 1x,  http://127.0.1:8000/frontend/rt-content/uploads/2018/10/logo@2x.png 2x" alt="RamaTechnologies" class="logo logoDefault" />
 							</noscript>
 						</a>
 					</div>
